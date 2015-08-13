@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Chris System test and teach">
+  <meta name="author" content="Dmitry Aloyan">
+  
+  <title>Chris Test</title>
+  
+  <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" rel="stylesheet">
+  <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet">
+  <link href="/css/style.css" rel="stylesheet">
+  
+  <script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
+  <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/fabric.js/1.5.0/fabric.min.js"></script>
+  <script src="./widgets/widget.js"></script>
+  <script src="./js/widgets.js"></script>
+  
+  <script src="./widgets/light/light.js"></script>
+</head>
+<body>
+  <div id="left-sidebar" style="width: 300px; display: inline-block;">
+    <div id="widget-list-wrap" class="panel panel-default">
+      <div class="panel-heading">Виджеты</div>
+      <div class="panel-body" id="widget-list" style="overflow-y: scroll; height: 300px;">
+      </div>
+    </div>
+    <div id="prop-list-wrap" class="panel panel-default">
+      <div class="panel-heading">Параметры</div>
+      <div class="panel-body form-horizontal" id="prop-list">
+        <!-- PROPERTIES -->
+      </div>
+    </div>
+  </div>
+  <div id="worksheet" style="display: inline-block; vertical-align: top;">
+    <div id="toolbar">
+      <button class="btn btn-sm" onclick="widgets.saveWorksheet();"><span class="fa fa-save"></span></button>
+      <button class="btn btn-sm" onclick="widgets.toggleEditorMode();" id="editorModeBtn"><span class="fa fa-pause"></span></button>
+    </div>
+    <canvas id="worksheet-canvas"></canvas>
+    <video src="/123.webm" id="video1" autoplay="autoplay" loop="loop" style="display: none;"></video>
+  </div>
+</body>
+</html>

@@ -1,0 +1,14 @@
+HTML,BODY{
+  padding: 2px;
+}
+
+#left-sidebar .panel-body{ padding: 2px; }
+
+.widget-preview{
+  display: inline-block;
+  position: relative;
+}
+#widget-list .widget-wrapper{ overflow: hidden; }
+
+#toolbar{ padding: 5px; background: white; margin-bottom: 5px; }
+#worksheet{ background: url("/img/dashed-cross-dark.png") 0 0 repeat; }

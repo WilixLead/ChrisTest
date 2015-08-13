@@ -1,0 +1,2941 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Создано Microsoft Visio, экспорт SVG simplesvg.svg Page-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="33.1102in" height="23.3858in"
+		viewBox="0 0 2383.94 1683.78" xml:space="preserve" color-interpolation-filters="sRGB" class="st9">
+	<v:documentProperties v:langID="1049" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="VisAecDocument" v:val="VT0(1):26"/>
+			<v:ud v:nameU="VisAecVersion" v:val="VT0(15):26"/>
+			<v:ud v:nameU="Ifc__CustomPropsLevel" v:val="VT0(0):26"/>
+			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#7e7e7e}
+		.st2 {fill:#7e7e7e;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75;visibility:hidden}
+		.st3 {stroke:#686868;stroke-linecap:butt;stroke-width:1.25}
+		.st4 {fill:#ffffff;stroke:#ffffff;stroke-linecap:butt;stroke-width:1.25}
+		.st5 {stroke:#696969;stroke-linecap:butt;stroke-width:1.25}
+		.st6 {fill:#7e7e7e;stroke:#686868;stroke-linecap:butt;stroke-width:1.25}
+		.st7 {fill:#7e7e7e;stroke:#686868;stroke-linecap:butt;stroke-width:1.25;visibility:hidden}
+		.st8 {fill:#7e7e7e;stroke:#696969;stroke-linecap:butt;stroke-width:1.25}
+		.st9 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<v:custProps>
+			<v:cp v:nameU="VisDoorFrameWidth" v:lbl="Ширина дверной коробки" v:type="4"
+					v:format="10 mm;20 mm;30 mm;40 mm;50 mm;60 mm;70 mm;80 mm;90 mm;100 mm" v:sortKey="0" v:invis="true"
+					v:langID="1049" v:cal="0" v:val="VT4(50 mm)"/>
+			<v:cp v:nameU="VisDoorFrameDepth" v:lbl="Толщина дверной коробки" v:type="4"
+					v:format="Как у стены;100 mm;150 mm;200 mm;250 mm;300 mm" v:sortKey="0" v:invis="true" v:langID="1049"
+					v:cal="0" v:val="VT4(50 mm)"/>
+			<v:cp v:nameU="VisDoorStopWidth" v:lbl="Ширина ограничителя двери" v:type="4"
+					v:format="10 mm;20 mm;30 mm;40 mm;50 mm;60 mm;70 mm;80 mm;90 mm;100 mm" v:sortKey="0" v:invis="true"
+					v:langID="1049" v:cal="0" v:val="VT4(20 mm)"/>
+			<v:cp v:nameU="VisDoorStopDepth" v:lbl="Толщина ограничителя двери" v:type="4"
+					v:format="10 mm;20 mm;30 mm;40 mm;50 mm;60 mm;70 mm;80 mm;90 mm;100 mm" v:sortKey="0" v:invis="true"
+					v:langID="1049" v:cal="0" v:val="VT4(50 mm)"/>
+			<v:cp v:nameU="VisDoorThresDepthIn" v:lbl="Внутренняя ширина порога двери" v:type="4"
+					v:format="10 mm;20 mm;30 mm;40 mm;50 mm;60 mm;70 mm;80 mm;90 mm;100 mm" v:sortKey="0" v:invis="true"
+					v:langID="1049" v:cal="0" v:val="VT4(50 mm)"/>
+			<v:cp v:nameU="VisDoorThresWidthIn" v:lbl="Внутренняя толщина порога двери" v:type="4"
+					v:format="0 mm;10 mm;20 mm;30 mm;40 mm;50 mm;60 mm;70 mm;80 mm;90 mm;100 mm" v:sortKey="0" v:invis="true"
+					v:langID="1049" v:cal="0" v:val="VT4(50 mm)"/>
+			<v:cp v:nameU="VisDoorThresDepthOut" v:lbl="Наружная толщина порога двери" v:type="4"
+					v:format="0 mm;10 mm;20 mm;30 mm;40 mm;50 mm;60 mm;70 mm;80 mm;90 mm;100 mm" v:sortKey="0" v:invis="true"
+					v:langID="1049" v:cal="0" v:val="VT4(50 mm)"/>
+			<v:cp v:nameU="VisDoorThresWidthOut" v:lbl="Наружная ширина порога двери" v:type="4"
+					v:format="0 mm;10 mm;20 mm;30 mm;40 mm;50 mm;60 mm;70 mm;80 mm;90 mm;100 mm" v:sortKey="0" v:invis="true"
+					v:langID="1049" v:cal="0" v:val="VT4(50 mm)"/>
+			<v:cp v:nameU="VisDoorPanelThickness" v:lbl="Толщина филенки" v:type="4"
+					v:format="10 mm;20 mm;30 mm;40 mm;50 mm;60 mm;70 mm;80 mm;90 mm;100 mm" v:sortKey="0" v:invis="true"
+					v:langID="1049" v:cal="0" v:val="VT4(50 mm)"/>
+			<v:cp v:nameU="VisWndwFrameDepth" v:lbl="Толщина оконной рамы" v:type="4"
+					v:format="Как у стены;100 mm;150 mm;200 mm;250 mm;300 mm" v:sortKey="0" v:invis="true" v:langID="1049"
+					v:cal="0" v:val="VT4(200 mm)"/>
+			<v:cp v:nameU="VisWndwFrameWidth" v:lbl="Ширина оконной рамы" v:type="4"
+					v:format="10 mm;20 mm;30 mm;40 mm;50 mm;60 mm;70 mm;80 mm;90 mm;100 mm" v:sortKey="0" v:invis="true"
+					v:langID="1049" v:cal="0" v:val="VT4(50 mm)"/>
+			<v:cp v:nameU="VisWndwSashDepth" v:lbl="Толщина оконного переплета" v:type="4"
+					v:format="10 mm;20 mm;30 mm;40 mm;50 mm;60 mm;70 mm;80 mm;90 mm;100 mm" v:sortKey="0" v:invis="true"
+					v:langID="1049" v:cal="0" v:val="VT4(50 mm)"/>
+			<v:cp v:nameU="VisWndwSashWidth" v:lbl="Ширина оконного переплета" v:type="4"
+					v:format="5 mm;10 mm;20 mm;30 mm;40 mm;50 mm;60 mm;70 mm;80 mm;90 mm;100 mm" v:sortKey="0" v:invis="true"
+					v:langID="1049" v:cal="0" v:val="VT4(50 mm)"/>
+			<v:cp v:nameU="VisWndwSillDepthIn" v:lbl="Внутренняя толщина подоконника" v:type="4"
+					v:format="0 mm;10 mm;20 mm;30 mm;40 mm;50 mm;60 mm;70 mm;80 mm;90 mm;100 mm" v:sortKey="0" v:invis="true"
+					v:langID="1049" v:cal="0" v:val="VT4(50 mm)"/>
+			<v:cp v:nameU="VisWndwSillWidthIn" v:lbl="Внутренняя ширина подоконника" v:type="4"
+					v:format="0 mm;10 mm;20 mm;30 mm;40 mm;50 mm;60 mm;70 mm;80 mm;90 mm;100 mm" v:sortKey="0" v:invis="true"
+					v:langID="1049" v:cal="0" v:val="VT4(50 mm)"/>
+			<v:cp v:nameU="VisWndwSillDepthOut" v:lbl="Наружная толщина подоконника" v:type="4"
+					v:format="0 mm;10 mm;20 mm;30 mm;40 mm;50 mm;60 mm;70 mm;80 mm;90 mm;100 mm" v:sortKey="0" v:invis="true"
+					v:langID="1049" v:cal="0" v:val="VT4(50 mm)"/>
+			<v:cp v:nameU="VisWndwSillWidthOut" v:lbl="Наружная ширина подоконника" v:type="4"
+					v:format="0 mm;10 mm;20 mm;30 mm;40 mm;50 mm;60 mm;70 mm;80 mm;90 mm;100 mm" v:sortKey="0" v:invis="true"
+					v:langID="1049" v:cal="0" v:val="VT4(50 mm)"/>
+			<v:cp v:nameU="WdFenceThick" v:lbl="Толщина деревянного забора" v:type="4" v:format="100 mm;125 mm"
+					v:sortKey="visSpace02" v:langID="1049" v:val="VT0(3.9370078740157):24"/>
+			<v:cp v:nameU="WoodPostShape" v:lbl="Тип деревянного столба" v:type="1" v:format="Квадрат;Круг" v:sortKey="visSpace02"
+					v:langID="1049" v:val="VT4(Круг)"/>
+			<v:cp v:nameU="WoodPostSize" v:lbl="Размер деревянного столба" v:type="4" v:format="100 mm;125 mm"
+					v:sortKey="visSpace03" v:langID="1049" v:val="VT0(4.9212598425197):24"/>
+			<v:cp v:nameU="MasFenceThick" v:lbl="Толщина кирпичного забора" v:type="4" v:format="250 mm;300 mm"
+					v:sortKey="visSpace04" v:langID="1049" v:val="VT0(9.8425196850394):24"/>
+			<v:cp v:nameU="StoneFenceThick" v:lbl="Толщина каменного забора" v:type="0" v:format="" v:sortKey="visSpace07"
+					v:langID="1049" v:val="VT0(39.370078740157):24"/>
+			<v:cp v:nameU="MasPostShape" v:lbl="Тип кирпичного столба" v:type="1" v:format="Квадрат;Круг" v:sortKey="visSpace05"
+					v:langID="1049" v:val="VT4(Квадрат)"/>
+			<v:cp v:nameU="MasPostSize" v:lbl="Размер кирпичного столба" v:type="4" v:format="250 mm;350 mm" v:sortKey="visSpace06"
+					v:langID="1049" v:val="VT0(13.779527559055):24"/>
+			<v:cp v:nameU="CLFenceThick" v:lbl="Толщина сетчатого забора" v:type="4" v:format="10 mm;15 mm;25 mm;50 mm"
+					v:sortKey="visSpace08" v:langID="1049" v:val="VT0(0.39370078740157):24"/>
+			<v:cp v:nameU="MetalPostShape" v:lbl="Тип металлического столба" v:type="1" v:format="Квадрат;Круг"
+					v:sortKey="visSpace09" v:langID="1049" v:val="VT4(Круг)"/>
+			<v:cp v:nameU="MetalPostSize" v:lbl="Размер металлического столба" v:type="4" v:format="10 mm;15 mm;25 mm;50 mm"
+					v:sortKey="visSpace10" v:langID="1049" v:val="VT0(1.9685039370079):24"/>
+		</v:custProps>
+		<v:userDefs>
+			<v:ud v:nameU="VisAecPage" v:val="VT0(1):26"/>
+			<v:ud v:nameU="LineStyleIndex" v:val="VT0(0):26"/>
+			<v:ud v:nameU="VisDoorPanelsClosed" v:prompt="Show all doors closed" v:val="VT0(0):26"/>
+			<v:ud v:nameU="VisDoorShowHeader" v:prompt="Show all door headers" v:val="VT0(0):26"/>
+			<v:ud v:nameU="VisDoorShowPanel" v:prompt="Show all door panels" v:val="VT0(1):26"/>
+			<v:ud v:nameU="VisDoorShowSwing" v:prompt="Show all door swings" v:val="VT0(1):26"/>
+			<v:ud v:nameU="VisDoorShowThreshold" v:prompt="Show all door thresholds" v:val="VT0(0):26"/>
+			<v:ud v:nameU="VisDoorShowThresIn" v:prompt="Show all door interior thresholds" v:val="VT0(1):26"/>
+			<v:ud v:nameU="VisDoorShowThresOut" v:prompt="Show all door exterior thresholds" v:val="VT0(1):26"/>
+			<v:ud v:nameU="VisDoorFrameToWall" v:prompt="Draw door frame depths same as wall thickness" v:val="VT0(1):26"/>
+			<v:ud v:nameU="VisDoorSwingAs" v:prompt="Draw all door swings as: 0 = arc, 1 = line" v:val="VT0(0):26"/>
+			<v:ud v:nameU="VisDoorShowFrame" v:prompt="Show all door frames" v:val="VT0(1):26"/>
+			<v:ud v:nameU="VisDoorShowStop" v:prompt="Show all door stops" v:val="VT0(1):26"/>
+			<v:ud v:nameU="VisWndwShowFrame" v:prompt="Show all window frames" v:val="VT0(1):26"/>
+			<v:ud v:nameU="VisWndwShowSash" v:prompt="Show all window sashes" v:val="VT0(1):26"/>
+			<v:ud v:nameU="VisWndwFrameToWall" v:prompt="Draw window frame depths same as wall thickness" v:val="VT0(1):26"/>
+			<v:ud v:nameU="VisWndwShowHeader" v:prompt="Show all window headers" v:val="VT0(0):26"/>
+			<v:ud v:nameU="VisWndwShowSill" v:prompt="Show all window sills" v:val="VT0(0):26"/>
+			<v:ud v:nameU="VisWndwShowSillIn" v:prompt="Show all window interior sills" v:val="VT0(1):26"/>
+			<v:ud v:nameU="VisWndwShowSillOut" v:prompt="Show all window exterior sills" v:val="VT0(1):26"/>
+			<v:ud v:nameU="visSpaceUnits" v:val="VT0(1):26"/>
+			<v:ud v:nameU="visSpacePrecision" v:val="VT0(0):26"/>
+			<v:ud v:nameU="visSpaceLabel" v:val="VT0(1):26"/>
+			<v:ud v:nameU="visSpaceNameLabel" v:val="VT0(1):26"/>
+			<v:ud v:nameU="visSpaceUseLabel" v:val="VT0(1):26"/>
+			<v:ud v:nameU="visSpaceBoundary" v:val="VT0(0):26"/>
+			<v:ud v:nameU="SpaceLabelDisabled" v:prompt="Disabled Label" v:val="VT4()"/>
+			<v:ud v:nameU="DisplayField1" v:prompt="Space label 1" v:val="VT4(Prop.Use)"/>
+			<v:ud v:nameU="DisplayField2" v:prompt="Space label 2" v:val="VT4(Prop.Name)"/>
+			<v:ud v:nameU="DisplayField3" v:prompt="Space label 3" v:val="VT4(User.visFMAreaDisplay)"/>
+			<v:ud v:nameU="DisplayField4" v:prompt="Space label 4" v:val="VT4(User.DisplayFieldDisabled)"/>
+			<v:ud v:nameU="IFCPropsInvisible" v:val="VT0(0):26"/>
+			<v:ud v:nameU="LPrec" v:val="VT0(2):26"/>
+			<v:ud v:nameU="LUnits" v:val="VT0(0):26"/>
+			<v:ud v:nameU="ShowUnits" v:val="VT0(0):26"/>
+			<v:ud v:nameU="APrec" v:val="VT0(1):26"/>
+			<v:ud v:nameU="AUnits" v:val="VT0(1):26"/>
+			<v:ud v:nameU="WFThick" v:val="VT0(3.9370078740157):24"/>
+			<v:ud v:nameU="CLThick" v:val="VT0(0.39370078740157):24"/>
+			<v:ud v:nameU="LInchPrec" v:val="VT0(4):26"/>
+			<v:ud v:nameU="VisWndwClosed" v:prompt="Show all windows closed" v:val="VT0(0):26"/>
+			<v:ud v:nameU="VisWndwShowGlass" v:prompt="Show all window glass panels" v:val="VT0(1):26"/>
+			<v:ud v:nameU="VisWndwShowTag" v:prompt="Show all window tags" v:val="VT0(0):26"/>
+			<v:ud v:nameU="VisDoorShowTag" v:prompt="Show all door tags" v:val="VT0(0):26"/>
+			<v:ud v:nameU="msvThemeOrder" v:val="VT0(0):26"/>
+		</v:userDefs>
+		<title>Страница-1</title>
+		<v:pageProperties v:drawingScale="39.3701" v:pageScale="0.787402" v:drawingUnits="6" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="Очертание по наружным габаритам здания" v:index="0"/>
+		<v:layer v:name="Стена" v:index="1"/>
+		<v:layer v:name="Дверь" v:index="2"/>
+		<v:layer v:name="Окно" v:index="3"/>
+		<g id="group1-1" transform="translate(283.465,-807.874)" v:mID="1" v:groupContext="group" v:layerMember="0;1">
+			<v:custProps>
+				<v:cp v:nameU="Width" v:lbl="Ширина" v:type="2" v:format="#.#### u" v:langID="1049" v:val="VT0(118.11023622047):21"/>
+				<v:cp v:nameU="Length" v:lbl="Длина" v:type="2" v:format="#.#### u" v:langID="1049" v:val="VT0(98.425196850394):21"/>
+				<v:cp v:nameU="ShapeClass" v:lbl="Класс фигуры" v:invis="true" v:langID="1049" v:val="VT4(Компонент здания)"/>
+				<v:cp v:nameU="ShapeType" v:lbl="Тип фигуры" v:invis="true" v:langID="1049" v:val="VT4(Комната)"/>
+				<v:cp v:nameU="SubShapeType" v:lbl="Тип вложенной фигуры" v:invis="true" v:langID="1049" v:val="VT4()"/>
+				<v:cp v:nameU="Width" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="0" v:cal="0" v:val="VT0(590.55118110236):1"/>
+				<v:cp v:nameU="Length" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="0" v:cal="0" v:val="VT0(492.12598425197):1"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="LastWidth" v:val="VT0(118.11023622047):21"/>
+				<v:ud v:nameU="LastLength" v:val="VT0(98.425196850394):21"/>
+				<v:ud v:nameU="WatchWidth" v:val="VT0(0):26"/>
+				<v:ud v:nameU="WatchLength" v:val="VT0(0):26"/>
+				<v:ud v:nameU="WatchWidthProp" v:val="VT0(0):26"/>
+				<v:ud v:nameU="WatchLengthProp" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visObjectType" v:val="VT0(110):26"/>
+				<v:ud v:nameU="visBESelected" v:val="VT0(0):5"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="SolSH" v:val="VT4({5D50005D-537C-4738-9C46-130C74335A6D})"/>
+				<v:ud v:nameU="ShapeClass" v:prompt="Компонент здания" v:val="VT0(3):26"/>
+				<v:ud v:nameU="ShapeType" v:prompt="Комната" v:val="VT0(47):26"/>
+				<v:ud v:nameU="SubShapeType" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="AntiScale" v:val="VT0(100):26"/>
+				<v:ud v:nameU="HasText" v:val="VT0(0):5"/>
+				<v:ud v:nameU="LastWidth" v:prompt="" v:val="VT0(590.55118110236):1"/>
+				<v:ud v:nameU="LastLength" v:prompt="" v:val="VT0(492.12598425197):27"/>
+				<v:ud v:nameU="visBESelected" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="AntiScale" v:prompt="" v:val="VT0(50):26"/>
+			</v:userDefs>
+			<title>Комната</title>
+			<g id="group2-2" transform="translate(1.55524E-012,-708.661)" v:mID="2" v:groupContext="group" v:layerMember="0;1">
+				<v:custProps>
+					<v:cp v:nameU="T" v:lbl="Толщина стены" v:type="4" v:format="50 mm;100 mm;150 mm;200 mm;250 mm;300 mm;150 mm."
+							v:sortKey="visWall02" v:invis="false" v:langID="1049" v:val="VT0(5.9055118110236):24"/>
+					<v:cp v:nameU="RefLn" v:lbl="Смещение относительно опорной линии" v:type="4"
+							v:format="-150 mm;-125 mm;-100 mm;-75 mm;-50 mm;-25 mm;0 mm;25 mm;50 mm;75 mm;100 mm;125 mm;150 mm"
+							v:sortKey="visWall07" v:invis="true" v:langID="1049" v:val="VT0(0):24"/>
+					<v:cp v:nameU="Material" v:type="0" v:invis="true" v:langID="1049"/>
+					<v:cp v:nameU="VisWallHeight" v:lbl="Высота стены" v:type="4"
+							v:format="2 m;2.1 m;2.2 m;2.3 m;2.4 m;2.5 m;2.6 m;2.7 m;2.8 m;2.9 m;3 m;2.6 m." v:sortKey="visWall03"
+							v:invis="false" v:langID="1049" v:val="VT0(102.36220472441):21"/>
+					<v:cp v:nameU="VisWallLength" v:lbl="Длина стены" v:type="4" v:format="1 m;2 m;3 m;4 m;5 m;6 m;7 m;8 m;3 m."
+							v:sortKey="visWall01" v:invis="false" v:langID="1049" v:val="VT0(118.11023622047):21"/>
+					<v:cp v:nameU="visWallJustify" v:lbl="Выравнивание стены" v:type="1" v:format="По центру;По краю;Другое"
+							v:sortKey="visWall04" v:invis="false" v:langID="1049" v:val="VT4(По краю)"/>
+					<v:cp v:nameU="visWallSegment" v:lbl="Сегмент стены" v:type="1" v:format="Кривой;Прямой" v:sortKey="visWall05"
+							v:invis="false" v:langID="1049" v:val="VT4(Прямой)"/>
+					<v:cp v:nameU="Radius" v:lbl="Радиус стены" v:type="4" v:format="3 m;4 m;5 m;6 m;7 m;8 m;4 m."
+							v:sortKey="visWall06" v:invis="true" v:langID="1049" v:val="VT0(118.11023622047):21"/>
+					<v:cp v:nameU="ShapeClass" v:lbl="Класс фигуры" v:type="0" v:invis="true" v:langID="1049"
+							v:val="VT4(Компонент здания)"/>
+					<v:cp v:nameU="ShapeType" v:lbl="Тип фигуры" v:type="0" v:invis="true" v:langID="1049" v:val="VT4(Стена)"/>
+					<v:cp v:nameU="SubShapeType" v:lbl="Тип вложенной фигуры" v:type="0" v:invis="true" v:langID="1049"
+							v:val="VT4()"/>
+					<v:cp v:nameU="FireRating" v:lbl="Степень пожарной опасности" v:type="0" v:sortKey="visWall15" v:invis="false"
+							v:langID="1049"/>
+					<v:cp v:nameU="BaseElevation" v:lbl="Базовая высота" v:type="2" v:sortKey="visWall09" v:invis="false"
+							v:langID="1049" v:val="VT0(0):24"/>
+					<v:cp v:nameU="VisWallLength" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+							v:ask="false" v:langID="0" v:cal="0" v:val="VT0(590.55118110236):1"/>
+					<v:cp v:nameU="Radius" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+							v:langID="0" v:cal="0" v:val="VT0(157.48031496063):21"/>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud v:nameU="LX1"/>
+					<v:ud v:nameU="LY1"/>
+					<v:ud v:nameU="RX1" v:val="VT0(2.2737367544323E-013):21"/>
+					<v:ud v:nameU="RY1" v:val="VT0(98.425196850394):21"/>
+					<v:ud v:nameU="A1" v:val="VT0(1.5707963267949):32"/>
+					<v:ud v:nameU="T1" v:val="VT0(5.9055118110236):24"/>
+					<v:ud v:nameU="RefLn1" v:val="VT0(0):26"/>
+					<v:ud v:nameU="Mtrl1" v:prompt="0=Unknown, 1=Wall" v:val="VT0(1):26"/>
+					<v:ud v:nameU="JointType1" v:prompt="5.7752913562581E-15M." v:val="VT0(1):26"/>
+					<v:ud v:nameU="1" v:prompt="---------------------------------" v:val="VT4(---------------------------------)"/>
+					<v:ud v:nameU="RelA1" v:val="VT0(1.5707963267949):32"/>
+					<v:ud v:nameU="EndsDontMeet1" v:prompt="Within radius of User.Fuzz" v:val="VT0(0):5"/>
+					<v:ud v:nameU="ShapeGone1" v:val="VT0(0):5"/>
+					<v:ud v:nameU="AngTooSharp1"/>
+					<v:ud v:nameU="AngTooBlunt1" v:val="VT0(0):26"/>
+					<v:ud v:nameU="EndNotOnLine1" v:prompt="Within distance User.Fuzz of being on line." v:val="VT0(0):5"/>
+					<v:ud v:nameU="DiffMtrls1" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="CornerClose1" v:val="VT0(0):5"/>
+					<v:ud v:nameU="TClose1" v:val="VT0(0):26"/>
+					<v:ud v:nameU="11" v:prompt="---------------------------------" v:val="VT4(---------------------------------)"/>
+					<v:ud v:nameU="Closed1" v:val="VT0(0):5"/>
+					<v:ud v:nameU="Corner1" v:val="VT0(1):5"/>
+					<v:ud v:nameU="TJointOpen1" v:val="VT0(0):5"/>
+					<v:ud v:nameU="TJointClosed1" v:val="VT0(0):5"/>
+					<v:ud v:nameU="_" v:prompt="=================" v:val="VT4(=================)"/>
+					<v:ud v:nameU="LX2" v:val="VT0(118.11023622047):21"/>
+					<v:ud v:nameU="LY2" v:val="VT0(98.425196850394):21"/>
+					<v:ud v:nameU="RX2"/>
+					<v:ud v:nameU="RY2"/>
+					<v:ud v:nameU="A2" v:val="VT0(-1.5707963267949):32"/>
+					<v:ud v:nameU="T2" v:val="VT0(5.9055118110236):24"/>
+					<v:ud v:nameU="RefLn2" v:val="VT0(0):26"/>
+					<v:ud v:nameU="Mtrl2" v:prompt="0=Unknown, 1=Wall" v:val="VT0(1):26"/>
+					<v:ud v:nameU="JointType2" v:prompt="3M." v:val="VT0(1):26"/>
+					<v:ud v:nameU="2" v:prompt="---------------------------------" v:val="VT4(---------------------------------)"/>
+					<v:ud v:nameU="RelA2" v:val="VT0(4.7123889803847):32"/>
+					<v:ud v:nameU="EndsDontMeet2" v:prompt="Within radius of User.Fuzz" v:val="VT0(0):5"/>
+					<v:ud v:nameU="ShapeGone2" v:val="VT0(0):5"/>
+					<v:ud v:nameU="AngTooSharp2"/>
+					<v:ud v:nameU="AngTooBlunt2" v:val="VT0(0):26"/>
+					<v:ud v:nameU="EndNotOnLine2" v:prompt="Within distance User.Fuzz of being on line." v:val="VT0(0):5"/>
+					<v:ud v:nameU="DiffMtrls2" v:val="VT0(0):5"/>
+					<v:ud v:nameU="CornerClose2" v:val="VT0(0):5"/>
+					<v:ud v:nameU="TClose2" v:val="VT0(0):26"/>
+					<v:ud v:nameU="22" v:prompt="---------------------------------" v:val="VT4(---------------------------------)"/>
+					<v:ud v:nameU="Closed2" v:val="VT0(0):5"/>
+					<v:ud v:nameU="Corner2" v:val="VT0(1):5"/>
+					<v:ud v:nameU="TJointOpen2" v:val="VT0(0):5"/>
+					<v:ud v:nameU="TJointClosed2" v:val="VT0(0):5"/>
+					<v:ud v:nameU="__" v:prompt="=================" v:val="VT4(=================)"/>
+					<v:ud v:nameU="Fuzz" v:val="VT0(0.19685039370079):24"/>
+					<v:ud v:nameU="LineStyleIndex" v:val="VT0(0):26"/>
+					<v:ud v:nameU="WallShape" v:prompt="Shape Identifier"/>
+					<v:ud v:nameU="OverLayT" v:val="VT0(0.59055118110236):24"/>
+					<v:ud v:nameU="3D_type" v:val="VT0(2):26"/>
+					<v:ud v:nameU="3D_offset" v:val="VT0(0):26"/>
+					<v:ud v:nameU="3D_extrude_length" v:val="VT0(102.36220472441):21"/>
+					<v:ud v:nameU="Is_arc" v:val="VT0(0):5"/>
+					<v:ud v:nameU="2D_length_check" v:val="VT0(118.11023622047):21"/>
+					<v:ud v:nameU="visWallPriority" v:val="VT0(50):26"/>
+					<v:ud v:nameU="visObjectType" v:prompt="Wall" v:val="VT0(101):26"/>
+					<v:ud v:nameU="visBESelected" v:val="VT0(0):5"/>
+					<v:ud v:nameU="CleanupBegin" v:val="VT0(98.425196850394):21"/>
+					<v:ud v:nameU="CleanupEnd" v:val="VT0(216.53543307087):21"/>
+					<v:ud v:nameU="PreviousWidth" v:val="VT0(118.11023622047):21"/>
+					<v:ud v:nameU="RefLn" v:val="VT0(0):26"/>
+					<v:ud v:nameU="CurveSwitch" v:val="VT0(1):26"/>
+					<v:ud v:nameU="ControlsY1" v:val="VT0(0):26"/>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+					<v:ud v:nameU="SolSH" v:val="VT4({5D50005D-537C-4738-9C46-130C74335A6D})"/>
+					<v:ud v:nameU="ShapeClass" v:prompt="Компонент здания" v:val="VT0(3):26"/>
+					<v:ud v:nameU="ShapeType" v:prompt="Стена" v:val="VT0(44):26"/>
+					<v:ud v:nameU="SubShapeType" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="CurveLookup" v:val="VT0(1):26"/>
+					<v:ud v:nameU="AntiScale" v:val="VT0(100):26"/>
+					<v:ud v:nameU="HasText" v:val="VT0(0):5"/>
+					<v:ud v:nameU="RX1" v:prompt="" v:val="VT0(2.652692880171E-013):1"/>
+					<v:ud v:nameU="RY1" v:prompt="" v:val="VT0(492.12598425197):1"/>
+					<v:ud v:nameU="JointType1" v:prompt="6,7378399156344E-12ММ" v:val="VT0(0):26"/>
+					<v:ud v:nameU="LX2" v:prompt="" v:val="VT0(590.55118110236):1"/>
+					<v:ud v:nameU="LY2" v:prompt="" v:val="VT0(492.12598425197):1"/>
+					<v:ud v:nameU="JointType2" v:prompt="15000ММ" v:val="VT0(0):26"/>
+					<v:ud v:nameU="visBESelected" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="CleanupBegin" v:prompt="" v:val="VT0(492.12598425197):1"/>
+					<v:ud v:nameU="CleanupEnd" v:prompt="" v:val="VT0(1082.6771653543):1"/>
+					<v:ud v:nameU="PreviousWidth" v:prompt="" v:val="VT0(590.55118110236):26"/>
+					<v:ud v:nameU="AntiScale" v:prompt="" v:val="VT0(50):26"/>
+				</v:userDefs>
+				<title>Лист.2</title>
+				<g id="shape3-3" v:mID="3" v:groupContext="shape" v:layerMember="0;1">
+					<title>Лист.3</title>
+					<v:userDefs>
+						<v:ud v:nameU="WallFill" v:prompt="Shape Identifier"/>
+					</v:userDefs>
+					<path d="M-8.5 1675.28 L858.9 1675.28 L850.39 1683.78 L0 1683.78 L-8.5 1675.28 Z" class="st1"/>
+				</g>
+				<g id="shape4-6" v:mID="4" v:groupContext="shape" v:layerMember="0;1"
+						transform="translate(-1190.61,2874.39) rotate(-135)">
+					<title>Лист.4</title>
+					<v:userDefs>
+						<v:ud v:nameU="WallCap" v:prompt="Shape Identifier"/>
+					</v:userDefs>
+					<rect x="0" y="1682.93" width="12.0264" height="0.850394" class="st2"/>
+				</g>
+				<g id="shape5-8" v:mID="5" v:groupContext="shape" v:layerMember="0;1"
+						transform="translate(2049.51,2865.89) rotate(135)">
+					<title>Лист.5</title>
+					<v:userDefs>
+						<v:ud v:nameU="WallCap" v:prompt="Shape Identifier"/>
+					</v:userDefs>
+					<rect x="0" y="1682.93" width="12.0264" height="0.850394" class="st2"/>
+				</g>
+				<g id="shape6-10" v:mID="6" v:groupContext="shape" v:layerMember="0;1">
+					<title>Лист.6</title>
+					<v:userDefs>
+						<v:ud v:nameU="WallRefLine" v:prompt="Shape Identifier"/>
+					</v:userDefs>
+				</g>
+				<g id="shape7-12" v:mID="7" v:groupContext="shape" v:layerMember="0;1">
+					<title>Лист.7</title>
+					<v:userDefs>
+						<v:ud v:nameU="WallCompGeom1" v:prompt="Shape Identifier" v:val="VT0(-0.66693806165226):26"/>
+					</v:userDefs>
+					<path d="M-8.5 1675.28 L858.9 1675.28" class="st3"/>
+					<path d="M0 1683.78 L850.39 1683.78" class="st3"/>
+				</g>
+				<g id="shape8-16" v:mID="8" v:groupContext="shape" v:layerMember="0;1" transform="translate(383.336,-8.50394)">
+					<title>Лист.8</title>
+					<v:custProps>
+						<v:cp v:nameU="LPrec" v:lbl="Точность" v:type="1" v:format="0;0.0;0.00;0.000;0.0000" v:sortKey="2"
+								v:invis="false" v:langID="1049" v:val="VT4(0)"/>
+						<v:cp v:nameU="LUnits" v:lbl="Единицы" v:type="1"
+								v:format=" Использовать единицы страницы документа;.Футы-дюймы (1&#39;-0&#34;);.Футы (1,00&#39;);.Дюймы;.Футы (1,00 фт);.Мили;-Миллиметры;-Сантиметры;-Метры;-Километры"
+								v:sortKey="1" v:invis="false" v:langID="1049" v:val="VT4( Использовать единицы страницы документа)"/>
+						<v:cp v:nameU="ShowUnits" v:lbl="Вывод единиц" v:type="1"
+								v:format="Не показывать единицы;Показывать единицы" v:sortKey="4" v:invis="false" v:langID="1049"
+								v:val="VT4(Показывать единицы)"/>
+						<v:cp v:nameU="LInchPrec" v:lbl="Точность" v:type="1"
+								v:format="    1 in.; 1/2 in.; 1/4 in.; 1/8 in.;1/16 in." v:sortKey="3" v:invis="true"
+								v:langID="1049" v:val="VT4(1/16 in.)"/>
+						<v:cp v:nameU="LPrec" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+								v:ask="false" v:langID="0" v:cal="0" v:val="VT4(0.00)"/>
+						<v:cp v:nameU="ShowUnits" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+								v:ask="false" v:langID="0" v:cal="0" v:val="VT4(Не показывать единицы)"/>
+					</v:custProps>
+					<v:userDefs>
+						<v:ud v:nameU="Hide" v:val="VT0(1):5"/>
+						<v:ud v:nameU="LUnitsFactor" v:val="VT0(0):21"/>
+						<v:ud v:nameU="FormatString" v:val="VT4(0u)"/>
+						<v:ud v:nameU="LengthText" v:val="VT4(3м)"/>
+						<v:ud v:nameU="Length" v:val="VT0(118.11023622047):21"/>
+						<v:ud v:nameU="LPFString" v:prompt="Linear Precision Formatting String" v:val="VT4(0)"/>
+						<v:ud v:nameU="LPrec" v:val="VT0(0):26"/>
+						<v:ud v:nameU="LPrecInd" v:val="VT0(0):26"/>
+						<v:ud v:nameU="LPrecVal" v:val="VT4(0)"/>
+						<v:ud v:nameU="LUnits" v:val="VT0(0):26"/>
+						<v:ud v:nameU="LUnitsInd" v:prompt="0=Dwg, 1=Arch, 2=Dec Ft, 3+ = other" v:val="VT0(0):26"/>
+						<v:ud v:nameU="LUnitsVal" v:val="VT4( Использовать единицы страницы документа)"/>
+						<v:ud v:nameU="ShowUnits" v:val="VT0(1):26"/>
+						<v:ud v:nameU="ShowUnitsInd" v:val="VT0(1):26"/>
+						<v:ud v:nameU="ShowUnitsVal" v:val="VT4(Показывать единицы)"/>
+						<v:ud v:nameU="FeetInch" v:val="VT0(0):26"/>
+						<v:ud v:nameU="Feet" v:val="VT0(0):26"/>
+						<v:ud v:nameU="Inch" v:val="VT0(0):26"/>
+						<v:ud v:nameU="InchPrec" v:val="VT0(16):26"/>
+						<v:ud v:nameU="WatchLength" v:val="VT0(118.11023622047):21"/>
+						<v:ud v:nameU="DrawingUnitFactor" v:val="VT0(0):21"/>
+						<v:ud v:nameU="HideArrow" v:val="VT0(0):5"/>
+						<v:ud v:nameU="LInchPrecInd" v:val="VT0(4):26"/>
+						<v:ud v:nameU="DirArrowSize" v:val="VT0(10.668166666667):1"/>
+						<v:ud v:nameU="DirArrowOffset" v:val="VT0(19.378970703675):1"/>
+						<v:ud v:nameU="LInchPrec" v:val="VT0(4):26"/>
+						<v:ud v:nameU="LInchPrecVal" v:val="VT4(1/16 in.)"/>
+						<v:ud v:nameU="LUnitsFactor" v:prompt="" v:val="VT0(0):24"/>
+						<v:ud v:nameU="FormatString" v:prompt="" v:val="VT4(0.00)"/>
+						<v:ud v:nameU="LengthText" v:prompt="" v:val="VT4(15000,00)"/>
+						<v:ud v:nameU="Length" v:prompt="" v:val="VT0(590.55118110236):24"/>
+						<v:ud v:nameU="LPFString" v:prompt="" v:val="VT4(0.00)"/>
+						<v:ud v:nameU="LPrec" v:prompt="" v:val="VT0(2):26"/>
+						<v:ud v:nameU="LPrecInd" v:prompt="" v:val="VT0(2):26"/>
+						<v:ud v:nameU="LPrecVal" v:prompt="" v:val="VT4(0.00)"/>
+						<v:ud v:nameU="ShowUnits" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="ShowUnitsInd" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="ShowUnitsVal" v:prompt="" v:val="VT4(Не показывать единицы)"/>
+						<v:ud v:nameU="WatchLength" v:prompt="" v:val="VT0(590.55118110236):1"/>
+						<v:ud v:nameU="DrawingUnitFactor" v:prompt="" v:val="VT0(0):24"/>
+						<v:ud v:nameU="DirArrowSize" v:prompt="" v:val="VT0(5.3340833333333):1"/>
+						<v:ud v:nameU="DirArrowOffset" v:prompt="" v:val="VT0(31.660615723206):1"/>
+					</v:userDefs>
+					<v:textBlock v:margins="rect(4,0,0,0)" v:tabSpace="42.5197"/>
+					<v:textRect cx="41.8611" cy="1670.98" width="83.73" height="25.6036"/>
+				</g>
+			</g>
+			<g id="group9-18" transform="translate(2534.17,975.118) rotate(90)" v:mID="9" v:groupContext="group"
+					v:layerMember="0;1">
+				<v:custProps>
+					<v:cp v:nameU="T" v:lbl="Толщина стены" v:type="4" v:format="50 mm;100 mm;150 mm;200 mm;250 mm;300 mm;150 mm."
+							v:sortKey="visWall02" v:invis="false" v:langID="1049" v:val="VT0(5.9055118110236):24"/>
+					<v:cp v:nameU="RefLn" v:lbl="Смещение относительно опорной линии" v:type="4"
+							v:format="-150 mm;-125 mm;-100 mm;-75 mm;-50 mm;-25 mm;0 mm;25 mm;50 mm;75 mm;100 mm;125 mm;150 mm"
+							v:sortKey="visWall07" v:invis="true" v:langID="1049" v:val="VT0(0):24"/>
+					<v:cp v:nameU="Material" v:type="0" v:invis="true" v:langID="1049"/>
+					<v:cp v:nameU="VisWallHeight" v:lbl="Высота стены" v:type="4"
+							v:format="2 m;2.1 m;2.2 m;2.3 m;2.4 m;2.5 m;2.6 m;2.7 m;2.8 m;2.9 m;3 m;2.6 m." v:sortKey="visWall03"
+							v:invis="false" v:langID="1049" v:val="VT0(102.36220472441):21"/>
+					<v:cp v:nameU="VisWallLength" v:lbl="Длина стены" v:type="4" v:format="1 m;2 m;3 m;4 m;5 m;6 m;7 m;8 m;3 m."
+							v:sortKey="visWall01" v:invis="false" v:langID="1049" v:val="VT0(98.425196850394):21"/>
+					<v:cp v:nameU="visWallJustify" v:lbl="Выравнивание стены" v:type="1" v:format="По центру;По краю;Другое"
+							v:sortKey="visWall04" v:invis="false" v:langID="1049" v:val="VT4(По краю)"/>
+					<v:cp v:nameU="visWallSegment" v:lbl="Сегмент стены" v:type="1" v:format="Кривой;Прямой" v:sortKey="visWall05"
+							v:invis="false" v:langID="1049" v:val="VT4(Прямой)"/>
+					<v:cp v:nameU="Radius" v:lbl="Радиус стены" v:type="4" v:format="3 m;4 m;5 m;6 m;7 m;8 m;4 m."
+							v:sortKey="visWall06" v:invis="true" v:langID="1049" v:val="VT0(118.11023622047):21"/>
+					<v:cp v:nameU="ShapeClass" v:lbl="Класс фигуры" v:type="0" v:invis="true" v:langID="1049"
+							v:val="VT4(Компонент здания)"/>
+					<v:cp v:nameU="ShapeType" v:lbl="Тип фигуры" v:type="0" v:invis="true" v:langID="1049" v:val="VT4(Стена)"/>
+					<v:cp v:nameU="SubShapeType" v:lbl="Тип вложенной фигуры" v:type="0" v:invis="true" v:langID="1049"
+							v:val="VT4()"/>
+					<v:cp v:nameU="FireRating" v:lbl="Степень пожарной опасности" v:type="0" v:sortKey="visWall15" v:invis="false"
+							v:langID="1049"/>
+					<v:cp v:nameU="BaseElevation" v:lbl="Базовая высота" v:type="2" v:sortKey="visWall09" v:invis="false"
+							v:langID="1049" v:val="VT0(0):24"/>
+					<v:cp v:nameU="VisWallLength" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+							v:ask="false" v:langID="0" v:cal="0" v:val="VT0(492.12598425197):1"/>
+					<v:cp v:nameU="Radius" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+							v:langID="0" v:cal="0" v:val="VT0(157.48031496063):21"/>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud v:nameU="LX1"/>
+					<v:ud v:nameU="LY1"/>
+					<v:ud v:nameU="RX1" v:val="VT0(118.11023622047):21"/>
+					<v:ud v:nameU="RY1" v:val="VT0(98.425196850394):21"/>
+					<v:ud v:nameU="A1" v:val="VT0(0):32"/>
+					<v:ud v:nameU="T1" v:val="VT0(5.9055118110236):24"/>
+					<v:ud v:nameU="RefLn1" v:val="VT0(0):26"/>
+					<v:ud v:nameU="Mtrl1" v:prompt="0=Unknown, 1=Wall" v:val="VT0(1):26"/>
+					<v:ud v:nameU="JointType1" v:prompt="3M." v:val="VT0(1):26"/>
+					<v:ud v:nameU="1" v:prompt="---------------------------------" v:val="VT4(---------------------------------)"/>
+					<v:ud v:nameU="RelA1" v:val="VT0(1.5707963267949):32"/>
+					<v:ud v:nameU="EndsDontMeet1" v:prompt="Within radius of User.Fuzz" v:val="VT0(0):5"/>
+					<v:ud v:nameU="ShapeGone1" v:val="VT0(0):5"/>
+					<v:ud v:nameU="AngTooSharp1"/>
+					<v:ud v:nameU="AngTooBlunt1" v:val="VT0(0):26"/>
+					<v:ud v:nameU="EndNotOnLine1" v:prompt="Within distance User.Fuzz of being on line." v:val="VT0(0):5"/>
+					<v:ud v:nameU="DiffMtrls1" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="CornerClose1" v:val="VT0(0):5"/>
+					<v:ud v:nameU="TClose1" v:val="VT0(0):26"/>
+					<v:ud v:nameU="11" v:prompt="---------------------------------" v:val="VT4(---------------------------------)"/>
+					<v:ud v:nameU="Closed1" v:val="VT0(0):5"/>
+					<v:ud v:nameU="Corner1" v:val="VT0(1):5"/>
+					<v:ud v:nameU="TJointOpen1" v:val="VT0(0):5"/>
+					<v:ud v:nameU="TJointClosed1" v:val="VT0(0):5"/>
+					<v:ud v:nameU="_" v:prompt="=================" v:val="VT4(=================)"/>
+					<v:ud v:nameU="LX2" v:val="VT0(118.11023622047):21"/>
+					<v:ud v:nameU="LY2" v:val="VT0(-1.3500311979442E-013):21"/>
+					<v:ud v:nameU="RX2"/>
+					<v:ud v:nameU="RY2"/>
+					<v:ud v:nameU="A2" v:val="VT0(-3.1415926535898):32"/>
+					<v:ud v:nameU="T2" v:val="VT0(5.9055118110236):24"/>
+					<v:ud v:nameU="RefLn2" v:val="VT0(0):26"/>
+					<v:ud v:nameU="Mtrl2" v:prompt="0=Unknown, 1=Wall" v:val="VT0(1):26"/>
+					<v:ud v:nameU="JointType2" v:prompt="3M." v:val="VT0(1):26"/>
+					<v:ud v:nameU="2" v:prompt="---------------------------------" v:val="VT4(---------------------------------)"/>
+					<v:ud v:nameU="RelA2" v:val="VT0(4.7123889803847):32"/>
+					<v:ud v:nameU="EndsDontMeet2" v:prompt="Within radius of User.Fuzz" v:val="VT0(0):5"/>
+					<v:ud v:nameU="ShapeGone2" v:val="VT0(0):5"/>
+					<v:ud v:nameU="AngTooSharp2"/>
+					<v:ud v:nameU="AngTooBlunt2" v:val="VT0(0):26"/>
+					<v:ud v:nameU="EndNotOnLine2" v:prompt="Within distance User.Fuzz of being on line." v:val="VT0(0):5"/>
+					<v:ud v:nameU="DiffMtrls2" v:val="VT0(0):5"/>
+					<v:ud v:nameU="CornerClose2" v:val="VT0(0):5"/>
+					<v:ud v:nameU="TClose2" v:val="VT0(0):26"/>
+					<v:ud v:nameU="22" v:prompt="---------------------------------" v:val="VT4(---------------------------------)"/>
+					<v:ud v:nameU="Closed2" v:val="VT0(0):5"/>
+					<v:ud v:nameU="Corner2" v:val="VT0(1):5"/>
+					<v:ud v:nameU="TJointOpen2" v:val="VT0(0):5"/>
+					<v:ud v:nameU="TJointClosed2" v:val="VT0(0):5"/>
+					<v:ud v:nameU="__" v:prompt="=================" v:val="VT4(=================)"/>
+					<v:ud v:nameU="Fuzz" v:val="VT0(0.19685039370079):24"/>
+					<v:ud v:nameU="LineStyleIndex" v:val="VT0(0):26"/>
+					<v:ud v:nameU="WallShape" v:prompt="Shape Identifier"/>
+					<v:ud v:nameU="OverLayT" v:val="VT0(0.59055118110236):24"/>
+					<v:ud v:nameU="3D_type" v:val="VT0(2):26"/>
+					<v:ud v:nameU="3D_offset" v:val="VT0(0):26"/>
+					<v:ud v:nameU="3D_extrude_length" v:val="VT0(102.36220472441):21"/>
+					<v:ud v:nameU="Is_arc" v:val="VT0(0):5"/>
+					<v:ud v:nameU="2D_length_check" v:val="VT0(98.425196850394):21"/>
+					<v:ud v:nameU="visWallPriority" v:val="VT0(50):26"/>
+					<v:ud v:nameU="visObjectType" v:prompt="Wall" v:val="VT0(101):26"/>
+					<v:ud v:nameU="visBESelected" v:val="VT0(0):26"/>
+					<v:ud v:nameU="CleanupBegin" v:val="VT0(216.53543307087):21"/>
+					<v:ud v:nameU="CleanupEnd" v:val="VT0(118.11023622047):21"/>
+					<v:ud v:nameU="PreviousWidth" v:val="VT0(98.425196850394):21"/>
+					<v:ud v:nameU="RefLn" v:val="VT0(0):26"/>
+					<v:ud v:nameU="CurveSwitch" v:val="VT0(1):26"/>
+					<v:ud v:nameU="ControlsY1" v:val="VT0(0):26"/>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+					<v:ud v:nameU="SolSH" v:val="VT4({5D50005D-537C-4738-9C46-130C74335A6D})"/>
+					<v:ud v:nameU="ShapeClass" v:prompt="Компонент здания" v:val="VT0(3):26"/>
+					<v:ud v:nameU="ShapeType" v:prompt="Стена" v:val="VT0(44):26"/>
+					<v:ud v:nameU="SubShapeType" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="CurveLookup" v:val="VT0(1):26"/>
+					<v:ud v:nameU="AntiScale" v:val="VT0(100):26"/>
+					<v:ud v:nameU="HasText" v:val="VT0(0):5"/>
+					<v:ud v:nameU="RX1" v:prompt="" v:val="VT0(590.55118110236):1"/>
+					<v:ud v:nameU="RY1" v:prompt="" v:val="VT0(492.12598425197):1"/>
+					<v:ud v:nameU="JointType1" v:prompt="15000ММ" v:val="VT0(0):26"/>
+					<v:ud v:nameU="LX2" v:prompt="" v:val="VT0(590.55118110236):1"/>
+					<v:ud v:nameU="LY2" v:prompt="" v:val="VT0(-1.5750363976016E-013):1"/>
+					<v:ud v:nameU="JointType2" v:prompt="15000ММ" v:val="VT0(0):26"/>
+					<v:ud v:nameU="CleanupBegin" v:prompt="" v:val="VT0(1082.6771653543):1"/>
+					<v:ud v:nameU="CleanupEnd" v:prompt="" v:val="VT0(590.55118110236):1"/>
+					<v:ud v:nameU="PreviousWidth" v:prompt="" v:val="VT0(492.12598425197):26"/>
+					<v:ud v:nameU="AntiScale" v:prompt="" v:val="VT0(50):26"/>
+				</v:userDefs>
+				<title>Лист.9</title>
+				<g id="shape10-19" v:mID="10" v:groupContext="shape" v:layerMember="0;1">
+					<title>Лист.10</title>
+					<v:userDefs>
+						<v:ud v:nameU="WallFill" v:prompt="Shape Identifier"/>
+					</v:userDefs>
+					<path d="M-8.5 1675.28 L717.17 1675.28 L708.66 1683.78 L0 1683.78 L-8.5 1675.28 Z" class="st1"/>
+				</g>
+				<g id="shape11-22" v:mID="11" v:groupContext="shape" v:layerMember="0;1"
+						transform="translate(-1190.61,2874.39) rotate(-135)">
+					<title>Лист.11</title>
+					<v:userDefs>
+						<v:ud v:nameU="WallCap" v:prompt="Shape Identifier"/>
+					</v:userDefs>
+					<rect x="0" y="1682.93" width="12.0264" height="0.850394" class="st2"/>
+				</g>
+				<g id="shape12-24" v:mID="12" v:groupContext="shape" v:layerMember="0;1"
+						transform="translate(1907.78,2865.89) rotate(135)">
+					<title>Лист.12</title>
+					<v:userDefs>
+						<v:ud v:nameU="WallCap" v:prompt="Shape Identifier"/>
+					</v:userDefs>
+					<rect x="0" y="1682.93" width="12.0264" height="0.850394" class="st2"/>
+				</g>
+				<g id="shape13-26" v:mID="13" v:groupContext="shape" v:layerMember="0;1">
+					<title>Лист.13</title>
+					<v:userDefs>
+						<v:ud v:nameU="WallRefLine" v:prompt="Shape Identifier"/>
+					</v:userDefs>
+				</g>
+				<g id="shape14-28" v:mID="14" v:groupContext="shape" v:layerMember="0;1">
+					<title>Лист.14</title>
+					<v:userDefs>
+						<v:ud v:nameU="WallCompGeom1" v:prompt="Shape Identifier" v:val="VT0(-0.66693806165226):26"/>
+					</v:userDefs>
+					<path d="M-8.5 1675.28 L717.17 1675.28" class="st3"/>
+					<path d="M0 1683.78 L708.66 1683.78" class="st3"/>
+				</g>
+				<g id="shape15-32" v:mID="15" v:groupContext="shape" v:layerMember="0;1" transform="translate(312.47,-8.50394)">
+					<title>Лист.15</title>
+					<v:custProps>
+						<v:cp v:nameU="LPrec" v:lbl="Точность" v:type="1" v:format="0;0.0;0.00;0.000;0.0000" v:sortKey="2"
+								v:invis="false" v:langID="1049" v:val="VT4(0)"/>
+						<v:cp v:nameU="LUnits" v:lbl="Единицы" v:type="1"
+								v:format=" Использовать единицы страницы документа;.Футы-дюймы (1&#39;-0&#34;);.Футы (1,00&#39;);.Дюймы;.Футы (1,00 фт);.Мили;-Миллиметры;-Сантиметры;-Метры;-Километры"
+								v:sortKey="1" v:invis="false" v:langID="1049" v:val="VT4( Использовать единицы страницы документа)"/>
+						<v:cp v:nameU="ShowUnits" v:lbl="Вывод единиц" v:type="1"
+								v:format="Не показывать единицы;Показывать единицы" v:sortKey="4" v:invis="false" v:langID="1049"
+								v:val="VT4(Показывать единицы)"/>
+						<v:cp v:nameU="LInchPrec" v:lbl="Точность" v:type="1"
+								v:format="    1 in.; 1/2 in.; 1/4 in.; 1/8 in.;1/16 in." v:sortKey="3" v:invis="true"
+								v:langID="1049" v:val="VT4(1/16 in.)"/>
+						<v:cp v:nameU="LPrec" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+								v:ask="false" v:langID="0" v:cal="0" v:val="VT4(0.00)"/>
+						<v:cp v:nameU="ShowUnits" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+								v:ask="false" v:langID="0" v:cal="0" v:val="VT4(Не показывать единицы)"/>
+					</v:custProps>
+					<v:userDefs>
+						<v:ud v:nameU="Hide" v:val="VT0(1):5"/>
+						<v:ud v:nameU="LUnitsFactor" v:val="VT0(0):21"/>
+						<v:ud v:nameU="FormatString" v:val="VT4(0u)"/>
+						<v:ud v:nameU="LengthText" v:val="VT4(3м)"/>
+						<v:ud v:nameU="Length" v:val="VT0(98.425196850394):21"/>
+						<v:ud v:nameU="LPFString" v:prompt="Linear Precision Formatting String" v:val="VT4(0)"/>
+						<v:ud v:nameU="LPrec" v:val="VT0(0):26"/>
+						<v:ud v:nameU="LPrecInd" v:val="VT0(0):26"/>
+						<v:ud v:nameU="LPrecVal" v:val="VT4(0)"/>
+						<v:ud v:nameU="LUnits" v:val="VT0(0):26"/>
+						<v:ud v:nameU="LUnitsInd" v:prompt="0=Dwg, 1=Arch, 2=Dec Ft, 3+ = other" v:val="VT0(0):26"/>
+						<v:ud v:nameU="LUnitsVal" v:val="VT4( Использовать единицы страницы документа)"/>
+						<v:ud v:nameU="ShowUnits" v:val="VT0(1):26"/>
+						<v:ud v:nameU="ShowUnitsInd" v:val="VT0(1):26"/>
+						<v:ud v:nameU="ShowUnitsVal" v:val="VT4(Показывать единицы)"/>
+						<v:ud v:nameU="FeetInch" v:val="VT0(0):26"/>
+						<v:ud v:nameU="Feet" v:val="VT0(0):26"/>
+						<v:ud v:nameU="Inch" v:val="VT0(0):26"/>
+						<v:ud v:nameU="InchPrec" v:val="VT0(16):26"/>
+						<v:ud v:nameU="WatchLength" v:val="VT0(98.425196850394):21"/>
+						<v:ud v:nameU="DrawingUnitFactor" v:val="VT0(0):21"/>
+						<v:ud v:nameU="HideArrow" v:val="VT0(0):5"/>
+						<v:ud v:nameU="LInchPrecInd" v:val="VT0(4):26"/>
+						<v:ud v:nameU="DirArrowSize" v:val="VT0(10.668166666667):1"/>
+						<v:ud v:nameU="DirArrowOffset" v:val="VT0(19.378970703675):1"/>
+						<v:ud v:nameU="LInchPrec" v:val="VT0(4):26"/>
+						<v:ud v:nameU="LInchPrecVal" v:val="VT4(1/16 in.)"/>
+						<v:ud v:nameU="LUnitsFactor" v:prompt="" v:val="VT0(0):24"/>
+						<v:ud v:nameU="FormatString" v:prompt="" v:val="VT4(0.00)"/>
+						<v:ud v:nameU="LengthText" v:prompt="" v:val="VT4(12500,00)"/>
+						<v:ud v:nameU="Length" v:prompt="" v:val="VT0(492.12598425197):24"/>
+						<v:ud v:nameU="LPFString" v:prompt="" v:val="VT4(0.00)"/>
+						<v:ud v:nameU="LPrec" v:prompt="" v:val="VT0(2):26"/>
+						<v:ud v:nameU="LPrecInd" v:prompt="" v:val="VT0(2):26"/>
+						<v:ud v:nameU="LPrecVal" v:prompt="" v:val="VT4(0.00)"/>
+						<v:ud v:nameU="ShowUnits" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="ShowUnitsInd" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="ShowUnitsVal" v:prompt="" v:val="VT4(Не показывать единицы)"/>
+						<v:ud v:nameU="WatchLength" v:prompt="" v:val="VT0(492.12598425197):1"/>
+						<v:ud v:nameU="DrawingUnitFactor" v:prompt="" v:val="VT0(0):24"/>
+						<v:ud v:nameU="DirArrowSize" v:prompt="" v:val="VT0(5.3340833333333):1"/>
+						<v:ud v:nameU="DirArrowOffset" v:prompt="" v:val="VT0(31.660615723206):1"/>
+					</v:userDefs>
+					<v:textBlock v:margins="rect(4,0,0,0)" v:tabSpace="42.5197"/>
+					<v:textRect cx="41.8611" cy="1670.98" width="83.73" height="25.6036" transform="rotate(-180)"/>
+				</g>
+			</g>
+			<g id="group16-34" transform="translate(850.394,3367.56) rotate(180)" v:mID="16" v:groupContext="group"
+					v:layerMember="0;1">
+				<v:custProps>
+					<v:cp v:nameU="T" v:lbl="Толщина стены" v:type="4" v:format="50 mm;100 mm;150 mm;200 mm;250 mm;300 mm;150 mm."
+							v:sortKey="visWall02" v:invis="false" v:langID="1049" v:val="VT0(5.9055118110236):24"/>
+					<v:cp v:nameU="RefLn" v:lbl="Смещение относительно опорной линии" v:type="4"
+							v:format="-150 mm;-125 mm;-100 mm;-75 mm;-50 mm;-25 mm;0 mm;25 mm;50 mm;75 mm;100 mm;125 mm;150 mm"
+							v:sortKey="visWall07" v:invis="true" v:langID="1049" v:val="VT0(0):24"/>
+					<v:cp v:nameU="Material" v:type="0" v:invis="true" v:langID="1049"/>
+					<v:cp v:nameU="VisWallHeight" v:lbl="Высота стены" v:type="4"
+							v:format="2 m;2.1 m;2.2 m;2.3 m;2.4 m;2.5 m;2.6 m;2.7 m;2.8 m;2.9 m;3 m;2.6 m." v:sortKey="visWall03"
+							v:invis="false" v:langID="1049" v:val="VT0(102.36220472441):21"/>
+					<v:cp v:nameU="VisWallLength" v:lbl="Длина стены" v:type="4" v:format="1 m;2 m;3 m;4 m;5 m;6 m;7 m;8 m;3 m."
+							v:sortKey="visWall01" v:invis="false" v:langID="1049" v:val="VT0(118.11023622047):21"/>
+					<v:cp v:nameU="visWallJustify" v:lbl="Выравнивание стены" v:type="1" v:format="По центру;По краю;Другое"
+							v:sortKey="visWall04" v:invis="false" v:langID="1049" v:val="VT4(По краю)"/>
+					<v:cp v:nameU="visWallSegment" v:lbl="Сегмент стены" v:type="1" v:format="Кривой;Прямой" v:sortKey="visWall05"
+							v:invis="false" v:langID="1049" v:val="VT4(Прямой)"/>
+					<v:cp v:nameU="Radius" v:lbl="Радиус стены" v:type="4" v:format="3 m;4 m;5 m;6 m;7 m;8 m;4 m."
+							v:sortKey="visWall06" v:invis="true" v:langID="1049" v:val="VT0(118.11023622047):21"/>
+					<v:cp v:nameU="ShapeClass" v:lbl="Класс фигуры" v:type="0" v:invis="true" v:langID="1049"
+							v:val="VT4(Компонент здания)"/>
+					<v:cp v:nameU="ShapeType" v:lbl="Тип фигуры" v:type="0" v:invis="true" v:langID="1049" v:val="VT4(Стена)"/>
+					<v:cp v:nameU="SubShapeType" v:lbl="Тип вложенной фигуры" v:type="0" v:invis="true" v:langID="1049"
+							v:val="VT4()"/>
+					<v:cp v:nameU="FireRating" v:lbl="Степень пожарной опасности" v:type="0" v:sortKey="visWall15" v:invis="false"
+							v:langID="1049"/>
+					<v:cp v:nameU="BaseElevation" v:lbl="Базовая высота" v:type="2" v:sortKey="visWall09" v:invis="false"
+							v:langID="1049" v:val="VT0(0):24"/>
+					<v:cp v:nameU="VisWallLength" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+							v:ask="false" v:langID="0" v:cal="0" v:val="VT0(590.55118110236):1"/>
+					<v:cp v:nameU="Radius" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+							v:langID="0" v:cal="0" v:val="VT0(157.48031496063):21"/>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud v:nameU="LX1"/>
+					<v:ud v:nameU="LY1"/>
+					<v:ud v:nameU="RX1" v:val="VT0(118.11023622047):21"/>
+					<v:ud v:nameU="RY1" v:val="VT0(-2.1316282072803E-014):21"/>
+					<v:ud v:nameU="A1" v:val="VT0(-1.5707963267949):32"/>
+					<v:ud v:nameU="T1" v:val="VT0(5.9055118110236):24"/>
+					<v:ud v:nameU="RefLn1" v:val="VT0(0):26"/>
+					<v:ud v:nameU="Mtrl1" v:prompt="0=Unknown, 1=Wall" v:val="VT0(1):26"/>
+					<v:ud v:nameU="JointType1" v:prompt="3M." v:val="VT0(1):26"/>
+					<v:ud v:nameU="1" v:prompt="---------------------------------" v:val="VT4(---------------------------------)"/>
+					<v:ud v:nameU="RelA1" v:val="VT0(1.5707963267949):32"/>
+					<v:ud v:nameU="EndsDontMeet1" v:prompt="Within radius of User.Fuzz" v:val="VT0(0):5"/>
+					<v:ud v:nameU="ShapeGone1" v:val="VT0(0):5"/>
+					<v:ud v:nameU="AngTooSharp1"/>
+					<v:ud v:nameU="AngTooBlunt1" v:val="VT0(0):26"/>
+					<v:ud v:nameU="EndNotOnLine1" v:prompt="Within distance User.Fuzz of being on line." v:val="VT0(0):5"/>
+					<v:ud v:nameU="DiffMtrls1" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="CornerClose1" v:val="VT0(0):5"/>
+					<v:ud v:nameU="TClose1" v:val="VT0(0):26"/>
+					<v:ud v:nameU="11" v:prompt="---------------------------------" v:val="VT4(---------------------------------)"/>
+					<v:ud v:nameU="Closed1" v:val="VT0(0):5"/>
+					<v:ud v:nameU="Corner1" v:val="VT0(1):5"/>
+					<v:ud v:nameU="TJointOpen1" v:val="VT0(0):5"/>
+					<v:ud v:nameU="TJointClosed1" v:val="VT0(0):5"/>
+					<v:ud v:nameU="_" v:prompt="=================" v:val="VT4(=================)"/>
+					<v:ud v:nameU="LX2" v:val="VT0(0):21"/>
+					<v:ud v:nameU="LY2" v:val="VT0(-5.8975047068089E-013):21"/>
+					<v:ud v:nameU="RX2"/>
+					<v:ud v:nameU="RY2"/>
+					<v:ud v:nameU="A2" v:val="VT0(1.5707963267949):32"/>
+					<v:ud v:nameU="T2" v:val="VT0(5.9055118110236):24"/>
+					<v:ud v:nameU="RefLn2" v:val="VT0(0):26"/>
+					<v:ud v:nameU="Mtrl2" v:prompt="0=Unknown, 1=Wall" v:val="VT0(1):26"/>
+					<v:ud v:nameU="JointType2" v:prompt="0M." v:val="VT0(1):26"/>
+					<v:ud v:nameU="2" v:prompt="---------------------------------" v:val="VT4(---------------------------------)"/>
+					<v:ud v:nameU="RelA2" v:val="VT0(4.7123889803847):32"/>
+					<v:ud v:nameU="EndsDontMeet2" v:prompt="Within radius of User.Fuzz" v:val="VT0(0):5"/>
+					<v:ud v:nameU="ShapeGone2" v:val="VT0(0):5"/>
+					<v:ud v:nameU="AngTooSharp2"/>
+					<v:ud v:nameU="AngTooBlunt2" v:val="VT0(0):26"/>
+					<v:ud v:nameU="EndNotOnLine2" v:prompt="Within distance User.Fuzz of being on line." v:val="VT0(0):5"/>
+					<v:ud v:nameU="DiffMtrls2" v:val="VT0(0):5"/>
+					<v:ud v:nameU="CornerClose2" v:val="VT0(0):5"/>
+					<v:ud v:nameU="TClose2" v:val="VT0(0):26"/>
+					<v:ud v:nameU="22" v:prompt="---------------------------------" v:val="VT4(---------------------------------)"/>
+					<v:ud v:nameU="Closed2" v:val="VT0(0):5"/>
+					<v:ud v:nameU="Corner2" v:val="VT0(1):5"/>
+					<v:ud v:nameU="TJointOpen2" v:val="VT0(0):5"/>
+					<v:ud v:nameU="TJointClosed2" v:val="VT0(0):5"/>
+					<v:ud v:nameU="__" v:prompt="=================" v:val="VT4(=================)"/>
+					<v:ud v:nameU="Fuzz" v:val="VT0(0.19685039370079):24"/>
+					<v:ud v:nameU="LineStyleIndex" v:val="VT0(0):26"/>
+					<v:ud v:nameU="WallShape" v:prompt="Shape Identifier"/>
+					<v:ud v:nameU="OverLayT" v:val="VT0(0.59055118110236):24"/>
+					<v:ud v:nameU="3D_type" v:val="VT0(2):26"/>
+					<v:ud v:nameU="3D_offset" v:val="VT0(0):26"/>
+					<v:ud v:nameU="3D_extrude_length" v:val="VT0(102.36220472441):21"/>
+					<v:ud v:nameU="Is_arc" v:val="VT0(0):5"/>
+					<v:ud v:nameU="2D_length_check" v:val="VT0(118.11023622047):21"/>
+					<v:ud v:nameU="visWallPriority" v:val="VT0(50):26"/>
+					<v:ud v:nameU="visObjectType" v:prompt="Wall" v:val="VT0(101):26"/>
+					<v:ud v:nameU="visBESelected" v:val="VT0(0):26"/>
+					<v:ud v:nameU="CleanupBegin" v:val="VT0(118.11023622047):21"/>
+					<v:ud v:nameU="CleanupEnd" v:val="VT0(-5.8975047068089E-013):21"/>
+					<v:ud v:nameU="PreviousWidth" v:val="VT0(118.11023622047):21"/>
+					<v:ud v:nameU="RefLn" v:val="VT0(0):26"/>
+					<v:ud v:nameU="CurveSwitch" v:val="VT0(1):26"/>
+					<v:ud v:nameU="ControlsY1" v:val="VT0(0):26"/>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+					<v:ud v:nameU="SolSH" v:val="VT4({5D50005D-537C-4738-9C46-130C74335A6D})"/>
+					<v:ud v:nameU="ShapeClass" v:prompt="Компонент здания" v:val="VT0(3):26"/>
+					<v:ud v:nameU="ShapeType" v:prompt="Стена" v:val="VT0(44):26"/>
+					<v:ud v:nameU="SubShapeType" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="CurveLookup" v:val="VT0(1):26"/>
+					<v:ud v:nameU="AntiScale" v:val="VT0(100):26"/>
+					<v:ud v:nameU="HasText" v:val="VT0(0):5"/>
+					<v:ud v:nameU="RX1" v:prompt="" v:val="VT0(590.55118110236):1"/>
+					<v:ud v:nameU="RY1" v:prompt="" v:val="VT0(-2.4868995751604E-014):1"/>
+					<v:ud v:nameU="JointType1" v:prompt="15000ММ" v:val="VT0(0):26"/>
+					<v:ud v:nameU="LX2" v:prompt="" v:val="VT0(0):1"/>
+					<v:ud v:nameU="LY2" v:prompt="" v:val="VT0(-6.8804221579437E-013):1"/>
+					<v:ud v:nameU="JointType2" v:prompt="0ММ" v:val="VT0(0):26"/>
+					<v:ud v:nameU="CleanupBegin" v:prompt="" v:val="VT0(590.55118110236):1"/>
+					<v:ud v:nameU="CleanupEnd" v:prompt="" v:val="VT0(-6.8804221579437E-013):1"/>
+					<v:ud v:nameU="PreviousWidth" v:prompt="" v:val="VT0(590.55118110236):26"/>
+					<v:ud v:nameU="AntiScale" v:prompt="" v:val="VT0(50):26"/>
+				</v:userDefs>
+				<title>Лист.16</title>
+				<g id="shape17-35" v:mID="17" v:groupContext="shape" v:layerMember="0;1">
+					<title>Лист.17</title>
+					<v:userDefs>
+						<v:ud v:nameU="WallFill" v:prompt="Shape Identifier"/>
+					</v:userDefs>
+					<path d="M-8.5 1675.28 L858.9 1675.28 L850.39 1683.78 L0 1683.78 L-8.5 1675.28 Z" class="st1"/>
+				</g>
+				<g id="shape18-38" v:mID="18" v:groupContext="shape" v:layerMember="0;1"
+						transform="translate(-1190.61,2874.39) rotate(-135)">
+					<title>Лист.18</title>
+					<v:userDefs>
+						<v:ud v:nameU="WallCap" v:prompt="Shape Identifier"/>
+					</v:userDefs>
+					<rect x="0" y="1682.93" width="12.0264" height="0.850394" class="st2"/>
+				</g>
+				<g id="shape19-40" v:mID="19" v:groupContext="shape" v:layerMember="0;1"
+						transform="translate(2049.51,2865.89) rotate(135)">
+					<title>Лист.19</title>
+					<v:userDefs>
+						<v:ud v:nameU="WallCap" v:prompt="Shape Identifier"/>
+					</v:userDefs>
+					<rect x="0" y="1682.93" width="12.0264" height="0.850394" class="st2"/>
+				</g>
+				<g id="shape20-42" v:mID="20" v:groupContext="shape" v:layerMember="0;1">
+					<title>Лист.20</title>
+					<v:userDefs>
+						<v:ud v:nameU="WallRefLine" v:prompt="Shape Identifier"/>
+					</v:userDefs>
+				</g>
+				<g id="shape21-44" v:mID="21" v:groupContext="shape" v:layerMember="0;1">
+					<title>Лист.21</title>
+					<v:userDefs>
+						<v:ud v:nameU="WallCompGeom1" v:prompt="Shape Identifier" v:val="VT0(-0.66693806165226):26"/>
+					</v:userDefs>
+					<path d="M-8.5 1675.28 L858.9 1675.28" class="st3"/>
+					<path d="M0 1683.78 L850.39 1683.78" class="st3"/>
+				</g>
+				<g id="shape22-48" v:mID="22" v:groupContext="shape" v:layerMember="0;1" transform="translate(383.336,-8.50394)">
+					<title>Лист.22</title>
+					<v:custProps>
+						<v:cp v:nameU="LPrec" v:lbl="Точность" v:type="1" v:format="0;0.0;0.00;0.000;0.0000" v:sortKey="2"
+								v:invis="false" v:langID="1049" v:val="VT4(0)"/>
+						<v:cp v:nameU="LUnits" v:lbl="Единицы" v:type="1"
+								v:format=" Использовать единицы страницы документа;.Футы-дюймы (1&#39;-0&#34;);.Футы (1,00&#39;);.Дюймы;.Футы (1,00 фт);.Мили;-Миллиметры;-Сантиметры;-Метры;-Километры"
+								v:sortKey="1" v:invis="false" v:langID="1049" v:val="VT4( Использовать единицы страницы документа)"/>
+						<v:cp v:nameU="ShowUnits" v:lbl="Вывод единиц" v:type="1"
+								v:format="Не показывать единицы;Показывать единицы" v:sortKey="4" v:invis="false" v:langID="1049"
+								v:val="VT4(Показывать единицы)"/>
+						<v:cp v:nameU="LInchPrec" v:lbl="Точность" v:type="1"
+								v:format="    1 in.; 1/2 in.; 1/4 in.; 1/8 in.;1/16 in." v:sortKey="3" v:invis="true"
+								v:langID="1049" v:val="VT4(1/16 in.)"/>
+						<v:cp v:nameU="LPrec" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+								v:ask="false" v:langID="0" v:cal="0" v:val="VT4(0.00)"/>
+						<v:cp v:nameU="ShowUnits" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+								v:ask="false" v:langID="0" v:cal="0" v:val="VT4(Не показывать единицы)"/>
+					</v:custProps>
+					<v:userDefs>
+						<v:ud v:nameU="Hide" v:val="VT0(1):5"/>
+						<v:ud v:nameU="LUnitsFactor" v:val="VT0(0):21"/>
+						<v:ud v:nameU="FormatString" v:val="VT4(0u)"/>
+						<v:ud v:nameU="LengthText" v:val="VT4(3м)"/>
+						<v:ud v:nameU="Length" v:val="VT0(118.11023622047):21"/>
+						<v:ud v:nameU="LPFString" v:prompt="Linear Precision Formatting String" v:val="VT4(0)"/>
+						<v:ud v:nameU="LPrec" v:val="VT0(0):26"/>
+						<v:ud v:nameU="LPrecInd" v:val="VT0(0):26"/>
+						<v:ud v:nameU="LPrecVal" v:val="VT4(0)"/>
+						<v:ud v:nameU="LUnits" v:val="VT0(0):26"/>
+						<v:ud v:nameU="LUnitsInd" v:prompt="0=Dwg, 1=Arch, 2=Dec Ft, 3+ = other" v:val="VT0(0):26"/>
+						<v:ud v:nameU="LUnitsVal" v:val="VT4( Использовать единицы страницы документа)"/>
+						<v:ud v:nameU="ShowUnits" v:val="VT0(1):26"/>
+						<v:ud v:nameU="ShowUnitsInd" v:val="VT0(1):26"/>
+						<v:ud v:nameU="ShowUnitsVal" v:val="VT4(Показывать единицы)"/>
+						<v:ud v:nameU="FeetInch" v:val="VT0(0):26"/>
+						<v:ud v:nameU="Feet" v:val="VT0(0):26"/>
+						<v:ud v:nameU="Inch" v:val="VT0(0):26"/>
+						<v:ud v:nameU="InchPrec" v:val="VT0(16):26"/>
+						<v:ud v:nameU="WatchLength" v:val="VT0(118.11023622047):21"/>
+						<v:ud v:nameU="DrawingUnitFactor" v:val="VT0(0):21"/>
+						<v:ud v:nameU="HideArrow" v:val="VT0(0):5"/>
+						<v:ud v:nameU="LInchPrecInd" v:val="VT0(4):26"/>
+						<v:ud v:nameU="DirArrowSize" v:val="VT0(10.668166666667):1"/>
+						<v:ud v:nameU="DirArrowOffset" v:val="VT0(19.378970703675):1"/>
+						<v:ud v:nameU="LInchPrec" v:val="VT0(4):26"/>
+						<v:ud v:nameU="LInchPrecVal" v:val="VT4(1/16 in.)"/>
+						<v:ud v:nameU="LUnitsFactor" v:prompt="" v:val="VT0(0):24"/>
+						<v:ud v:nameU="FormatString" v:prompt="" v:val="VT4(0.00)"/>
+						<v:ud v:nameU="LengthText" v:prompt="" v:val="VT4(15000,00)"/>
+						<v:ud v:nameU="Length" v:prompt="" v:val="VT0(590.55118110236):24"/>
+						<v:ud v:nameU="LPFString" v:prompt="" v:val="VT4(0.00)"/>
+						<v:ud v:nameU="LPrec" v:prompt="" v:val="VT0(2):26"/>
+						<v:ud v:nameU="LPrecInd" v:prompt="" v:val="VT0(2):26"/>
+						<v:ud v:nameU="LPrecVal" v:prompt="" v:val="VT4(0.00)"/>
+						<v:ud v:nameU="ShowUnits" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="ShowUnitsInd" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="ShowUnitsVal" v:prompt="" v:val="VT4(Не показывать единицы)"/>
+						<v:ud v:nameU="WatchLength" v:prompt="" v:val="VT0(590.55118110236):1"/>
+						<v:ud v:nameU="DrawingUnitFactor" v:prompt="" v:val="VT0(0):24"/>
+						<v:ud v:nameU="DirArrowSize" v:prompt="" v:val="VT0(5.3340833333333):1"/>
+						<v:ud v:nameU="DirArrowOffset" v:prompt="" v:val="VT0(31.660615723206):1"/>
+					</v:userDefs>
+					<v:textBlock v:margins="rect(4,0,0,0)" v:tabSpace="42.5197"/>
+					<v:textRect cx="41.8611" cy="1670.98" width="83.73" height="25.6036" transform="rotate(-180)"/>
+				</g>
+			</g>
+			<g id="group23-50" transform="translate(-1683.78,1683.78) rotate(-90)" v:mID="23" v:groupContext="group"
+					v:layerMember="0;1">
+				<v:custProps>
+					<v:cp v:nameU="T" v:lbl="Толщина стены" v:type="4" v:format="50 mm;100 mm;150 mm;200 mm;250 mm;300 mm;150 mm."
+							v:sortKey="visWall02" v:invis="false" v:langID="1049" v:val="VT0(5.9055118110236):24"/>
+					<v:cp v:nameU="RefLn" v:lbl="Смещение относительно опорной линии" v:type="4"
+							v:format="-150 mm;-125 mm;-100 mm;-75 mm;-50 mm;-25 mm;0 mm;25 mm;50 mm;75 mm;100 mm;125 mm;150 mm"
+							v:sortKey="visWall07" v:invis="true" v:langID="1049" v:val="VT0(0):24"/>
+					<v:cp v:nameU="Material" v:type="0" v:invis="true" v:langID="1049"/>
+					<v:cp v:nameU="VisWallHeight" v:lbl="Высота стены" v:type="4"
+							v:format="2 m;2.1 m;2.2 m;2.3 m;2.4 m;2.5 m;2.6 m;2.7 m;2.8 m;2.9 m;3 m;2.6 m." v:sortKey="visWall03"
+							v:invis="false" v:langID="1049" v:val="VT0(102.36220472441):21"/>
+					<v:cp v:nameU="VisWallLength" v:lbl="Длина стены" v:type="4" v:format="1 m;2 m;3 m;4 m;5 m;6 m;7 m;8 m;3 m."
+							v:sortKey="visWall01" v:invis="false" v:langID="1049" v:val="VT0(98.425196850394):21"/>
+					<v:cp v:nameU="visWallJustify" v:lbl="Выравнивание стены" v:type="1" v:format="По центру;По краю;Другое"
+							v:sortKey="visWall04" v:invis="false" v:langID="1049" v:val="VT4(По краю)"/>
+					<v:cp v:nameU="visWallSegment" v:lbl="Сегмент стены" v:type="1" v:format="Кривой;Прямой" v:sortKey="visWall05"
+							v:invis="false" v:langID="1049" v:val="VT4(Прямой)"/>
+					<v:cp v:nameU="Radius" v:lbl="Радиус стены" v:type="4" v:format="3 m;4 m;5 m;6 m;7 m;8 m;4 m."
+							v:sortKey="visWall06" v:invis="true" v:langID="1049" v:val="VT0(118.11023622047):21"/>
+					<v:cp v:nameU="ShapeClass" v:lbl="Класс фигуры" v:type="0" v:invis="true" v:langID="1049"
+							v:val="VT4(Компонент здания)"/>
+					<v:cp v:nameU="ShapeType" v:lbl="Тип фигуры" v:type="0" v:invis="true" v:langID="1049" v:val="VT4(Стена)"/>
+					<v:cp v:nameU="SubShapeType" v:lbl="Тип вложенной фигуры" v:type="0" v:invis="true" v:langID="1049"
+							v:val="VT4()"/>
+					<v:cp v:nameU="FireRating" v:lbl="Степень пожарной опасности" v:type="0" v:sortKey="visWall15" v:invis="false"
+							v:langID="1049"/>
+					<v:cp v:nameU="BaseElevation" v:lbl="Базовая высота" v:type="2" v:sortKey="visWall09" v:invis="false"
+							v:langID="1049" v:val="VT0(0):24"/>
+					<v:cp v:nameU="VisWallLength" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+							v:ask="false" v:langID="0" v:cal="0" v:val="VT0(492.12598425197):1"/>
+					<v:cp v:nameU="Radius" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+							v:langID="0" v:cal="0" v:val="VT0(157.48031496063):21"/>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud v:nameU="LX1"/>
+					<v:ud v:nameU="LY1"/>
+					<v:ud v:nameU="RX1" v:val="VT0(0):21"/>
+					<v:ud v:nameU="RY1" v:val="VT0(-5.8975047068089E-013):21"/>
+					<v:ud v:nameU="A1" v:val="VT0(-3.1415926535898):32"/>
+					<v:ud v:nameU="T1" v:val="VT0(5.9055118110236):24"/>
+					<v:ud v:nameU="RefLn1" v:val="VT0(0):26"/>
+					<v:ud v:nameU="Mtrl1" v:prompt="0=Unknown, 1=Wall" v:val="VT0(1):26"/>
+					<v:ud v:nameU="JointType1" v:prompt="0M." v:val="VT0(1):26"/>
+					<v:ud v:nameU="1" v:prompt="---------------------------------" v:val="VT4(---------------------------------)"/>
+					<v:ud v:nameU="RelA1" v:val="VT0(1.5707963267949):32"/>
+					<v:ud v:nameU="EndsDontMeet1" v:prompt="Within radius of User.Fuzz" v:val="VT0(0):5"/>
+					<v:ud v:nameU="ShapeGone1" v:val="VT0(0):5"/>
+					<v:ud v:nameU="AngTooSharp1"/>
+					<v:ud v:nameU="AngTooBlunt1" v:val="VT0(0):26"/>
+					<v:ud v:nameU="EndNotOnLine1" v:prompt="Within distance User.Fuzz of being on line." v:val="VT0(0):5"/>
+					<v:ud v:nameU="DiffMtrls1" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="CornerClose1" v:val="VT0(0):5"/>
+					<v:ud v:nameU="TClose1" v:val="VT0(0):26"/>
+					<v:ud v:nameU="11" v:prompt="---------------------------------" v:val="VT4(---------------------------------)"/>
+					<v:ud v:nameU="Closed1" v:val="VT0(0):5"/>
+					<v:ud v:nameU="Corner1" v:val="VT0(1):5"/>
+					<v:ud v:nameU="TJointOpen1" v:val="VT0(0):5"/>
+					<v:ud v:nameU="TJointClosed1" v:val="VT0(0):5"/>
+					<v:ud v:nameU="_" v:prompt="=================" v:val="VT4(=================)"/>
+					<v:ud v:nameU="LX2" v:val="VT0(2.2737367544323E-013):21"/>
+					<v:ud v:nameU="LY2" v:val="VT0(98.425196850394):21"/>
+					<v:ud v:nameU="RX2"/>
+					<v:ud v:nameU="RY2"/>
+					<v:ud v:nameU="A2" v:val="VT0(0):32"/>
+					<v:ud v:nameU="T2" v:val="VT0(5.9055118110236):24"/>
+					<v:ud v:nameU="RefLn2" v:val="VT0(0):26"/>
+					<v:ud v:nameU="Mtrl2" v:prompt="0=Unknown, 1=Wall" v:val="VT0(1):26"/>
+					<v:ud v:nameU="JointType2" v:prompt="5.7752913562581E-15M." v:val="VT0(1):26"/>
+					<v:ud v:nameU="2" v:prompt="---------------------------------" v:val="VT4(---------------------------------)"/>
+					<v:ud v:nameU="RelA2" v:val="VT0(4.7123889803847):32"/>
+					<v:ud v:nameU="EndsDontMeet2" v:prompt="Within radius of User.Fuzz" v:val="VT0(0):5"/>
+					<v:ud v:nameU="ShapeGone2" v:val="VT0(0):5"/>
+					<v:ud v:nameU="AngTooSharp2"/>
+					<v:ud v:nameU="AngTooBlunt2" v:val="VT0(0):26"/>
+					<v:ud v:nameU="EndNotOnLine2" v:prompt="Within distance User.Fuzz of being on line." v:val="VT0(0):5"/>
+					<v:ud v:nameU="DiffMtrls2" v:val="VT0(0):5"/>
+					<v:ud v:nameU="CornerClose2" v:val="VT0(0):5"/>
+					<v:ud v:nameU="TClose2" v:val="VT0(0):26"/>
+					<v:ud v:nameU="22" v:prompt="---------------------------------" v:val="VT4(---------------------------------)"/>
+					<v:ud v:nameU="Closed2" v:val="VT0(0):5"/>
+					<v:ud v:nameU="Corner2" v:val="VT0(1):5"/>
+					<v:ud v:nameU="TJointOpen2" v:val="VT0(0):5"/>
+					<v:ud v:nameU="TJointClosed2" v:val="VT0(0):5"/>
+					<v:ud v:nameU="__" v:prompt="=================" v:val="VT4(=================)"/>
+					<v:ud v:nameU="Fuzz" v:val="VT0(0.19685039370079):24"/>
+					<v:ud v:nameU="LineStyleIndex" v:val="VT0(0):26"/>
+					<v:ud v:nameU="WallShape" v:prompt="Shape Identifier"/>
+					<v:ud v:nameU="OverLayT" v:val="VT0(0.59055118110236):24"/>
+					<v:ud v:nameU="3D_type" v:val="VT0(2):26"/>
+					<v:ud v:nameU="3D_offset" v:val="VT0(0):26"/>
+					<v:ud v:nameU="3D_extrude_length" v:val="VT0(102.36220472441):21"/>
+					<v:ud v:nameU="Is_arc" v:val="VT0(0):5"/>
+					<v:ud v:nameU="2D_length_check" v:val="VT0(98.425196850394):21"/>
+					<v:ud v:nameU="visWallPriority" v:val="VT0(50):26"/>
+					<v:ud v:nameU="visObjectType" v:prompt="Wall" v:val="VT0(101):26"/>
+					<v:ud v:nameU="visBESelected" v:val="VT0(0):5"/>
+					<v:ud v:nameU="CleanupBegin" v:val="VT0(-5.8975047068089E-013):21"/>
+					<v:ud v:nameU="CleanupEnd" v:val="VT0(98.425196850394):21"/>
+					<v:ud v:nameU="PreviousWidth" v:val="VT0(98.425196850394):21"/>
+					<v:ud v:nameU="RefLn" v:val="VT0(0):26"/>
+					<v:ud v:nameU="CurveSwitch" v:val="VT0(1):26"/>
+					<v:ud v:nameU="ControlsY1" v:val="VT0(0):26"/>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+					<v:ud v:nameU="SolSH" v:val="VT4({5D50005D-537C-4738-9C46-130C74335A6D})"/>
+					<v:ud v:nameU="ShapeClass" v:prompt="Компонент здания" v:val="VT0(3):26"/>
+					<v:ud v:nameU="ShapeType" v:prompt="Стена" v:val="VT0(44):26"/>
+					<v:ud v:nameU="SubShapeType" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="CurveLookup" v:val="VT0(1):26"/>
+					<v:ud v:nameU="AntiScale" v:val="VT0(100):26"/>
+					<v:ud v:nameU="HasText" v:val="VT0(0):5"/>
+					<v:ud v:nameU="RX1" v:prompt="" v:val="VT0(0):1"/>
+					<v:ud v:nameU="RY1" v:prompt="" v:val="VT0(-6.8804221579437E-013):1"/>
+					<v:ud v:nameU="JointType1" v:prompt="0ММ" v:val="VT0(0):26"/>
+					<v:ud v:nameU="LX2" v:prompt="" v:val="VT0(2.652692880171E-013):1"/>
+					<v:ud v:nameU="LY2" v:prompt="" v:val="VT0(492.12598425197):1"/>
+					<v:ud v:nameU="JointType2" v:prompt="6,7378399156344E-12ММ" v:val="VT0(0):26"/>
+					<v:ud v:nameU="visBESelected" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="CleanupBegin" v:prompt="" v:val="VT0(-6.8804221579437E-013):1"/>
+					<v:ud v:nameU="CleanupEnd" v:prompt="" v:val="VT0(492.12598425197):1"/>
+					<v:ud v:nameU="PreviousWidth" v:prompt="" v:val="VT0(492.12598425197):26"/>
+					<v:ud v:nameU="AntiScale" v:prompt="" v:val="VT0(50):26"/>
+				</v:userDefs>
+				<title>Лист.23</title>
+				<g id="shape24-51" v:mID="24" v:groupContext="shape" v:layerMember="0;1">
+					<title>Лист.24</title>
+					<v:userDefs>
+						<v:ud v:nameU="WallFill" v:prompt="Shape Identifier"/>
+					</v:userDefs>
+					<path d="M-8.5 1675.28 L717.17 1675.28 L708.66 1683.78 L0 1683.78 L-8.5 1675.28 Z" class="st1"/>
+				</g>
+				<g id="shape25-54" v:mID="25" v:groupContext="shape" v:layerMember="0;1"
+						transform="translate(-1190.61,2874.39) rotate(-135)">
+					<title>Лист.25</title>
+					<v:userDefs>
+						<v:ud v:nameU="WallCap" v:prompt="Shape Identifier"/>
+					</v:userDefs>
+					<rect x="0" y="1682.93" width="12.0264" height="0.850394" class="st2"/>
+				</g>
+				<g id="shape26-56" v:mID="26" v:groupContext="shape" v:layerMember="0;1"
+						transform="translate(1907.78,2865.89) rotate(135)">
+					<title>Лист.26</title>
+					<v:userDefs>
+						<v:ud v:nameU="WallCap" v:prompt="Shape Identifier"/>
+					</v:userDefs>
+					<rect x="0" y="1682.93" width="12.0264" height="0.850394" class="st2"/>
+				</g>
+				<g id="shape27-58" v:mID="27" v:groupContext="shape" v:layerMember="0;1">
+					<title>Лист.27</title>
+					<v:userDefs>
+						<v:ud v:nameU="WallRefLine" v:prompt="Shape Identifier"/>
+					</v:userDefs>
+				</g>
+				<g id="shape28-60" v:mID="28" v:groupContext="shape" v:layerMember="0;1">
+					<title>Лист.28</title>
+					<v:userDefs>
+						<v:ud v:nameU="WallCompGeom1" v:prompt="Shape Identifier" v:val="VT0(-0.66693806165226):26"/>
+					</v:userDefs>
+					<path d="M-8.5 1675.28 L717.17 1675.28" class="st3"/>
+					<path d="M0 1683.78 L708.66 1683.78" class="st3"/>
+				</g>
+				<g id="shape29-64" v:mID="29" v:groupContext="shape" v:layerMember="0;1" transform="translate(312.47,-8.50394)">
+					<title>Лист.29</title>
+					<v:custProps>
+						<v:cp v:nameU="LPrec" v:lbl="Точность" v:type="1" v:format="0;0.0;0.00;0.000;0.0000" v:sortKey="2"
+								v:invis="false" v:langID="1049" v:val="VT4(0)"/>
+						<v:cp v:nameU="LUnits" v:lbl="Единицы" v:type="1"
+								v:format=" Использовать единицы страницы документа;.Футы-дюймы (1&#39;-0&#34;);.Футы (1,00&#39;);.Дюймы;.Футы (1,00 фт);.Мили;-Миллиметры;-Сантиметры;-Метры;-Километры"
+								v:sortKey="1" v:invis="false" v:langID="1049" v:val="VT4( Использовать единицы страницы документа)"/>
+						<v:cp v:nameU="ShowUnits" v:lbl="Вывод единиц" v:type="1"
+								v:format="Не показывать единицы;Показывать единицы" v:sortKey="4" v:invis="false" v:langID="1049"
+								v:val="VT4(Показывать единицы)"/>
+						<v:cp v:nameU="LInchPrec" v:lbl="Точность" v:type="1"
+								v:format="    1 in.; 1/2 in.; 1/4 in.; 1/8 in.;1/16 in." v:sortKey="3" v:invis="true"
+								v:langID="1049" v:val="VT4(1/16 in.)"/>
+						<v:cp v:nameU="LPrec" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+								v:ask="false" v:langID="0" v:cal="0" v:val="VT4(0.00)"/>
+						<v:cp v:nameU="ShowUnits" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+								v:ask="false" v:langID="0" v:cal="0" v:val="VT4(Не показывать единицы)"/>
+					</v:custProps>
+					<v:userDefs>
+						<v:ud v:nameU="Hide" v:val="VT0(1):5"/>
+						<v:ud v:nameU="LUnitsFactor" v:val="VT0(0):21"/>
+						<v:ud v:nameU="FormatString" v:val="VT4(0u)"/>
+						<v:ud v:nameU="LengthText" v:val="VT4(3м)"/>
+						<v:ud v:nameU="Length" v:val="VT0(98.425196850394):21"/>
+						<v:ud v:nameU="LPFString" v:prompt="Linear Precision Formatting String" v:val="VT4(0)"/>
+						<v:ud v:nameU="LPrec" v:val="VT0(0):26"/>
+						<v:ud v:nameU="LPrecInd" v:val="VT0(0):26"/>
+						<v:ud v:nameU="LPrecVal" v:val="VT4(0)"/>
+						<v:ud v:nameU="LUnits" v:val="VT0(0):26"/>
+						<v:ud v:nameU="LUnitsInd" v:prompt="0=Dwg, 1=Arch, 2=Dec Ft, 3+ = other" v:val="VT0(0):26"/>
+						<v:ud v:nameU="LUnitsVal" v:val="VT4( Использовать единицы страницы документа)"/>
+						<v:ud v:nameU="ShowUnits" v:val="VT0(1):26"/>
+						<v:ud v:nameU="ShowUnitsInd" v:val="VT0(1):26"/>
+						<v:ud v:nameU="ShowUnitsVal" v:val="VT4(Показывать единицы)"/>
+						<v:ud v:nameU="FeetInch" v:val="VT0(0):26"/>
+						<v:ud v:nameU="Feet" v:val="VT0(0):26"/>
+						<v:ud v:nameU="Inch" v:val="VT0(0):26"/>
+						<v:ud v:nameU="InchPrec" v:val="VT0(16):26"/>
+						<v:ud v:nameU="WatchLength" v:val="VT0(98.425196850394):21"/>
+						<v:ud v:nameU="DrawingUnitFactor" v:val="VT0(0):21"/>
+						<v:ud v:nameU="HideArrow" v:val="VT0(0):5"/>
+						<v:ud v:nameU="LInchPrecInd" v:val="VT0(4):26"/>
+						<v:ud v:nameU="DirArrowSize" v:val="VT0(10.668166666667):1"/>
+						<v:ud v:nameU="DirArrowOffset" v:val="VT0(19.378970703675):1"/>
+						<v:ud v:nameU="LInchPrec" v:val="VT0(4):26"/>
+						<v:ud v:nameU="LInchPrecVal" v:val="VT4(1/16 in.)"/>
+						<v:ud v:nameU="LUnitsFactor" v:prompt="" v:val="VT0(0):24"/>
+						<v:ud v:nameU="FormatString" v:prompt="" v:val="VT4(0.00)"/>
+						<v:ud v:nameU="LengthText" v:prompt="" v:val="VT4(12500,00)"/>
+						<v:ud v:nameU="Length" v:prompt="" v:val="VT0(492.12598425197):24"/>
+						<v:ud v:nameU="LPFString" v:prompt="" v:val="VT4(0.00)"/>
+						<v:ud v:nameU="LPrec" v:prompt="" v:val="VT0(2):26"/>
+						<v:ud v:nameU="LPrecInd" v:prompt="" v:val="VT0(2):26"/>
+						<v:ud v:nameU="LPrecVal" v:prompt="" v:val="VT4(0.00)"/>
+						<v:ud v:nameU="ShowUnits" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="ShowUnitsInd" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="ShowUnitsVal" v:prompt="" v:val="VT4(Не показывать единицы)"/>
+						<v:ud v:nameU="WatchLength" v:prompt="" v:val="VT0(492.12598425197):1"/>
+						<v:ud v:nameU="DrawingUnitFactor" v:prompt="" v:val="VT0(0):24"/>
+						<v:ud v:nameU="DirArrowSize" v:prompt="" v:val="VT0(5.3340833333333):1"/>
+						<v:ud v:nameU="DirArrowOffset" v:prompt="" v:val="VT0(31.660615723206):1"/>
+					</v:userDefs>
+					<v:textBlock v:margins="rect(4,0,0,0)" v:tabSpace="42.5197"/>
+					<v:textRect cx="41.8611" cy="1670.98" width="83.73" height="25.6036"/>
+				</g>
+			</g>
+		</g>
+		<g id="group30-66" transform="translate(-541.417,457.795) rotate(-90)" v:mID="30" v:groupContext="group"
+				v:layerMember="0;2">
+			<v:custProps>
+				<v:cp v:nameU="VisDoorHeight" v:lbl="Высота двери" v:type="4"
+						v:format="2100 mm;2300 mm;2350 mm;2400 mm;2700 mm;3000 mm" v:sortKey="2" v:invis="false" v:langID="1049"
+						v:val="VT0(82.677165354331):24"/>
+				<v:cp v:nameU="RefLn" v:lbl="Смещение относительно опорной линии" v:type="2" v:format="" v:invis="true"
+						v:langID="1049" v:val="VT0(0):26"/>
+				<v:cp v:nameU="SubType" v:lbl="Ширина двери" v:type="4"
+						v:format="600 mm;700 mm;800 mm;900 mm;1000 mm;1200 mm;1500 mm;1800 mm;2100 mm" v:sortKey="1"
+						v:invis="false" v:langID="1049" v:val="VT0(35.433070866142):24"/>
+				<v:cp v:nameU="SubVisDoorFrameWidth" v:lbl="Ширина дверной коробки" v:type="4"
+						v:format="10 mm;20 mm;30 mm;40 mm;50 mm;60 mm;70 mm;80 mm;90 mm;100 mm" v:invis="true" v:langID="1049"
+						v:val="VT0(1.9685039370079):24"/>
+				<v:cp v:nameU="SubVisDoorFrameDepth" v:lbl="Толщина дверной коробки" v:type="4"
+						v:format="Как у стены;100 mm;150 mm;200 mm;250 mm;300 mm" v:invis="true" v:langID="1049"
+						v:val="VT0(1.9685039370079):24"/>
+				<v:cp v:nameU="SubVisDoorStopWidth" v:lbl="Ширина ограничителя двери" v:type="4"
+						v:format="10 mm;20 mm;30 mm;40 mm;50 mm;60 mm;70 mm;80 mm;90 mm;100 mm" v:invis="true" v:langID="1049"
+						v:val="VT0(0.78740157480315):24"/>
+				<v:cp v:nameU="SubVisDoorStopDepth" v:lbl="Толщина ограничителя двери" v:type="4"
+						v:format="10 mm;20 mm;30 mm;40 mm;50 mm;60 mm;70 mm;80 mm;90 mm;100 mm" v:invis="true" v:langID="1049"
+						v:val="VT0(1.9685039370079):24"/>
+				<v:cp v:nameU="SubVisDoorThresDepthIn" v:lbl="Внутренняя толщина порога двери" v:type="4"
+						v:format="10 mm;20 mm;30 mm;40 mm;50 mm;60 mm;70 mm;80 mm;90 mm;100 mm" v:invis="true" v:langID="1049"
+						v:val="VT0(1.9685039370079):24"/>
+				<v:cp v:nameU="SubVisDoorThresWidthIn" v:lbl="Внутренняя ширина порога двери" v:type="4"
+						v:format="0 mm;10 mm;20 mm;30 mm;40 mm;50 mm;60 mm;70 mm;80 mm;90 mm;100 mm" v:invis="true" v:langID="1049"
+						v:val="VT0(1.9685039370079):24"/>
+				<v:cp v:nameU="SubVisDoorThresDepthOut" v:lbl="Наружная толщина порога двери" v:type="4"
+						v:format="0 mm;10 mm;20 mm;30 mm;40 mm;50 mm;60 mm;70 mm;80 mm;90 mm;100 mm" v:invis="true" v:langID="1049"
+						v:val="VT0(1.9685039370079):24"/>
+				<v:cp v:nameU="SubVisDoorThresWidthOut" v:lbl="Наружная ширина порога двери" v:type="4"
+						v:format="0 mm;10 mm;20 mm;30 mm;40 mm;50 mm;60 mm;70 mm;80 mm;90 mm;100 mm" v:invis="true" v:langID="1049"
+						v:val="VT0(1.9685039370079):24"/>
+				<v:cp v:nameU="SubVisDoorPanelThickness" v:lbl="Толщина филенки" v:type="4"
+						v:format="10 mm;20 mm;30 mm;40 mm;50 mm;60 mm;70 mm;80 mm;90 mm;100 mm" v:invis="true" v:langID="1049"
+						v:val="VT0(1.9685039370079):24"/>
+				<v:cp v:nameU="VisDoorLeaf" v:lbl="Ширина дверного полотна" v:type="4"
+						v:format="300 mm;350 mm;400 mm;450 mm;500 mm;600 mm;750 mm;900 mm;1050 mm" v:invis="true" v:langID="1049"
+						v:val="VT0(17.716535433071):24"/>
+				<v:cp v:nameU="VisDoorSpring" v:lbl="Высота дверной пружины" v:type="4"
+						v:format="1050 mm;1150 mm;1200 mm;1350 mm;1500 mm" v:invis="true" v:langID="1049"
+						v:val="VT0(41.338582677165):24"/>
+				<v:cp v:nameU="VisDoorAlongWallOffset" v:lbl="Смещение двери вдоль стены" v:type="4"
+						v:format="0 mm;50 mm;100 mm;150 mm;200 mm" v:invis="true" v:langID="1049" v:val="VT0(3.9370078740157):24"/>
+				<v:cp v:nameU="SubShapeType" v:lbl="Тип двери" v:type="1" v:format="Одностворчатая;Двустворчатая распашная"
+						v:sortKey="3" v:invis="false" v:langID="1049" v:val="VT4(Одностворчатая)"/>
+				<v:cp v:nameU="VisJustification" v:lbl="Смещение двери внутрь стены" v:type="1" v:format="Влево;По центру;Вправо"
+						v:sortKey="4" v:invis="true" v:langID="1049" v:val="VT4(По центру)"/>
+				<v:cp v:nameU="VisDoorOpenPercent" v:lbl="Процент открытия двери" v:type="4" v:format="0;25;50;75;100"
+						v:sortKey="5" v:invis="false" v:langID="1049" v:val="VT4(50)"/>
+				<v:cp v:nameU="ShapeClass" v:lbl="Класс фигуры" v:type="0" v:invis="true" v:langID="1049"
+						v:val="VT4(Компонент здания)"/>
+				<v:cp v:nameU="ShapeType" v:lbl="Тип фигуры" v:type="0" v:invis="true" v:langID="1049" v:val="VT4(Дверь)"/>
+				<v:cp v:nameU="FireRating" v:lbl="Степень пожарной опасности" v:type="0" v:invis="false" v:langID="1049"/>
+				<v:cp v:nameU="DoorNumber" v:lbl="Номер двери" v:type="0" v:sortKey="6" v:invis="false" v:langID="1049"/>
+				<v:cp v:nameU="BaseElevation" v:lbl="Базовая высота" v:type="2" v:langID="1049"/>
+				<v:cp v:nameU="SubVisDoorFrameWidth" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="0" v:cal="0" v:val="VT4(50 mm)"/>
+				<v:cp v:nameU="SubVisDoorFrameDepth" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="0" v:cal="0" v:val="VT4(50 mm)"/>
+				<v:cp v:nameU="SubVisDoorStopWidth" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="0" v:cal="0" v:val="VT4(20 mm)"/>
+				<v:cp v:nameU="SubVisDoorStopDepth" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="0" v:cal="0" v:val="VT4(50 mm)"/>
+				<v:cp v:nameU="SubVisDoorThresDepthIn" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="0" v:cal="0" v:val="VT4(50 mm)"/>
+				<v:cp v:nameU="SubVisDoorThresWidthIn" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="0" v:cal="0" v:val="VT4(50 mm)"/>
+				<v:cp v:nameU="SubVisDoorThresDepthOut" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="0" v:cal="0" v:val="VT4(50 mm)"/>
+				<v:cp v:nameU="SubVisDoorThresWidthOut" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="0" v:cal="0" v:val="VT4(50 mm)"/>
+				<v:cp v:nameU="SubVisDoorPanelThickness" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="0" v:cal="0" v:val="VT4(50 mm)"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="AntiScale" v:val="VT0(100):26"/>
+				<v:ud v:nameU="VisIsDouble" v:val="VT0(0):5"/>
+				<v:ud v:nameU="TextAng" v:val="VT0(0):32"/>
+				<v:ud v:nameU="SubShapeLocPinY" v:val="VT0(0):26"/>
+				<v:ud v:nameU="WallOpening"/>
+				<v:ud v:nameU="LinkedToWall"/>
+				<v:ud v:nameU="3D_type" v:val="VT0(1):26"/>
+				<v:ud v:nameU="3D_model_id" v:val="VT4(дверь)"/>
+				<v:ud v:nameU="VisDoorInWallOffset" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VisWallLinePattern" v:val="VT0(1):26"/>
+				<v:ud v:nameU="VisWallRefLn" v:val="VT0(0):26"/>
+				<v:ud v:nameU="SubVisDoorShowFrame" v:val="VT0(1):26"/>
+				<v:ud v:nameU="visObjectType" v:prompt="Door" v:val="VT0(102):26"/>
+				<v:ud v:nameU="visDoorUIDisableCodes" v:val="VT0(4):26"/>
+				<v:ud v:nameU="SubVisDoorShowStop" v:val="VT0(1):26"/>
+				<v:ud v:nameU="visBESelected" v:val="VT0(0):5"/>
+				<v:ud v:nameU="VisWallLineWeight" v:val="VT0(0.0033333333333333):29"/>
+				<v:ud v:nameU="VisWallLineColor" v:val="VT0(0):26"/>
+				<v:ud v:nameU="SubVisDoorPanelsClosed" v:val="VT0(0):26"/>
+				<v:ud v:nameU="SubVisDoorShowSwing" v:val="VT0(1):26"/>
+				<v:ud v:nameU="SubVisDoorFrameToWall" v:val="VT0(1):26"/>
+				<v:ud v:nameU="SubVisDoorShowPanel" v:val="VT0(1):26"/>
+				<v:ud v:nameU="SubVisDoorShowHeader" v:val="VT0(0):26"/>
+				<v:ud v:nameU="SubVisDoorShowTag" v:val="VT0(0):26"/>
+				<v:ud v:nameU="SubVisDoorShowThreshold" v:val="VT0(0):26"/>
+				<v:ud v:nameU="JustfyLookup" v:val="VT0(1):26"/>
+				<v:ud v:nameU="RefLn" v:val="VT0(0):26"/>
+				<v:ud v:nameU="HasText" v:val="VT0(0):5"/>
+				<v:ud v:nameU="VisWallLineWeightInch" v:val="VT0(0.33333333333333):26"/>
+				<v:ud v:nameU="SubVisDoorSwingAs" v:val="VT0(0):26"/>
+				<v:ud v:nameU="SubVisDoorShowThresIn" v:val="VT0(1):26"/>
+				<v:ud v:nameU="SubVisDoorShowThresOut" v:val="VT0(1):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="BottomBow" v:val="VT0(0):26"/>
+				<v:ud v:nameU="TopBow" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PreviousWallParam" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PreviousWallDir" v:val="VT0(0):26"/>
+				<v:ud v:nameU="TriggerOpeningLink"/>
+				<v:ud v:nameU="SolSH" v:val="VT4({5D50005D-537C-4738-9C46-130C74335A6D})"/>
+				<v:ud v:nameU="ShapeClass" v:prompt="Компонент здания" v:val="VT0(3):26"/>
+				<v:ud v:nameU="ShapeType" v:prompt="Дверь" v:val="VT0(10):26"/>
+				<v:ud v:nameU="SubShapeType" v:prompt="Одностворчатая" v:val="VT0(74):26"/>
+				<v:ud v:nameU="AntiScale" v:prompt="" v:val="VT0(50):26"/>
+				<v:ud v:nameU="TextAng" v:prompt="" v:val="VT0(1.5707963267949):37"/>
+				<v:ud v:nameU="SubShapeLocPinY" v:prompt="" v:val="VT0(5.9055118110236):24"/>
+				<v:ud v:nameU="VisWallRefLn" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visBESelected" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VisWallLineWeight" v:prompt="" v:val="VT0(0.017361111111111):29"/>
+				<v:ud v:nameU="VisWallLineColor" v:prompt="" v:val="VT5(#696969)"/>
+				<v:ud v:nameU="VisWallLineWeightInch" v:prompt="" v:val="VT0(0.86805555555556):26"/>
+				<v:ud v:nameU="PreviousWallParam" v:prompt="" v:val="VT0(0.374):26"/>
+			</v:userDefs>
+			<title>Дверь</title>
+			<g id="shape31-67" v:mID="31" v:groupContext="shape" v:layerMember="0;2">
+				<title>Лист.31</title>
+				<v:userDefs>
+					<v:ud v:nameU="Overhang" v:val="VT0(0.2):26"/>
+					<v:ud v:nameU="SubVisDoorFrameWidth" v:val="VT0(1.9685039370079):24"/>
+					<v:ud v:nameU="visBESnapObject" v:val="VT0(1):26"/>
+					<v:ud v:nameU="Overhang" v:prompt="" v:val="VT0(0.52083333333333):26"/>
+				</v:userDefs>
+				<path d="M-2.83 1684.53 L53.86 1684.53 L53.86 1674.53 L-2.83 1674.53 L-2.83 1684.53 Z" class="st4"/>
+			</g>
+			<g id="shape32-69" v:mID="32" v:groupContext="shape" v:layerMember="0;2" transform="translate(-5.66929,2.83465)">
+				<title>Лист.32</title>
+				<v:userDefs>
+					<v:ud v:nameU="DropOnPageScale" v:val="VT0(1):27"/>
+				</v:userDefs>
+			</g>
+			<g id="shape33-71" v:mID="33" v:groupContext="shape" v:layerMember="0;2" transform="translate(-5.66929,-8.50394)">
+				<title>Лист.33</title>
+				<v:userDefs>
+					<v:ud v:nameU="DropOnPageScale" v:val="VT0(1):27"/>
+				</v:userDefs>
+			</g>
+			<g id="shape34-73" v:mID="34" v:groupContext="shape" v:layerMember="0;2" transform="translate(-2.83465,-2.27374E-013)">
+				<title>Лист.34</title>
+			</g>
+			<g id="shape35-75" v:mID="35" v:groupContext="shape" v:layerMember="0;2" transform="translate(-2.83465,-2.27374E-013)">
+				<title>Лист.35</title>
+				<v:userDefs>
+					<v:ud v:nameU="DropOnPageScale" v:val="VT0(1):27"/>
+				</v:userDefs>
+				<path d="M56.69 1683.78 L56.69 1675.28 L53.86 1675.28 L53.86 1678.11 L53.86 1680.94 L53.86 1683.78 L56.69 1683.78
+							 ZM0 1683.78 L0 1675.28 L2.83 1675.28 L2.83 1678.11 L2.83 1680.94 L2.83 1683.78 L0 1683.78 Z"
+						class="st1"/>
+				<path d="M56.69 1683.78 L56.69 1675.28 L53.86 1675.28 L53.86 1678.11M53.86 1680.94 L53.86 1683.78 L56.69 1683.78M0
+							 1683.78 L0 1675.28 L2.83 1675.28 L2.83 1678.11M2.83 1680.94 L2.83 1683.78 L0 1683.78" class="st3"/>
+			</g>
+			<g id="shape36-78" v:mID="36" v:groupContext="shape" v:layerMember="0;2" transform="translate(0,-2.83465)">
+				<title>Лист.36</title>
+				<v:userDefs>
+					<v:ud v:nameU="SubVisDoorFrameWidth" v:val="VT0(0.78740157480315):24"/>
+					<v:ud v:nameU="DropOnPageScale" v:val="VT0(1):27"/>
+				</v:userDefs>
+				<path d="M51.02 1680.94 L49.89 1680.94 L49.89 1683.78 L51.02 1683.78 L51.02 1680.94 ZM0 1680.94 L1.13 1680.94 L1.13
+							 1683.78 L0 1683.78 L0 1680.94 Z" class="st1"/>
+				<path d="M51.02 1680.94 L49.89 1680.94 L49.89 1683.78 L51.02 1683.78M0 1680.94 L1.13 1680.94 L1.13 1683.78 L0 1683.78"
+						class="st3"/>
+			</g>
+			<g id="shape37-81" v:mID="37" v:groupContext="shape" v:layerMember="0;2" transform="translate(-2.83465,-2.27374E-013)">
+				<title>Лист.37</title>
+				<v:userDefs>
+					<v:ud v:nameU="SubVisDoorFrameDepth" v:val="VT0(1.9685039370079):24"/>
+					<v:ud v:nameU="DropOnPageScale" v:val="VT0(1):27"/>
+				</v:userDefs>
+				<path d="M56.69 1683.78 L56.69 1675.28" class="st5"/>
+				<path d="M0 1683.78 L0 1675.28" class="st5"/>
+			</g>
+			<g id="shape38-85" v:mID="38" v:groupContext="shape" v:layerMember="0;2" transform="translate(0,-8.50394)">
+				<title>Лист.38</title>
+				<v:userDefs>
+					<v:ud v:nameU="VisDoorShowSwingAsArc" v:val="VT0(1):5"/>
+					<v:ud v:nameU="VisDoorShowSwingAsLine" v:val="VT0(0):26"/>
+				</v:userDefs>
+				<path d="M0 1683.78 A51.0236 51.0236 0 0 1 51.02 1632.76" class="st5"/>
+			</g>
+			<g id="shape39-88" v:mID="39" v:groupContext="shape" v:layerMember="0;2"
+					transform="translate(1731.97,1624.25) rotate(90)">
+				<title>Лист.39</title>
+				<rect x="0" y="1680.94" width="51.0236" height="2.83465" class="st6"/>
+			</g>
+			<g id="shape40-90" v:mID="40" v:groupContext="shape" v:layerMember="0;2" transform="translate(0,3361.89) scale(1,-1)">
+				<title>Лист.40</title>
+				<v:userDefs>
+					<v:ud v:nameU="VisDoorShowSwingAsArc" v:val="VT0(1):5"/>
+					<v:ud v:nameU="VisDoorShowSwingAsLine" v:val="VT0(0):26"/>
+				</v:userDefs>
+			</g>
+			<g id="shape41-92" v:mID="41" v:groupContext="shape" v:layerMember="0;2"
+					transform="translate(-1632.76,1729.13) rotate(-90)">
+				<title>Лист.41</title>
+				<v:userDefs>
+					<v:ud v:nameU="DropOnPageScale" v:val="VT0(1):27"/>
+				</v:userDefs>
+				<rect x="0" y="1680.94" width="51.0236" height="2.83465" class="st7"/>
+			</g>
+			<g id="shape42-94" v:mID="42" v:groupContext="shape" v:layerMember="0;2" transform="translate(-5.68806,-8.50394)">
+				<title>Лист.42</title>
+				<v:custProps>
+					<v:cp v:nameU="LPrec" v:lbl="Точность" v:type="1" v:format="0;0.0;0.00;0.000;0.0000" v:sortKey="2"
+							v:invis="false" v:langID="1049" v:val="VT4(0)"/>
+					<v:cp v:nameU="LUnits" v:lbl="Единицы" v:type="1"
+							v:format=" Использовать единицы страницы документа;.Футы-дюймы (1&#39;-0&#34;);.Футы (1,00&#39;);.Дюймы;.Футы (1,00 фт);.Мили;-Миллиметры;-Сантиметры;-Метры;-Километры"
+							v:sortKey="1" v:invis="false" v:langID="1049" v:val="VT4( Использовать единицы страницы документа)"/>
+					<v:cp v:nameU="ShowUnits" v:lbl="Вывод единиц" v:type="1" v:format="Не показывать единицы;Показывать единицы"
+							v:sortKey="4" v:invis="false" v:langID="1049" v:val="VT4(Показывать единицы)"/>
+					<v:cp v:nameU="LInchPrec" v:lbl="Точность" v:type="1" v:format="    1 in.; 1/2 in.; 1/4 in.; 1/8 in.;1/16 in."
+							v:sortKey="3" v:invis="true" v:langID="1049" v:val="VT4(1/16 in.)"/>
+					<v:cp v:nameU="LPrec" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+							v:langID="0" v:cal="0" v:val="VT4(0.00)"/>
+					<v:cp v:nameU="ShowUnits" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+							v:ask="false" v:langID="0" v:cal="0" v:val="VT4(Не показывать единицы)"/>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud v:nameU="Hide" v:val="VT0(1):5"/>
+					<v:ud v:nameU="LUnitsFactor" v:val="VT0(0):21"/>
+					<v:ud v:nameU="FormatString" v:val="VT4(0u)"/>
+					<v:ud v:nameU="LengthText" v:val="VT4(1м)"/>
+					<v:ud v:nameU="Length" v:val="VT0(35.433070866142):21"/>
+					<v:ud v:nameU="LPFString" v:prompt="Linear Precision Formatting String" v:val="VT4(0)"/>
+					<v:ud v:nameU="LPrec" v:val="VT0(0):26"/>
+					<v:ud v:nameU="LPrecInd" v:val="VT0(0):26"/>
+					<v:ud v:nameU="LPrecVal" v:val="VT4(0)"/>
+					<v:ud v:nameU="LUnits" v:val="VT0(0):26"/>
+					<v:ud v:nameU="LUnitsInd" v:prompt="0=Dwg, 1=Arch, 2=Dec Ft, 3+ = other" v:val="VT0(0):26"/>
+					<v:ud v:nameU="LUnitsVal" v:val="VT4( Использовать единицы страницы документа)"/>
+					<v:ud v:nameU="ShowUnits" v:val="VT0(1):26"/>
+					<v:ud v:nameU="ShowUnitsInd" v:val="VT0(1):26"/>
+					<v:ud v:nameU="ShowUnitsVal" v:val="VT4(Показывать единицы)"/>
+					<v:ud v:nameU="FeetInch" v:val="VT0(0):26"/>
+					<v:ud v:nameU="Feet" v:val="VT0(0):26"/>
+					<v:ud v:nameU="Inch" v:val="VT0(0):26"/>
+					<v:ud v:nameU="InchPrec" v:val="VT0(16):26"/>
+					<v:ud v:nameU="WatchLength" v:val="VT0(35.433070866142):24"/>
+					<v:ud v:nameU="DrawingUnitFactor" v:val="VT0(0):21"/>
+					<v:ud v:nameU="HideArrow" v:val="VT0(1):5"/>
+					<v:ud v:nameU="LInchPrecInd" v:val="VT0(4):26"/>
+					<v:ud v:nameU="DirArrowSize" v:val="VT0(10.668166666667):1"/>
+					<v:ud v:nameU="DirArrowOffset" v:val="VT0(19.378970703675):1"/>
+					<v:ud v:nameU="LInchPrec" v:val="VT0(4):26"/>
+					<v:ud v:nameU="LInchPrecVal" v:val="VT4(1/16 in.)"/>
+					<v:ud v:nameU="LUnitsFactor" v:prompt="" v:val="VT0(0):24"/>
+					<v:ud v:nameU="FormatString" v:prompt="" v:val="VT4(0.00)"/>
+					<v:ud v:nameU="LengthText" v:prompt="" v:val="VT4(900,00)"/>
+					<v:ud v:nameU="Length" v:prompt="" v:val="VT0(35.433070866142):24"/>
+					<v:ud v:nameU="LPFString" v:prompt="" v:val="VT4(0.00)"/>
+					<v:ud v:nameU="LPrec" v:prompt="" v:val="VT0(2):26"/>
+					<v:ud v:nameU="LPrecInd" v:prompt="" v:val="VT0(2):26"/>
+					<v:ud v:nameU="LPrecVal" v:prompt="" v:val="VT4(0.00)"/>
+					<v:ud v:nameU="ShowUnits" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="ShowUnitsInd" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="ShowUnitsVal" v:prompt="" v:val="VT4(Не показывать единицы)"/>
+					<v:ud v:nameU="DrawingUnitFactor" v:prompt="" v:val="VT0(0):24"/>
+					<v:ud v:nameU="DirArrowSize" v:prompt="" v:val="VT0(5.3340833333333):1"/>
+					<v:ud v:nameU="DirArrowOffset" v:prompt="" v:val="VT0(23.597261231019):1"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,0,0,0)" v:tabSpace="42.5197"/>
+				<v:textRect cx="31.1999" cy="1670.98" width="62.4" height="25.6036"/>
+			</g>
+		</g>
+		<g id="group43-96" transform="translate(283.465,-807.874)" v:mID="43" v:groupContext="group" v:layerMember="0;1">
+			<v:custProps>
+				<v:cp v:nameU="Width" v:lbl="Ширина" v:type="2" v:format="#.#### u" v:langID="1049" v:val="VT0(118.11023622047):21"/>
+				<v:cp v:nameU="Length" v:lbl="Длина" v:type="2" v:format="#.#### u" v:langID="1049" v:val="VT0(98.425196850394):21"/>
+				<v:cp v:nameU="ShapeClass" v:lbl="Класс фигуры" v:invis="true" v:langID="1049" v:val="VT4(Компонент здания)"/>
+				<v:cp v:nameU="ShapeType" v:lbl="Тип фигуры" v:invis="true" v:langID="1049" v:val="VT4(Комната)"/>
+				<v:cp v:nameU="SubShapeType" v:lbl="Тип вложенной фигуры" v:invis="true" v:langID="1049" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="LastWidth" v:val="VT0(118.11023622047):21"/>
+				<v:ud v:nameU="LastLength" v:val="VT0(98.425196850394):21"/>
+				<v:ud v:nameU="WatchWidth" v:val="VT0(0):26"/>
+				<v:ud v:nameU="WatchLength" v:val="VT0(0):26"/>
+				<v:ud v:nameU="WatchWidthProp" v:val="VT0(0):26"/>
+				<v:ud v:nameU="WatchLengthProp" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visObjectType" v:val="VT0(110):26"/>
+				<v:ud v:nameU="visBESelected" v:val="VT0(0):5"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="SolSH" v:val="VT4({5D50005D-537C-4738-9C46-130C74335A6D})"/>
+				<v:ud v:nameU="ShapeClass" v:prompt="Компонент здания" v:val="VT0(3):26"/>
+				<v:ud v:nameU="ShapeType" v:prompt="Комната" v:val="VT0(47):26"/>
+				<v:ud v:nameU="SubShapeType" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="AntiScale" v:val="VT0(100):26"/>
+				<v:ud v:nameU="HasText" v:val="VT0(0):5"/>
+				<v:ud v:nameU="visBESelected" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="AntiScale" v:prompt="" v:val="VT0(50):26"/>
+			</v:userDefs>
+			<title>Угловая комната</title>
+			<g id="group44-97" transform="translate(1.73941E-013,-141.732)" v:mID="44" v:groupContext="group" v:layerMember="0;1">
+				<v:custProps>
+					<v:cp v:nameU="T" v:lbl="Толщина стены" v:type="4" v:format="50 mm;100 mm;150 mm;200 mm;250 mm;300 mm;150 mm."
+							v:sortKey="visWall02" v:invis="false" v:langID="1049" v:val="VT0(5.9055118110236):24"/>
+					<v:cp v:nameU="RefLn" v:lbl="Смещение относительно опорной линии" v:type="4"
+							v:format="-150 mm;-125 mm;-100 mm;-75 mm;-50 mm;-25 mm;0 mm;25 mm;50 mm;75 mm;100 mm;125 mm;150 mm"
+							v:sortKey="visWall07" v:invis="true" v:langID="1049" v:val="VT0(0):24"/>
+					<v:cp v:nameU="Material" v:type="0" v:invis="true" v:langID="1049"/>
+					<v:cp v:nameU="VisWallHeight" v:lbl="Высота стены" v:type="4"
+							v:format="2 m;2.1 m;2.2 m;2.3 m;2.4 m;2.5 m;2.6 m;2.7 m;2.8 m;2.9 m;3 m;2.6 m." v:sortKey="visWall03"
+							v:invis="false" v:langID="1049" v:val="VT0(102.36220472441):21"/>
+					<v:cp v:nameU="VisWallLength" v:lbl="Длина стены" v:type="4" v:format="1 m;2 m;3 m;4 m;5 m;6 m;7 m;8 m;3 m."
+							v:sortKey="visWall01" v:invis="false" v:langID="1049" v:val="VT0(47.244094488189):24"/>
+					<v:cp v:nameU="visWallJustify" v:lbl="Выравнивание стены" v:type="1" v:format="По центру;По краю;Другое"
+							v:sortKey="visWall04" v:invis="false" v:langID="1049" v:val="VT4(По краю)"/>
+					<v:cp v:nameU="visWallSegment" v:lbl="Сегмент стены" v:type="1" v:format="Кривой;Прямой" v:sortKey="visWall05"
+							v:invis="false" v:langID="1049" v:val="VT4(Прямой)"/>
+					<v:cp v:nameU="Radius" v:lbl="Радиус стены" v:type="4" v:format="3 m;4 m;5 m;6 m;7 m;8 m;4 m."
+							v:sortKey="visWall06" v:invis="true" v:langID="1049" v:val="VT0(118.11023622047):21"/>
+					<v:cp v:nameU="ShapeClass" v:lbl="Класс фигуры" v:type="0" v:invis="true" v:langID="1049"
+							v:val="VT4(Компонент здания)"/>
+					<v:cp v:nameU="ShapeType" v:lbl="Тип фигуры" v:type="0" v:invis="true" v:langID="1049" v:val="VT4(Стена)"/>
+					<v:cp v:nameU="SubShapeType" v:lbl="Тип вложенной фигуры" v:type="0" v:invis="true" v:langID="1049"
+							v:val="VT4()"/>
+					<v:cp v:nameU="FireRating" v:lbl="Степень пожарной опасности" v:type="0" v:sortKey="visWall15" v:invis="false"
+							v:langID="1049"/>
+					<v:cp v:nameU="BaseElevation" v:lbl="Базовая высота" v:type="2" v:sortKey="visWall09" v:invis="false"
+							v:langID="1049" v:val="VT0(0):24"/>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud v:nameU="LX1"/>
+					<v:ud v:nameU="LY1"/>
+					<v:ud v:nameU="RX1" v:val="VT0(0):21"/>
+					<v:ud v:nameU="RY1" v:val="VT0(98.425196850394):21"/>
+					<v:ud v:nameU="A1" v:val="VT0(1.5707963267949):32"/>
+					<v:ud v:nameU="T1" v:val="VT0(5.9055118110236):24"/>
+					<v:ud v:nameU="RefLn1" v:val="VT0(0):26"/>
+					<v:ud v:nameU="Mtrl1" v:prompt="0=Unknown, 1=Wall" v:val="VT0(1):26"/>
+					<v:ud v:nameU="JointType1" v:prompt="0M." v:val="VT0(1):26"/>
+					<v:ud v:nameU="1" v:prompt="---------------------------------" v:val="VT4(---------------------------------)"/>
+					<v:ud v:nameU="RelA1" v:val="VT0(1.5707963267949):32"/>
+					<v:ud v:nameU="EndsDontMeet1" v:prompt="Within radius of User.Fuzz" v:val="VT0(0):5"/>
+					<v:ud v:nameU="ShapeGone1" v:val="VT0(0):5"/>
+					<v:ud v:nameU="AngTooSharp1"/>
+					<v:ud v:nameU="AngTooBlunt1" v:val="VT0(0):26"/>
+					<v:ud v:nameU="EndNotOnLine1" v:prompt="Within distance User.Fuzz of being on line." v:val="VT0(0):5"/>
+					<v:ud v:nameU="DiffMtrls1" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="CornerClose1" v:val="VT0(0):5"/>
+					<v:ud v:nameU="TClose1" v:val="VT0(0):26"/>
+					<v:ud v:nameU="11" v:prompt="---------------------------------" v:val="VT4(---------------------------------)"/>
+					<v:ud v:nameU="Closed1" v:val="VT0(0):5"/>
+					<v:ud v:nameU="Corner1" v:val="VT0(1):5"/>
+					<v:ud v:nameU="TJointOpen1" v:val="VT0(0):5"/>
+					<v:ud v:nameU="TJointClosed1" v:val="VT0(0):5"/>
+					<v:ud v:nameU="_" v:prompt="=================" v:val="VT4(=================)"/>
+					<v:ud v:nameU="LX2" v:val="VT0(47.244094488189):24"/>
+					<v:ud v:nameU="LY2" v:val="VT0(98.425196850394):21"/>
+					<v:ud v:nameU="RX2"/>
+					<v:ud v:nameU="RY2"/>
+					<v:ud v:nameU="A2" v:val="VT0(-1.5707963267949):32"/>
+					<v:ud v:nameU="T2" v:val="VT0(5.9055118110236):24"/>
+					<v:ud v:nameU="RefLn2" v:val="VT0(0):26"/>
+					<v:ud v:nameU="Mtrl2" v:prompt="0=Unknown, 1=Wall" v:val="VT0(1):26"/>
+					<v:ud v:nameU="JointType2" v:prompt="1200MM." v:val="VT0(1):26"/>
+					<v:ud v:nameU="2" v:prompt="---------------------------------" v:val="VT4(---------------------------------)"/>
+					<v:ud v:nameU="RelA2" v:val="VT0(4.7123889803847):32"/>
+					<v:ud v:nameU="EndsDontMeet2" v:prompt="Within radius of User.Fuzz" v:val="VT0(0):5"/>
+					<v:ud v:nameU="ShapeGone2" v:val="VT0(0):5"/>
+					<v:ud v:nameU="AngTooSharp2"/>
+					<v:ud v:nameU="AngTooBlunt2" v:val="VT0(0):26"/>
+					<v:ud v:nameU="EndNotOnLine2" v:prompt="Within distance User.Fuzz of being on line." v:val="VT0(0):5"/>
+					<v:ud v:nameU="DiffMtrls2" v:val="VT0(0):5"/>
+					<v:ud v:nameU="CornerClose2" v:val="VT0(0):5"/>
+					<v:ud v:nameU="TClose2" v:val="VT0(0):26"/>
+					<v:ud v:nameU="22" v:prompt="---------------------------------" v:val="VT4(---------------------------------)"/>
+					<v:ud v:nameU="Closed2" v:val="VT0(0):5"/>
+					<v:ud v:nameU="Corner2" v:val="VT0(1):5"/>
+					<v:ud v:nameU="TJointOpen2" v:val="VT0(0):5"/>
+					<v:ud v:nameU="TJointClosed2" v:val="VT0(0):5"/>
+					<v:ud v:nameU="__" v:prompt="=================" v:val="VT4(=================)"/>
+					<v:ud v:nameU="Fuzz" v:val="VT0(0.19685039370079):24"/>
+					<v:ud v:nameU="LineStyleIndex" v:val="VT0(0):26"/>
+					<v:ud v:nameU="WallShape" v:prompt="Shape Identifier"/>
+					<v:ud v:nameU="OverLayT" v:val="VT0(0.59055118110236):24"/>
+					<v:ud v:nameU="3D_type" v:val="VT0(2):26"/>
+					<v:ud v:nameU="3D_offset" v:val="VT0(0):26"/>
+					<v:ud v:nameU="3D_extrude_length" v:val="VT0(102.36220472441):21"/>
+					<v:ud v:nameU="Is_arc" v:val="VT0(0):5"/>
+					<v:ud v:nameU="2D_length_check" v:val="VT0(47.244094488189):21"/>
+					<v:ud v:nameU="visWallPriority" v:val="VT0(50):26"/>
+					<v:ud v:nameU="visObjectType" v:prompt="Wall" v:val="VT0(101):26"/>
+					<v:ud v:nameU="visBESelected" v:val="VT0(0):5"/>
+					<v:ud v:nameU="CleanupBegin" v:val="VT0(98.425196850394):21"/>
+					<v:ud v:nameU="CleanupEnd" v:val="VT0(145.66929133858):24"/>
+					<v:ud v:nameU="PreviousWidth" v:val="VT0(47.244094488189):21"/>
+					<v:ud v:nameU="RefLn" v:val="VT0(0):26"/>
+					<v:ud v:nameU="CurveSwitch" v:val="VT0(1):26"/>
+					<v:ud v:nameU="ControlsY1" v:val="VT0(0):26"/>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+					<v:ud v:nameU="SolSH" v:val="VT4({5D50005D-537C-4738-9C46-130C74335A6D})"/>
+					<v:ud v:nameU="ShapeClass" v:prompt="Компонент здания" v:val="VT0(3):26"/>
+					<v:ud v:nameU="ShapeType" v:prompt="Стена" v:val="VT0(44):26"/>
+					<v:ud v:nameU="SubShapeType" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="CurveLookup" v:val="VT0(1):26"/>
+					<v:ud v:nameU="AntiScale" v:val="VT0(100):26"/>
+					<v:ud v:nameU="HasText" v:val="VT0(0):5"/>
+					<v:ud v:nameU="visBESelected" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="AntiScale" v:prompt="" v:val="VT0(50):26"/>
+				</v:userDefs>
+				<title>Лист.44</title>
+				<g id="shape45-98" v:mID="45" v:groupContext="shape" v:layerMember="0;1">
+					<title>Лист.45</title>
+					<v:userDefs>
+						<v:ud v:nameU="WallFill" v:prompt="Shape Identifier"/>
+					</v:userDefs>
+					<path d="M-8.5 1675.28 L76.54 1675.28 L68.03 1683.78 L0 1683.78 L-8.5 1675.28 Z" class="st1"/>
+				</g>
+				<g id="shape46-101" v:mID="46" v:groupContext="shape" v:layerMember="0;1"
+						transform="translate(-1190.61,2874.39) rotate(-135)">
+					<title>Лист.46</title>
+					<v:userDefs>
+						<v:ud v:nameU="WallCap" v:prompt="Shape Identifier"/>
+					</v:userDefs>
+					<rect x="0" y="1682.93" width="12.0264" height="0.850394" class="st2"/>
+				</g>
+				<g id="shape47-103" v:mID="47" v:groupContext="shape" v:layerMember="0;1"
+						transform="translate(1267.15,2865.89) rotate(135)">
+					<title>Лист.47</title>
+					<v:userDefs>
+						<v:ud v:nameU="WallCap" v:prompt="Shape Identifier"/>
+					</v:userDefs>
+					<rect x="0" y="1682.93" width="12.0264" height="0.850394" class="st2"/>
+				</g>
+				<g id="shape48-105" v:mID="48" v:groupContext="shape" v:layerMember="0;1">
+					<title>Лист.48</title>
+					<v:userDefs>
+						<v:ud v:nameU="WallRefLine" v:prompt="Shape Identifier"/>
+					</v:userDefs>
+				</g>
+				<g id="shape49-107" v:mID="49" v:groupContext="shape" v:layerMember="0;1">
+					<title>Лист.49</title>
+					<v:userDefs>
+						<v:ud v:nameU="WallCompGeom1" v:prompt="Shape Identifier" v:val="VT0(-0.66693806165226):26"/>
+					</v:userDefs>
+					<path d="M-8.5 1675.28 L76.54 1675.28" class="st3"/>
+					<path d="M0 1683.78 L68.03 1683.78" class="st3"/>
+				</g>
+				<g id="shape50-111" v:mID="50" v:groupContext="shape" v:layerMember="0;1" transform="translate(-2.51473,-8.50394)">
+					<title>Лист.50</title>
+					<v:custProps>
+						<v:cp v:nameU="LPrec" v:lbl="Точность" v:type="1" v:format="0;0.0;0.00;0.000;0.0000" v:sortKey="2"
+								v:invis="false" v:langID="1049" v:val="VT4(0)"/>
+						<v:cp v:nameU="LUnits" v:lbl="Единицы" v:type="1"
+								v:format=" Использовать единицы страницы документа;.Футы-дюймы (1&#39;-0&#34;);.Футы (1,00&#39;);.Дюймы;.Футы (1,00 фт);.Мили;-Миллиметры;-Сантиметры;-Метры;-Километры"
+								v:sortKey="1" v:invis="false" v:langID="1049" v:val="VT4(-Миллиметры)"/>
+						<v:cp v:nameU="ShowUnits" v:lbl="Вывод единиц" v:type="1"
+								v:format="Не показывать единицы;Показывать единицы" v:sortKey="4" v:invis="false" v:langID="1049"
+								v:val="VT4(Показывать единицы)"/>
+						<v:cp v:nameU="LInchPrec" v:lbl="Точность" v:type="1"
+								v:format="    1 in.; 1/2 in.; 1/4 in.; 1/8 in.;1/16 in." v:sortKey="3" v:invis="true"
+								v:langID="1049" v:val="VT4(1/16 in.)"/>
+						<v:cp v:nameU="LPrec" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+								v:ask="false" v:langID="0" v:cal="0" v:val="VT4(0.00)"/>
+						<v:cp v:nameU="LUnits" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+								v:ask="false" v:langID="0" v:cal="0" v:val="VT4( Использовать единицы страницы документа)"/>
+						<v:cp v:nameU="ShowUnits" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+								v:ask="false" v:langID="0" v:cal="0" v:val="VT4(Не показывать единицы)"/>
+					</v:custProps>
+					<v:userDefs>
+						<v:ud v:nameU="Hide" v:val="VT0(1):5"/>
+						<v:ud v:nameU="LUnitsFactor" v:val="VT0(0):24"/>
+						<v:ud v:nameU="FormatString" v:val="VT4(0u)"/>
+						<v:ud v:nameU="LengthText" v:val="VT4(1200мм)"/>
+						<v:ud v:nameU="Length" v:val="VT0(47.244094488189):24"/>
+						<v:ud v:nameU="LPFString" v:prompt="Linear Precision Formatting String" v:val="VT4(0)"/>
+						<v:ud v:nameU="LPrec" v:val="VT0(0):26"/>
+						<v:ud v:nameU="LPrecInd" v:val="VT0(0):26"/>
+						<v:ud v:nameU="LPrecVal" v:val="VT4(0)"/>
+						<v:ud v:nameU="LUnits" v:val="VT0(6):26"/>
+						<v:ud v:nameU="LUnitsInd" v:prompt="0=Dwg, 1=Arch, 2=Dec Ft, 3+ = other" v:val="VT0(6):26"/>
+						<v:ud v:nameU="LUnitsVal" v:val="VT4(-Миллиметры)"/>
+						<v:ud v:nameU="ShowUnits" v:val="VT0(1):26"/>
+						<v:ud v:nameU="ShowUnitsInd" v:val="VT0(1):26"/>
+						<v:ud v:nameU="ShowUnitsVal" v:val="VT4(Показывать единицы)"/>
+						<v:ud v:nameU="FeetInch" v:val="VT0(0):26"/>
+						<v:ud v:nameU="Feet" v:val="VT0(0):26"/>
+						<v:ud v:nameU="Inch" v:val="VT0(0):26"/>
+						<v:ud v:nameU="InchPrec" v:val="VT0(16):26"/>
+						<v:ud v:nameU="WatchLength" v:val="VT0(47.244094488189):24"/>
+						<v:ud v:nameU="DrawingUnitFactor" v:val="VT0(0):21"/>
+						<v:ud v:nameU="HideArrow" v:val="VT0(0):5"/>
+						<v:ud v:nameU="LInchPrecInd" v:val="VT0(4):26"/>
+						<v:ud v:nameU="DirArrowSize" v:val="VT0(10.668166666667):1"/>
+						<v:ud v:nameU="DirArrowOffset" v:val="VT0(49.584659180238):1"/>
+						<v:ud v:nameU="LInchPrec" v:val="VT0(4):26"/>
+						<v:ud v:nameU="LInchPrecVal" v:val="VT4(1/16 in.)"/>
+						<v:ud v:nameU="FormatString" v:prompt="" v:val="VT4(0.00)"/>
+						<v:ud v:nameU="LengthText" v:prompt="" v:val="VT4(1200,00)"/>
+						<v:ud v:nameU="LPFString" v:prompt="" v:val="VT4(0.00)"/>
+						<v:ud v:nameU="LPrec" v:prompt="" v:val="VT0(2):26"/>
+						<v:ud v:nameU="LPrecInd" v:prompt="" v:val="VT0(2):26"/>
+						<v:ud v:nameU="LPrecVal" v:prompt="" v:val="VT4(0.00)"/>
+						<v:ud v:nameU="LUnits" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="LUnitsInd" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="LUnitsVal" v:prompt="" v:val="VT4( Использовать единицы страницы документа)"/>
+						<v:ud v:nameU="ShowUnits" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="ShowUnitsInd" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="ShowUnitsVal" v:prompt="" v:val="VT4(Не показывать единицы)"/>
+						<v:ud v:nameU="DrawingUnitFactor" v:prompt="" v:val="VT0(0):24"/>
+						<v:ud v:nameU="DirArrowSize" v:prompt="" v:val="VT0(5.3340833333333):1"/>
+						<v:ud v:nameU="DirArrowOffset" v:prompt="" v:val="VT0(27.628938477113):1"/>
+					</v:userDefs>
+					<v:textBlock v:margins="rect(4,0,0,0)" v:tabSpace="42.5197"/>
+					<v:textRect cx="36.5305" cy="1670.98" width="73.07" height="25.6036"/>
+				</g>
+			</g>
+			<g id="group51-113" transform="translate(1751.81,1542.05) rotate(90)" v:mID="51" v:groupContext="group"
+					v:layerMember="0;1">
+				<v:custProps>
+					<v:cp v:nameU="T" v:lbl="Толщина стены" v:type="4" v:format="50 mm;100 mm;150 mm;200 mm;250 mm;300 mm;150 mm."
+							v:sortKey="visWall02" v:invis="false" v:langID="1049" v:val="VT0(5.9055118110236):24"/>
+					<v:cp v:nameU="RefLn" v:lbl="Смещение относительно опорной линии" v:type="4"
+							v:format="-150 mm;-125 mm;-100 mm;-75 mm;-50 mm;-25 mm;0 mm;25 mm;50 mm;75 mm;100 mm;125 mm;150 mm"
+							v:sortKey="visWall07" v:invis="true" v:langID="1049" v:val="VT0(0):24"/>
+					<v:cp v:nameU="Material" v:type="0" v:invis="true" v:langID="1049"/>
+					<v:cp v:nameU="VisWallHeight" v:lbl="Высота стены" v:type="4"
+							v:format="2 m;2.1 m;2.2 m;2.3 m;2.4 m;2.5 m;2.6 m;2.7 m;2.8 m;2.9 m;3 m;2.6 m." v:sortKey="visWall03"
+							v:invis="false" v:langID="1049" v:val="VT0(102.36220472441):21"/>
+					<v:cp v:nameU="VisWallLength" v:lbl="Длина стены" v:type="4" v:format="1 m;2 m;3 m;4 m;5 m;6 m;7 m;8 m;3 m."
+							v:sortKey="visWall01" v:invis="false" v:langID="1049" v:val="VT0(49.212598425197):24"/>
+					<v:cp v:nameU="visWallJustify" v:lbl="Выравнивание стены" v:type="1" v:format="По центру;По краю;Другое"
+							v:sortKey="visWall04" v:invis="false" v:langID="1049" v:val="VT4(По краю)"/>
+					<v:cp v:nameU="visWallSegment" v:lbl="Сегмент стены" v:type="1" v:format="Кривой;Прямой" v:sortKey="visWall05"
+							v:invis="false" v:langID="1049" v:val="VT4(Прямой)"/>
+					<v:cp v:nameU="Radius" v:lbl="Радиус стены" v:type="4" v:format="3 m;4 m;5 m;6 m;7 m;8 m;4 m."
+							v:sortKey="visWall06" v:invis="true" v:langID="1049" v:val="VT0(118.11023622047):21"/>
+					<v:cp v:nameU="ShapeClass" v:lbl="Класс фигуры" v:type="0" v:invis="true" v:langID="1049"
+							v:val="VT4(Компонент здания)"/>
+					<v:cp v:nameU="ShapeType" v:lbl="Тип фигуры" v:type="0" v:invis="true" v:langID="1049" v:val="VT4(Стена)"/>
+					<v:cp v:nameU="SubShapeType" v:lbl="Тип вложенной фигуры" v:type="0" v:invis="true" v:langID="1049"
+							v:val="VT4()"/>
+					<v:cp v:nameU="FireRating" v:lbl="Степень пожарной опасности" v:type="0" v:sortKey="visWall15" v:invis="false"
+							v:langID="1049"/>
+					<v:cp v:nameU="BaseElevation" v:lbl="Базовая высота" v:type="2" v:sortKey="visWall09" v:invis="false"
+							v:langID="1049" v:val="VT0(0):24"/>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud v:nameU="LX1"/>
+					<v:ud v:nameU="LY1"/>
+					<v:ud v:nameU="RX1" v:val="VT0(47.244094488189):24"/>
+					<v:ud v:nameU="RY1" v:val="VT0(98.425196850394):21"/>
+					<v:ud v:nameU="A1" v:val="VT0(0):32"/>
+					<v:ud v:nameU="T1" v:val="VT0(5.9055118110236):24"/>
+					<v:ud v:nameU="RefLn1" v:val="VT0(0):26"/>
+					<v:ud v:nameU="Mtrl1" v:prompt="0=Unknown, 1=Wall" v:val="VT0(1):26"/>
+					<v:ud v:nameU="JointType1" v:prompt="1200MM." v:val="VT0(1):26"/>
+					<v:ud v:nameU="1" v:prompt="---------------------------------" v:val="VT4(---------------------------------)"/>
+					<v:ud v:nameU="RelA1" v:val="VT0(1.5707963267949):32"/>
+					<v:ud v:nameU="EndsDontMeet1" v:prompt="Within radius of User.Fuzz" v:val="VT0(0):5"/>
+					<v:ud v:nameU="ShapeGone1" v:val="VT0(0):5"/>
+					<v:ud v:nameU="AngTooSharp1"/>
+					<v:ud v:nameU="AngTooBlunt1" v:val="VT0(0):26"/>
+					<v:ud v:nameU="EndNotOnLine1" v:prompt="Within distance User.Fuzz of being on line." v:val="VT0(0):5"/>
+					<v:ud v:nameU="DiffMtrls1" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="CornerClose1" v:val="VT0(0):5"/>
+					<v:ud v:nameU="TClose1" v:val="VT0(0):26"/>
+					<v:ud v:nameU="11" v:prompt="---------------------------------" v:val="VT4(---------------------------------)"/>
+					<v:ud v:nameU="Closed1" v:val="VT0(0):5"/>
+					<v:ud v:nameU="Corner1" v:val="VT0(1):5"/>
+					<v:ud v:nameU="TJointOpen1" v:val="VT0(0):5"/>
+					<v:ud v:nameU="TJointClosed1" v:val="VT0(0):5"/>
+					<v:ud v:nameU="_" v:prompt="=================" v:val="VT4(=================)"/>
+					<v:ud v:nameU="LX2" v:val="VT0(47.244094488189):24"/>
+					<v:ud v:nameU="LY2" v:val="VT0(49.212598425197):24"/>
+					<v:ud v:nameU="RX2"/>
+					<v:ud v:nameU="RY2"/>
+					<v:ud v:nameU="A2" v:val="VT0(0):32"/>
+					<v:ud v:nameU="T2" v:val="VT0(5.9055118110236):24"/>
+					<v:ud v:nameU="RefLn2" v:val="VT0(0):26"/>
+					<v:ud v:nameU="Mtrl2" v:prompt="0=Unknown, 1=Wall" v:val="VT0(1):26"/>
+					<v:ud v:nameU="JointType2" v:prompt="1200MM." v:val="VT0(1):26"/>
+					<v:ud v:nameU="2" v:prompt="---------------------------------" v:val="VT4(---------------------------------)"/>
+					<v:ud v:nameU="RelA2" v:val="VT0(1.5707963267949):32"/>
+					<v:ud v:nameU="EndsDontMeet2" v:prompt="Within radius of User.Fuzz" v:val="VT0(0):5"/>
+					<v:ud v:nameU="ShapeGone2" v:val="VT0(0):5"/>
+					<v:ud v:nameU="AngTooSharp2"/>
+					<v:ud v:nameU="AngTooBlunt2" v:val="VT0(0):26"/>
+					<v:ud v:nameU="EndNotOnLine2" v:prompt="Within distance User.Fuzz of being on line." v:val="VT0(0):5"/>
+					<v:ud v:nameU="DiffMtrls2" v:val="VT0(0):5"/>
+					<v:ud v:nameU="CornerClose2" v:val="VT0(0):5"/>
+					<v:ud v:nameU="TClose2" v:val="VT0(0):26"/>
+					<v:ud v:nameU="22" v:prompt="---------------------------------" v:val="VT4(---------------------------------)"/>
+					<v:ud v:nameU="Closed2" v:val="VT0(0):5"/>
+					<v:ud v:nameU="Corner2" v:val="VT0(1):5"/>
+					<v:ud v:nameU="TJointOpen2" v:val="VT0(0):5"/>
+					<v:ud v:nameU="TJointClosed2" v:val="VT0(0):5"/>
+					<v:ud v:nameU="__" v:prompt="=================" v:val="VT4(=================)"/>
+					<v:ud v:nameU="Fuzz" v:val="VT0(0.19685039370079):24"/>
+					<v:ud v:nameU="LineStyleIndex" v:val="VT0(0):26"/>
+					<v:ud v:nameU="WallShape" v:prompt="Shape Identifier"/>
+					<v:ud v:nameU="OverLayT" v:val="VT0(0.59055118110236):24"/>
+					<v:ud v:nameU="3D_type" v:val="VT0(2):26"/>
+					<v:ud v:nameU="3D_offset" v:val="VT0(0):26"/>
+					<v:ud v:nameU="3D_extrude_length" v:val="VT0(102.36220472441):21"/>
+					<v:ud v:nameU="Is_arc" v:val="VT0(0):5"/>
+					<v:ud v:nameU="2D_length_check" v:val="VT0(49.212598425197):21"/>
+					<v:ud v:nameU="visWallPriority" v:val="VT0(50):26"/>
+					<v:ud v:nameU="visObjectType" v:prompt="Wall" v:val="VT0(101):26"/>
+					<v:ud v:nameU="visBESelected" v:val="VT0(0):5"/>
+					<v:ud v:nameU="CleanupBegin" v:val="VT0(145.66929133858):24"/>
+					<v:ud v:nameU="CleanupEnd" v:val="VT0(96.456692913386):24"/>
+					<v:ud v:nameU="PreviousWidth" v:val="VT0(49.212598425197):21"/>
+					<v:ud v:nameU="RefLn" v:val="VT0(0):26"/>
+					<v:ud v:nameU="CurveSwitch" v:val="VT0(1):26"/>
+					<v:ud v:nameU="ControlsY1" v:val="VT0(0):26"/>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+					<v:ud v:nameU="SolSH" v:val="VT4({5D50005D-537C-4738-9C46-130C74335A6D})"/>
+					<v:ud v:nameU="ShapeClass" v:prompt="Компонент здания" v:val="VT0(3):26"/>
+					<v:ud v:nameU="ShapeType" v:prompt="Стена" v:val="VT0(44):26"/>
+					<v:ud v:nameU="SubShapeType" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="CurveLookup" v:val="VT0(1):26"/>
+					<v:ud v:nameU="AntiScale" v:val="VT0(100):26"/>
+					<v:ud v:nameU="HasText" v:val="VT0(0):5"/>
+					<v:ud v:nameU="visBESelected" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="AntiScale" v:prompt="" v:val="VT0(50):26"/>
+				</v:userDefs>
+				<title>Лист.51</title>
+				<g id="shape52-114" v:mID="52" v:groupContext="shape" v:layerMember="0;1">
+					<title>Лист.52</title>
+					<v:userDefs>
+						<v:ud v:nameU="WallFill" v:prompt="Shape Identifier"/>
+					</v:userDefs>
+					<path d="M-8.5 1675.28 L62.36 1675.28 L70.87 1683.78 L0 1683.78 L-8.5 1675.28 Z" class="st1"/>
+				</g>
+				<g id="shape53-117" v:mID="53" v:groupContext="shape" v:layerMember="0;1"
+						transform="translate(-1190.61,2874.39) rotate(-135)">
+					<title>Лист.53</title>
+					<v:userDefs>
+						<v:ud v:nameU="WallCap" v:prompt="Shape Identifier"/>
+					</v:userDefs>
+					<rect x="0" y="1682.93" width="12.0264" height="0.850394" class="st2"/>
+				</g>
+				<g id="shape54-119" v:mID="54" v:groupContext="shape" v:layerMember="0;1"
+						transform="translate(1252.97,484.664) rotate(45)">
+					<title>Лист.54</title>
+					<v:userDefs>
+						<v:ud v:nameU="WallCap" v:prompt="Shape Identifier"/>
+					</v:userDefs>
+					<rect x="0" y="1682.93" width="12.0264" height="0.850394" class="st2"/>
+				</g>
+				<g id="shape55-121" v:mID="55" v:groupContext="shape" v:layerMember="0;1">
+					<title>Лист.55</title>
+					<v:userDefs>
+						<v:ud v:nameU="WallRefLine" v:prompt="Shape Identifier"/>
+					</v:userDefs>
+				</g>
+				<g id="shape56-123" v:mID="56" v:groupContext="shape" v:layerMember="0;1">
+					<title>Лист.56</title>
+					<v:userDefs>
+						<v:ud v:nameU="WallCompGeom1" v:prompt="Shape Identifier" v:val="VT0(-0.66693806165226):26"/>
+					</v:userDefs>
+					<path d="M-8.5 1675.28 L62.36 1675.28" class="st3"/>
+					<path d="M0 1683.78 L70.87 1683.78" class="st3"/>
+				</g>
+				<g id="shape57-127" v:mID="57" v:groupContext="shape" v:layerMember="0;1" transform="translate(-1.09741,-8.50394)">
+					<title>Лист.57</title>
+					<v:custProps>
+						<v:cp v:nameU="LPrec" v:lbl="Точность" v:type="1" v:format="0;0.0;0.00;0.000;0.0000" v:sortKey="2"
+								v:invis="false" v:langID="1049" v:val="VT4(0)"/>
+						<v:cp v:nameU="LUnits" v:lbl="Единицы" v:type="1"
+								v:format=" Использовать единицы страницы документа;.Футы-дюймы (1&#39;-0&#34;);.Футы (1,00&#39;);.Дюймы;.Футы (1,00 фт);.Мили;-Миллиметры;-Сантиметры;-Метры;-Километры"
+								v:sortKey="1" v:invis="false" v:langID="1049" v:val="VT4(-Миллиметры)"/>
+						<v:cp v:nameU="ShowUnits" v:lbl="Вывод единиц" v:type="1"
+								v:format="Не показывать единицы;Показывать единицы" v:sortKey="4" v:invis="false" v:langID="1049"
+								v:val="VT4(Показывать единицы)"/>
+						<v:cp v:nameU="LInchPrec" v:lbl="Точность" v:type="1"
+								v:format="    1 in.; 1/2 in.; 1/4 in.; 1/8 in.;1/16 in." v:sortKey="3" v:invis="true"
+								v:langID="1049" v:val="VT4(1/16 in.)"/>
+						<v:cp v:nameU="LPrec" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+								v:ask="false" v:langID="0" v:cal="0" v:val="VT4(0.00)"/>
+						<v:cp v:nameU="LUnits" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+								v:ask="false" v:langID="0" v:cal="0" v:val="VT4( Использовать единицы страницы документа)"/>
+						<v:cp v:nameU="ShowUnits" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+								v:ask="false" v:langID="0" v:cal="0" v:val="VT4(Не показывать единицы)"/>
+					</v:custProps>
+					<v:userDefs>
+						<v:ud v:nameU="Hide" v:val="VT0(1):5"/>
+						<v:ud v:nameU="LUnitsFactor" v:val="VT0(0):24"/>
+						<v:ud v:nameU="FormatString" v:val="VT4(0u)"/>
+						<v:ud v:nameU="LengthText" v:val="VT4(1250мм)"/>
+						<v:ud v:nameU="Length" v:val="VT0(49.212598425197):24"/>
+						<v:ud v:nameU="LPFString" v:prompt="Linear Precision Formatting String" v:val="VT4(0)"/>
+						<v:ud v:nameU="LPrec" v:val="VT0(0):26"/>
+						<v:ud v:nameU="LPrecInd" v:val="VT0(0):26"/>
+						<v:ud v:nameU="LPrecVal" v:val="VT4(0)"/>
+						<v:ud v:nameU="LUnits" v:val="VT0(6):26"/>
+						<v:ud v:nameU="LUnitsInd" v:prompt="0=Dwg, 1=Arch, 2=Dec Ft, 3+ = other" v:val="VT0(6):26"/>
+						<v:ud v:nameU="LUnitsVal" v:val="VT4(-Миллиметры)"/>
+						<v:ud v:nameU="ShowUnits" v:val="VT0(1):26"/>
+						<v:ud v:nameU="ShowUnitsInd" v:val="VT0(1):26"/>
+						<v:ud v:nameU="ShowUnitsVal" v:val="VT4(Показывать единицы)"/>
+						<v:ud v:nameU="FeetInch" v:val="VT0(0):26"/>
+						<v:ud v:nameU="Feet" v:val="VT0(0):26"/>
+						<v:ud v:nameU="Inch" v:val="VT0(0):26"/>
+						<v:ud v:nameU="InchPrec" v:val="VT0(16):26"/>
+						<v:ud v:nameU="WatchLength" v:val="VT0(49.212598425197):24"/>
+						<v:ud v:nameU="DrawingUnitFactor" v:val="VT0(0):21"/>
+						<v:ud v:nameU="HideArrow" v:val="VT0(0):5"/>
+						<v:ud v:nameU="LInchPrecInd" v:val="VT0(4):26"/>
+						<v:ud v:nameU="DirArrowSize" v:val="VT0(10.668166666667):1"/>
+						<v:ud v:nameU="DirArrowOffset" v:val="VT0(49.584659180238):1"/>
+						<v:ud v:nameU="LInchPrec" v:val="VT0(4):26"/>
+						<v:ud v:nameU="LInchPrecVal" v:val="VT4(1/16 in.)"/>
+						<v:ud v:nameU="FormatString" v:prompt="" v:val="VT4(0.00)"/>
+						<v:ud v:nameU="LengthText" v:prompt="" v:val="VT4(1250,00)"/>
+						<v:ud v:nameU="LPFString" v:prompt="" v:val="VT4(0.00)"/>
+						<v:ud v:nameU="LPrec" v:prompt="" v:val="VT0(2):26"/>
+						<v:ud v:nameU="LPrecInd" v:prompt="" v:val="VT0(2):26"/>
+						<v:ud v:nameU="LPrecVal" v:prompt="" v:val="VT4(0.00)"/>
+						<v:ud v:nameU="LUnits" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="LUnitsInd" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="LUnitsVal" v:prompt="" v:val="VT4( Использовать единицы страницы документа)"/>
+						<v:ud v:nameU="ShowUnits" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="ShowUnitsInd" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="ShowUnitsVal" v:prompt="" v:val="VT4(Не показывать единицы)"/>
+						<v:ud v:nameU="DrawingUnitFactor" v:prompt="" v:val="VT0(0):24"/>
+						<v:ud v:nameU="DirArrowSize" v:prompt="" v:val="VT0(5.3340833333333):1"/>
+						<v:ud v:nameU="DirArrowOffset" v:prompt="" v:val="VT0(27.628938477113):1"/>
+					</v:userDefs>
+					<v:textBlock v:margins="rect(4,0,0,0)" v:tabSpace="42.5197"/>
+					<v:textRect cx="36.5305" cy="1670.98" width="73.07" height="25.6036" transform="rotate(-180)"/>
+				</g>
+			</g>
+			<g id="group58-129" transform="translate(68.0315,-70.8661)" v:mID="58" v:groupContext="group" v:layerMember="0;1">
+				<v:custProps>
+					<v:cp v:nameU="T" v:lbl="Толщина стены" v:type="4" v:format="50 mm;100 mm;150 mm;200 mm;250 mm;300 mm;150 mm."
+							v:sortKey="visWall02" v:invis="false" v:langID="1049" v:val="VT0(5.9055118110236):24"/>
+					<v:cp v:nameU="RefLn" v:lbl="Смещение относительно опорной линии" v:type="4"
+							v:format="-150 mm;-125 mm;-100 mm;-75 mm;-50 mm;-25 mm;0 mm;25 mm;50 mm;75 mm;100 mm;125 mm;150 mm"
+							v:sortKey="visWall07" v:invis="true" v:langID="1049" v:val="VT0(0):24"/>
+					<v:cp v:nameU="Material" v:type="0" v:invis="true" v:langID="1049"/>
+					<v:cp v:nameU="VisWallHeight" v:lbl="Высота стены" v:type="4"
+							v:format="2 m;2.1 m;2.2 m;2.3 m;2.4 m;2.5 m;2.6 m;2.7 m;2.8 m;2.9 m;3 m;2.6 m." v:sortKey="visWall03"
+							v:invis="false" v:langID="1049" v:val="VT0(102.36220472441):21"/>
+					<v:cp v:nameU="VisWallLength" v:lbl="Длина стены" v:type="4" v:format="1 m;2 m;3 m;4 m;5 m;6 m;7 m;8 m;3 m."
+							v:sortKey="visWall01" v:invis="false" v:langID="1049" v:val="VT0(70.866141732283):21"/>
+					<v:cp v:nameU="visWallJustify" v:lbl="Выравнивание стены" v:type="1" v:format="По центру;По краю;Другое"
+							v:sortKey="visWall04" v:invis="false" v:langID="1049" v:val="VT4(По краю)"/>
+					<v:cp v:nameU="visWallSegment" v:lbl="Сегмент стены" v:type="1" v:format="Кривой;Прямой" v:sortKey="visWall05"
+							v:invis="false" v:langID="1049" v:val="VT4(Прямой)"/>
+					<v:cp v:nameU="Radius" v:lbl="Радиус стены" v:type="4" v:format="3 m;4 m;5 m;6 m;7 m;8 m;4 m."
+							v:sortKey="visWall06" v:invis="true" v:langID="1049" v:val="VT0(118.11023622047):21"/>
+					<v:cp v:nameU="ShapeClass" v:lbl="Класс фигуры" v:type="0" v:invis="true" v:langID="1049"
+							v:val="VT4(Компонент здания)"/>
+					<v:cp v:nameU="ShapeType" v:lbl="Тип фигуры" v:type="0" v:invis="true" v:langID="1049" v:val="VT4(Стена)"/>
+					<v:cp v:nameU="SubShapeType" v:lbl="Тип вложенной фигуры" v:type="0" v:invis="true" v:langID="1049"
+							v:val="VT4()"/>
+					<v:cp v:nameU="FireRating" v:lbl="Степень пожарной опасности" v:type="0" v:sortKey="visWall15" v:invis="false"
+							v:langID="1049"/>
+					<v:cp v:nameU="BaseElevation" v:lbl="Базовая высота" v:type="2" v:sortKey="visWall09" v:invis="false"
+							v:langID="1049" v:val="VT0(0):24"/>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud v:nameU="LX1"/>
+					<v:ud v:nameU="LY1"/>
+					<v:ud v:nameU="RX1" v:val="VT0(47.244094488189):24"/>
+					<v:ud v:nameU="RY1" v:val="VT0(49.212598425197):24"/>
+					<v:ud v:nameU="A1" v:val="VT0(-1.5707963267949):32"/>
+					<v:ud v:nameU="T1" v:val="VT0(5.9055118110236):24"/>
+					<v:ud v:nameU="RefLn1" v:val="VT0(0):26"/>
+					<v:ud v:nameU="Mtrl1" v:prompt="0=Unknown, 1=Wall" v:val="VT0(1):26"/>
+					<v:ud v:nameU="JointType1" v:prompt="1200MM." v:val="VT0(1):26"/>
+					<v:ud v:nameU="1" v:prompt="---------------------------------" v:val="VT4(---------------------------------)"/>
+					<v:ud v:nameU="RelA1" v:val="VT0(4.7123889803847):32"/>
+					<v:ud v:nameU="EndsDontMeet1" v:prompt="Within radius of User.Fuzz" v:val="VT0(0):5"/>
+					<v:ud v:nameU="ShapeGone1" v:val="VT0(0):5"/>
+					<v:ud v:nameU="AngTooSharp1"/>
+					<v:ud v:nameU="AngTooBlunt1" v:val="VT0(0):26"/>
+					<v:ud v:nameU="EndNotOnLine1" v:prompt="Within distance User.Fuzz of being on line." v:val="VT0(0):5"/>
+					<v:ud v:nameU="DiffMtrls1" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="CornerClose1" v:val="VT0(0):5"/>
+					<v:ud v:nameU="TClose1" v:val="VT0(0):26"/>
+					<v:ud v:nameU="11" v:prompt="---------------------------------" v:val="VT4(---------------------------------)"/>
+					<v:ud v:nameU="Closed1" v:val="VT0(0):5"/>
+					<v:ud v:nameU="Corner1" v:val="VT0(1):5"/>
+					<v:ud v:nameU="TJointOpen1" v:val="VT0(0):5"/>
+					<v:ud v:nameU="TJointClosed1" v:val="VT0(0):5"/>
+					<v:ud v:nameU="_" v:prompt="=================" v:val="VT4(=================)"/>
+					<v:ud v:nameU="LX2" v:val="VT0(118.11023622047):21"/>
+					<v:ud v:nameU="LY2" v:val="VT0(49.212598425197):24"/>
+					<v:ud v:nameU="RX2"/>
+					<v:ud v:nameU="RY2"/>
+					<v:ud v:nameU="A2" v:val="VT0(-1.5707963267949):32"/>
+					<v:ud v:nameU="T2" v:val="VT0(5.9055118110236):24"/>
+					<v:ud v:nameU="RefLn2" v:val="VT0(0):26"/>
+					<v:ud v:nameU="Mtrl2" v:prompt="0=Unknown, 1=Wall" v:val="VT0(1):26"/>
+					<v:ud v:nameU="JointType2" v:prompt="3M." v:val="VT0(1):26"/>
+					<v:ud v:nameU="2" v:prompt="---------------------------------" v:val="VT4(---------------------------------)"/>
+					<v:ud v:nameU="RelA2" v:val="VT0(4.7123889803847):32"/>
+					<v:ud v:nameU="EndsDontMeet2" v:prompt="Within radius of User.Fuzz" v:val="VT0(0):5"/>
+					<v:ud v:nameU="ShapeGone2" v:val="VT0(0):5"/>
+					<v:ud v:nameU="AngTooSharp2"/>
+					<v:ud v:nameU="AngTooBlunt2" v:val="VT0(0):26"/>
+					<v:ud v:nameU="EndNotOnLine2" v:prompt="Within distance User.Fuzz of being on line." v:val="VT0(0):5"/>
+					<v:ud v:nameU="DiffMtrls2" v:val="VT0(0):5"/>
+					<v:ud v:nameU="CornerClose2" v:val="VT0(0):5"/>
+					<v:ud v:nameU="TClose2" v:val="VT0(0):26"/>
+					<v:ud v:nameU="22" v:prompt="---------------------------------" v:val="VT4(---------------------------------)"/>
+					<v:ud v:nameU="Closed2" v:val="VT0(0):5"/>
+					<v:ud v:nameU="Corner2" v:val="VT0(1):5"/>
+					<v:ud v:nameU="TJointOpen2" v:val="VT0(0):5"/>
+					<v:ud v:nameU="TJointClosed2" v:val="VT0(0):5"/>
+					<v:ud v:nameU="__" v:prompt="=================" v:val="VT4(=================)"/>
+					<v:ud v:nameU="Fuzz" v:val="VT0(0.19685039370079):24"/>
+					<v:ud v:nameU="LineStyleIndex" v:val="VT0(0):26"/>
+					<v:ud v:nameU="WallShape" v:prompt="Shape Identifier"/>
+					<v:ud v:nameU="OverLayT" v:val="VT0(0.59055118110236):24"/>
+					<v:ud v:nameU="3D_type" v:val="VT0(2):26"/>
+					<v:ud v:nameU="3D_offset" v:val="VT0(0):26"/>
+					<v:ud v:nameU="3D_extrude_length" v:val="VT0(102.36220472441):21"/>
+					<v:ud v:nameU="Is_arc" v:val="VT0(0):5"/>
+					<v:ud v:nameU="2D_length_check" v:val="VT0(70.866141732283):21"/>
+					<v:ud v:nameU="visWallPriority" v:val="VT0(50):26"/>
+					<v:ud v:nameU="visObjectType" v:prompt="Wall" v:val="VT0(101):26"/>
+					<v:ud v:nameU="visBESelected" v:val="VT0(0):5"/>
+					<v:ud v:nameU="CleanupBegin" v:val="VT0(96.456692913386):24"/>
+					<v:ud v:nameU="CleanupEnd" v:val="VT0(167.32283464567):21"/>
+					<v:ud v:nameU="PreviousWidth" v:val="VT0(70.866141732283):21"/>
+					<v:ud v:nameU="RefLn" v:val="VT0(0):26"/>
+					<v:ud v:nameU="CurveSwitch" v:val="VT0(1):26"/>
+					<v:ud v:nameU="ControlsY1" v:val="VT0(0):26"/>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+					<v:ud v:nameU="SolSH" v:val="VT4({5D50005D-537C-4738-9C46-130C74335A6D})"/>
+					<v:ud v:nameU="ShapeClass" v:prompt="Компонент здания" v:val="VT0(3):26"/>
+					<v:ud v:nameU="ShapeType" v:prompt="Стена" v:val="VT0(44):26"/>
+					<v:ud v:nameU="SubShapeType" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="CurveLookup" v:val="VT0(1):26"/>
+					<v:ud v:nameU="AntiScale" v:val="VT0(100):26"/>
+					<v:ud v:nameU="HasText" v:val="VT0(0):5"/>
+					<v:ud v:nameU="visBESelected" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="AntiScale" v:prompt="" v:val="VT0(50):26"/>
+				</v:userDefs>
+				<title>Лист.58</title>
+				<g id="shape59-130" v:mID="59" v:groupContext="shape" v:layerMember="0;1">
+					<title>Лист.59</title>
+					<v:userDefs>
+						<v:ud v:nameU="WallFill" v:prompt="Shape Identifier"/>
+					</v:userDefs>
+					<path d="M8.5 1675.28 L110.55 1675.28 L102.05 1683.78 L0 1683.78 L8.5 1675.28 Z" class="st1"/>
+				</g>
+				<g id="shape60-133" v:mID="60" v:groupContext="shape" v:layerMember="0;1"
+						transform="translate(-1190.61,493.168) rotate(-45)">
+					<title>Лист.60</title>
+					<v:userDefs>
+						<v:ud v:nameU="WallCap" v:prompt="Shape Identifier"/>
+					</v:userDefs>
+					<rect x="0" y="1682.93" width="12.0264" height="0.850394" class="st2"/>
+				</g>
+				<g id="shape61-135" v:mID="61" v:groupContext="shape" v:layerMember="0;1"
+						transform="translate(1301.16,2865.89) rotate(135)">
+					<title>Лист.61</title>
+					<v:userDefs>
+						<v:ud v:nameU="WallCap" v:prompt="Shape Identifier"/>
+					</v:userDefs>
+					<rect x="0" y="1682.93" width="12.0264" height="0.850394" class="st2"/>
+				</g>
+				<g id="shape62-137" v:mID="62" v:groupContext="shape" v:layerMember="0;1">
+					<title>Лист.62</title>
+					<v:userDefs>
+						<v:ud v:nameU="WallRefLine" v:prompt="Shape Identifier"/>
+					</v:userDefs>
+				</g>
+				<g id="shape63-139" v:mID="63" v:groupContext="shape" v:layerMember="0;1">
+					<title>Лист.63</title>
+					<v:userDefs>
+						<v:ud v:nameU="WallCompGeom1" v:prompt="Shape Identifier" v:val="VT0(-0.66693806165226):26"/>
+					</v:userDefs>
+					<path d="M8.5 1675.28 L110.55 1675.28" class="st3"/>
+					<path d="M0 1683.78 L102.05 1683.78" class="st3"/>
+				</g>
+				<g id="shape64-143" v:mID="64" v:groupContext="shape" v:layerMember="0;1" transform="translate(14.4931,-8.50394)">
+					<title>Лист.64</title>
+					<v:custProps>
+						<v:cp v:nameU="LPrec" v:lbl="Точность" v:type="1" v:format="0;0.0;0.00;0.000;0.0000" v:sortKey="2"
+								v:invis="false" v:langID="1049" v:val="VT4(0)"/>
+						<v:cp v:nameU="LUnits" v:lbl="Единицы" v:type="1"
+								v:format=" Использовать единицы страницы документа;.Футы-дюймы (1&#39;-0&#34;);.Футы (1,00&#39;);.Дюймы;.Футы (1,00 фт);.Мили;-Миллиметры;-Сантиметры;-Метры;-Километры"
+								v:sortKey="1" v:invis="false" v:langID="1049" v:val="VT4(-Миллиметры)"/>
+						<v:cp v:nameU="ShowUnits" v:lbl="Вывод единиц" v:type="1"
+								v:format="Не показывать единицы;Показывать единицы" v:sortKey="4" v:invis="false" v:langID="1049"
+								v:val="VT4(Показывать единицы)"/>
+						<v:cp v:nameU="LInchPrec" v:lbl="Точность" v:type="1"
+								v:format="    1 in.; 1/2 in.; 1/4 in.; 1/8 in.;1/16 in." v:sortKey="3" v:invis="true"
+								v:langID="1049" v:val="VT4(1/16 in.)"/>
+						<v:cp v:nameU="LPrec" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+								v:ask="false" v:langID="0" v:cal="0" v:val="VT4(0.00)"/>
+						<v:cp v:nameU="LUnits" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+								v:ask="false" v:langID="0" v:cal="0" v:val="VT4( Использовать единицы страницы документа)"/>
+						<v:cp v:nameU="ShowUnits" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+								v:ask="false" v:langID="0" v:cal="0" v:val="VT4(Не показывать единицы)"/>
+					</v:custProps>
+					<v:userDefs>
+						<v:ud v:nameU="Hide" v:val="VT0(1):5"/>
+						<v:ud v:nameU="LUnitsFactor" v:val="VT0(0):24"/>
+						<v:ud v:nameU="FormatString" v:val="VT4(0u)"/>
+						<v:ud v:nameU="LengthText" v:val="VT4(1800мм)"/>
+						<v:ud v:nameU="Length" v:val="VT0(70.866141732283):24"/>
+						<v:ud v:nameU="LPFString" v:prompt="Linear Precision Formatting String" v:val="VT4(0)"/>
+						<v:ud v:nameU="LPrec" v:val="VT0(0):26"/>
+						<v:ud v:nameU="LPrecInd" v:val="VT0(0):26"/>
+						<v:ud v:nameU="LPrecVal" v:val="VT4(0)"/>
+						<v:ud v:nameU="LUnits" v:val="VT0(6):26"/>
+						<v:ud v:nameU="LUnitsInd" v:prompt="0=Dwg, 1=Arch, 2=Dec Ft, 3+ = other" v:val="VT0(6):26"/>
+						<v:ud v:nameU="LUnitsVal" v:val="VT4(-Миллиметры)"/>
+						<v:ud v:nameU="ShowUnits" v:val="VT0(1):26"/>
+						<v:ud v:nameU="ShowUnitsInd" v:val="VT0(1):26"/>
+						<v:ud v:nameU="ShowUnitsVal" v:val="VT4(Показывать единицы)"/>
+						<v:ud v:nameU="FeetInch" v:val="VT0(0):26"/>
+						<v:ud v:nameU="Feet" v:val="VT0(0):26"/>
+						<v:ud v:nameU="Inch" v:val="VT0(0):26"/>
+						<v:ud v:nameU="InchPrec" v:val="VT0(16):26"/>
+						<v:ud v:nameU="WatchLength" v:val="VT0(70.866141732283):21"/>
+						<v:ud v:nameU="DrawingUnitFactor" v:val="VT0(0):21"/>
+						<v:ud v:nameU="HideArrow" v:val="VT0(0):5"/>
+						<v:ud v:nameU="LInchPrecInd" v:val="VT0(4):26"/>
+						<v:ud v:nameU="DirArrowSize" v:val="VT0(10.668166666667):1"/>
+						<v:ud v:nameU="DirArrowOffset" v:val="VT0(49.584659180238):1"/>
+						<v:ud v:nameU="LInchPrec" v:val="VT0(4):26"/>
+						<v:ud v:nameU="LInchPrecVal" v:val="VT4(1/16 in.)"/>
+						<v:ud v:nameU="FormatString" v:prompt="" v:val="VT4(0.00)"/>
+						<v:ud v:nameU="LengthText" v:prompt="" v:val="VT4(1800,00)"/>
+						<v:ud v:nameU="LPFString" v:prompt="" v:val="VT4(0.00)"/>
+						<v:ud v:nameU="LPrec" v:prompt="" v:val="VT0(2):26"/>
+						<v:ud v:nameU="LPrecInd" v:prompt="" v:val="VT0(2):26"/>
+						<v:ud v:nameU="LPrecVal" v:prompt="" v:val="VT4(0.00)"/>
+						<v:ud v:nameU="LUnits" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="LUnitsInd" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="LUnitsVal" v:prompt="" v:val="VT4( Использовать единицы страницы документа)"/>
+						<v:ud v:nameU="ShowUnits" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="ShowUnitsInd" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="ShowUnitsVal" v:prompt="" v:val="VT4(Не показывать единицы)"/>
+						<v:ud v:nameU="DrawingUnitFactor" v:prompt="" v:val="VT0(0):24"/>
+						<v:ud v:nameU="DirArrowSize" v:prompt="" v:val="VT0(5.3340833333333):1"/>
+						<v:ud v:nameU="DirArrowOffset" v:prompt="" v:val="VT0(27.628938477113):1"/>
+					</v:userDefs>
+					<v:textBlock v:margins="rect(4,0,0,0)" v:tabSpace="42.5197"/>
+					<v:textRect cx="36.5305" cy="1670.98" width="73.07" height="25.6036"/>
+				</g>
+			</g>
+			<g id="group65-145" transform="translate(1853.86,1612.91) rotate(90)" v:mID="65" v:groupContext="group"
+					v:layerMember="0;1">
+				<v:custProps>
+					<v:cp v:nameU="T" v:lbl="Толщина стены" v:type="4" v:format="50 mm;100 mm;150 mm;200 mm;250 mm;300 mm;150 mm."
+							v:sortKey="visWall02" v:invis="false" v:langID="1049" v:val="VT0(5.9055118110236):24"/>
+					<v:cp v:nameU="RefLn" v:lbl="Смещение относительно опорной линии" v:type="4"
+							v:format="-150 mm;-125 mm;-100 mm;-75 mm;-50 mm;-25 mm;0 mm;25 mm;50 mm;75 mm;100 mm;125 mm;150 mm"
+							v:sortKey="visWall07" v:invis="true" v:langID="1049" v:val="VT0(0):24"/>
+					<v:cp v:nameU="Material" v:type="0" v:invis="true" v:langID="1049"/>
+					<v:cp v:nameU="VisWallHeight" v:lbl="Высота стены" v:type="4"
+							v:format="2 m;2.1 m;2.2 m;2.3 m;2.4 m;2.5 m;2.6 m;2.7 m;2.8 m;2.9 m;3 m;2.6 m." v:sortKey="visWall03"
+							v:invis="false" v:langID="1049" v:val="VT0(102.36220472441):21"/>
+					<v:cp v:nameU="VisWallLength" v:lbl="Длина стены" v:type="4" v:format="1 m;2 m;3 m;4 m;5 m;6 m;7 m;8 m;3 m."
+							v:sortKey="visWall01" v:invis="false" v:langID="1049" v:val="VT0(49.212598425197):21"/>
+					<v:cp v:nameU="visWallJustify" v:lbl="Выравнивание стены" v:type="1" v:format="По центру;По краю;Другое"
+							v:sortKey="visWall04" v:invis="false" v:langID="1049" v:val="VT4(По краю)"/>
+					<v:cp v:nameU="visWallSegment" v:lbl="Сегмент стены" v:type="1" v:format="Кривой;Прямой" v:sortKey="visWall05"
+							v:invis="false" v:langID="1049" v:val="VT4(Прямой)"/>
+					<v:cp v:nameU="Radius" v:lbl="Радиус стены" v:type="4" v:format="3 m;4 m;5 m;6 m;7 m;8 m;4 m."
+							v:sortKey="visWall06" v:invis="true" v:langID="1049" v:val="VT0(118.11023622047):21"/>
+					<v:cp v:nameU="ShapeClass" v:lbl="Класс фигуры" v:type="0" v:invis="true" v:langID="1049"
+							v:val="VT4(Компонент здания)"/>
+					<v:cp v:nameU="ShapeType" v:lbl="Тип фигуры" v:type="0" v:invis="true" v:langID="1049" v:val="VT4(Стена)"/>
+					<v:cp v:nameU="SubShapeType" v:lbl="Тип вложенной фигуры" v:type="0" v:invis="true" v:langID="1049"
+							v:val="VT4()"/>
+					<v:cp v:nameU="FireRating" v:lbl="Степень пожарной опасности" v:type="0" v:sortKey="visWall15" v:invis="false"
+							v:langID="1049"/>
+					<v:cp v:nameU="BaseElevation" v:lbl="Базовая высота" v:type="2" v:sortKey="visWall09" v:invis="false"
+							v:langID="1049" v:val="VT0(0):24"/>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud v:nameU="LX1"/>
+					<v:ud v:nameU="LY1"/>
+					<v:ud v:nameU="RX1" v:val="VT0(118.11023622047):21"/>
+					<v:ud v:nameU="RY1" v:val="VT0(49.212598425197):24"/>
+					<v:ud v:nameU="A1" v:val="VT0(0):32"/>
+					<v:ud v:nameU="T1" v:val="VT0(5.9055118110236):24"/>
+					<v:ud v:nameU="RefLn1" v:val="VT0(0):26"/>
+					<v:ud v:nameU="Mtrl1" v:prompt="0=Unknown, 1=Wall" v:val="VT0(1):26"/>
+					<v:ud v:nameU="JointType1" v:prompt="3M." v:val="VT0(1):26"/>
+					<v:ud v:nameU="1" v:prompt="---------------------------------" v:val="VT4(---------------------------------)"/>
+					<v:ud v:nameU="RelA1" v:val="VT0(1.5707963267949):32"/>
+					<v:ud v:nameU="EndsDontMeet1" v:prompt="Within radius of User.Fuzz" v:val="VT0(0):5"/>
+					<v:ud v:nameU="ShapeGone1" v:val="VT0(0):5"/>
+					<v:ud v:nameU="AngTooSharp1"/>
+					<v:ud v:nameU="AngTooBlunt1" v:val="VT0(0):26"/>
+					<v:ud v:nameU="EndNotOnLine1" v:prompt="Within distance User.Fuzz of being on line." v:val="VT0(0):5"/>
+					<v:ud v:nameU="DiffMtrls1" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="CornerClose1" v:val="VT0(0):5"/>
+					<v:ud v:nameU="TClose1" v:val="VT0(0):26"/>
+					<v:ud v:nameU="11" v:prompt="---------------------------------" v:val="VT4(---------------------------------)"/>
+					<v:ud v:nameU="Closed1" v:val="VT0(0):5"/>
+					<v:ud v:nameU="Corner1" v:val="VT0(1):5"/>
+					<v:ud v:nameU="TJointOpen1" v:val="VT0(0):5"/>
+					<v:ud v:nameU="TJointClosed1" v:val="VT0(0):5"/>
+					<v:ud v:nameU="_" v:prompt="=================" v:val="VT4(=================)"/>
+					<v:ud v:nameU="LX2" v:val="VT0(118.11023622047):21"/>
+					<v:ud v:nameU="LY2" v:val="VT0(9.5923269327613E-014):21"/>
+					<v:ud v:nameU="RX2"/>
+					<v:ud v:nameU="RY2"/>
+					<v:ud v:nameU="A2" v:val="VT0(-3.1415926535898):32"/>
+					<v:ud v:nameU="T2" v:val="VT0(5.9055118110236):24"/>
+					<v:ud v:nameU="RefLn2" v:val="VT0(0):26"/>
+					<v:ud v:nameU="Mtrl2" v:prompt="0=Unknown, 1=Wall" v:val="VT0(1):26"/>
+					<v:ud v:nameU="JointType2" v:prompt="3M." v:val="VT0(1):26"/>
+					<v:ud v:nameU="2" v:prompt="---------------------------------" v:val="VT4(---------------------------------)"/>
+					<v:ud v:nameU="RelA2" v:val="VT0(4.7123889803847):32"/>
+					<v:ud v:nameU="EndsDontMeet2" v:prompt="Within radius of User.Fuzz" v:val="VT0(0):5"/>
+					<v:ud v:nameU="ShapeGone2" v:val="VT0(0):5"/>
+					<v:ud v:nameU="AngTooSharp2"/>
+					<v:ud v:nameU="AngTooBlunt2" v:val="VT0(0):26"/>
+					<v:ud v:nameU="EndNotOnLine2" v:prompt="Within distance User.Fuzz of being on line." v:val="VT0(0):5"/>
+					<v:ud v:nameU="DiffMtrls2" v:val="VT0(0):5"/>
+					<v:ud v:nameU="CornerClose2" v:val="VT0(0):5"/>
+					<v:ud v:nameU="TClose2" v:val="VT0(0):26"/>
+					<v:ud v:nameU="22" v:prompt="---------------------------------" v:val="VT4(---------------------------------)"/>
+					<v:ud v:nameU="Closed2" v:val="VT0(0):5"/>
+					<v:ud v:nameU="Corner2" v:val="VT0(1):5"/>
+					<v:ud v:nameU="TJointOpen2" v:val="VT0(0):5"/>
+					<v:ud v:nameU="TJointClosed2" v:val="VT0(0):5"/>
+					<v:ud v:nameU="__" v:prompt="=================" v:val="VT4(=================)"/>
+					<v:ud v:nameU="Fuzz" v:val="VT0(0.19685039370079):24"/>
+					<v:ud v:nameU="LineStyleIndex" v:val="VT0(0):26"/>
+					<v:ud v:nameU="WallShape" v:prompt="Shape Identifier"/>
+					<v:ud v:nameU="OverLayT" v:val="VT0(0.59055118110236):24"/>
+					<v:ud v:nameU="3D_type" v:val="VT0(2):26"/>
+					<v:ud v:nameU="3D_offset" v:val="VT0(0):26"/>
+					<v:ud v:nameU="3D_extrude_length" v:val="VT0(102.36220472441):21"/>
+					<v:ud v:nameU="Is_arc" v:val="VT0(0):5"/>
+					<v:ud v:nameU="2D_length_check" v:val="VT0(49.212598425197):21"/>
+					<v:ud v:nameU="visWallPriority" v:val="VT0(50):26"/>
+					<v:ud v:nameU="visObjectType" v:prompt="Wall" v:val="VT0(101):26"/>
+					<v:ud v:nameU="visBESelected" v:val="VT0(0):5"/>
+					<v:ud v:nameU="CleanupBegin" v:val="VT0(167.32283464567):21"/>
+					<v:ud v:nameU="CleanupEnd" v:val="VT0(118.11023622047):21"/>
+					<v:ud v:nameU="PreviousWidth" v:val="VT0(49.212598425197):21"/>
+					<v:ud v:nameU="RefLn" v:val="VT0(0):26"/>
+					<v:ud v:nameU="CurveSwitch" v:val="VT0(1):26"/>
+					<v:ud v:nameU="ControlsY1" v:val="VT0(0):26"/>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+					<v:ud v:nameU="SolSH" v:val="VT4({5D50005D-537C-4738-9C46-130C74335A6D})"/>
+					<v:ud v:nameU="ShapeClass" v:prompt="Компонент здания" v:val="VT0(3):26"/>
+					<v:ud v:nameU="ShapeType" v:prompt="Стена" v:val="VT0(44):26"/>
+					<v:ud v:nameU="SubShapeType" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="CurveLookup" v:val="VT0(1):26"/>
+					<v:ud v:nameU="AntiScale" v:val="VT0(100):26"/>
+					<v:ud v:nameU="HasText" v:val="VT0(0):5"/>
+					<v:ud v:nameU="visBESelected" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="AntiScale" v:prompt="" v:val="VT0(50):26"/>
+				</v:userDefs>
+				<title>Лист.65</title>
+				<g id="shape66-146" v:mID="66" v:groupContext="shape" v:layerMember="0;1">
+					<title>Лист.66</title>
+					<v:userDefs>
+						<v:ud v:nameU="WallFill" v:prompt="Shape Identifier"/>
+					</v:userDefs>
+					<path d="M-8.5 1675.28 L79.37 1675.28 L70.87 1683.78 L0 1683.78 L-8.5 1675.28 Z" class="st1"/>
+				</g>
+				<g id="shape67-149" v:mID="67" v:groupContext="shape" v:layerMember="0;1"
+						transform="translate(-1190.61,2874.39) rotate(-135)">
+					<title>Лист.67</title>
+					<v:userDefs>
+						<v:ud v:nameU="WallCap" v:prompt="Shape Identifier"/>
+					</v:userDefs>
+					<rect x="0" y="1682.93" width="12.0264" height="0.850394" class="st2"/>
+				</g>
+				<g id="shape68-151" v:mID="68" v:groupContext="shape" v:layerMember="0;1"
+						transform="translate(1269.98,2865.89) rotate(135)">
+					<title>Лист.68</title>
+					<v:userDefs>
+						<v:ud v:nameU="WallCap" v:prompt="Shape Identifier"/>
+					</v:userDefs>
+					<rect x="0" y="1682.93" width="12.0264" height="0.850394" class="st2"/>
+				</g>
+				<g id="shape69-153" v:mID="69" v:groupContext="shape" v:layerMember="0;1">
+					<title>Лист.69</title>
+					<v:userDefs>
+						<v:ud v:nameU="WallRefLine" v:prompt="Shape Identifier"/>
+					</v:userDefs>
+				</g>
+				<g id="shape70-155" v:mID="70" v:groupContext="shape" v:layerMember="0;1">
+					<title>Лист.70</title>
+					<v:userDefs>
+						<v:ud v:nameU="WallCompGeom1" v:prompt="Shape Identifier" v:val="VT0(-0.66693806165226):26"/>
+					</v:userDefs>
+					<path d="M-8.5 1675.28 L79.37 1675.28" class="st3"/>
+					<path d="M0 1683.78 L70.87 1683.78" class="st3"/>
+				</g>
+				<g id="shape71-159" v:mID="71" v:groupContext="shape" v:layerMember="0;1" transform="translate(-1.09741,-8.50394)">
+					<title>Лист.71</title>
+					<v:custProps>
+						<v:cp v:nameU="LPrec" v:lbl="Точность" v:type="1" v:format="0;0.0;0.00;0.000;0.0000" v:sortKey="2"
+								v:invis="false" v:langID="1049" v:val="VT4(0)"/>
+						<v:cp v:nameU="LUnits" v:lbl="Единицы" v:type="1"
+								v:format=" Использовать единицы страницы документа;.Футы-дюймы (1&#39;-0&#34;);.Футы (1,00&#39;);.Дюймы;.Футы (1,00 фт);.Мили;-Миллиметры;-Сантиметры;-Метры;-Километры"
+								v:sortKey="1" v:invis="false" v:langID="1049" v:val="VT4(-Миллиметры)"/>
+						<v:cp v:nameU="ShowUnits" v:lbl="Вывод единиц" v:type="1"
+								v:format="Не показывать единицы;Показывать единицы" v:sortKey="4" v:invis="false" v:langID="1049"
+								v:val="VT4(Показывать единицы)"/>
+						<v:cp v:nameU="LInchPrec" v:lbl="Точность" v:type="1"
+								v:format="    1 in.; 1/2 in.; 1/4 in.; 1/8 in.;1/16 in." v:sortKey="3" v:invis="true"
+								v:langID="1049" v:val="VT4(1/16 in.)"/>
+						<v:cp v:nameU="LPrec" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+								v:ask="false" v:langID="0" v:cal="0" v:val="VT4(0.00)"/>
+						<v:cp v:nameU="LUnits" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+								v:ask="false" v:langID="0" v:cal="0" v:val="VT4( Использовать единицы страницы документа)"/>
+						<v:cp v:nameU="ShowUnits" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+								v:ask="false" v:langID="0" v:cal="0" v:val="VT4(Не показывать единицы)"/>
+					</v:custProps>
+					<v:userDefs>
+						<v:ud v:nameU="Hide" v:val="VT0(1):5"/>
+						<v:ud v:nameU="LUnitsFactor" v:val="VT0(0):24"/>
+						<v:ud v:nameU="FormatString" v:val="VT4(0u)"/>
+						<v:ud v:nameU="LengthText" v:val="VT4(1250мм)"/>
+						<v:ud v:nameU="Length" v:val="VT0(49.212598425197):24"/>
+						<v:ud v:nameU="LPFString" v:prompt="Linear Precision Formatting String" v:val="VT4(0)"/>
+						<v:ud v:nameU="LPrec" v:val="VT0(0):26"/>
+						<v:ud v:nameU="LPrecInd" v:val="VT0(0):26"/>
+						<v:ud v:nameU="LPrecVal" v:val="VT4(0)"/>
+						<v:ud v:nameU="LUnits" v:val="VT0(6):26"/>
+						<v:ud v:nameU="LUnitsInd" v:prompt="0=Dwg, 1=Arch, 2=Dec Ft, 3+ = other" v:val="VT0(6):26"/>
+						<v:ud v:nameU="LUnitsVal" v:val="VT4(-Миллиметры)"/>
+						<v:ud v:nameU="ShowUnits" v:val="VT0(1):26"/>
+						<v:ud v:nameU="ShowUnitsInd" v:val="VT0(1):26"/>
+						<v:ud v:nameU="ShowUnitsVal" v:val="VT4(Показывать единицы)"/>
+						<v:ud v:nameU="FeetInch" v:val="VT0(0):26"/>
+						<v:ud v:nameU="Feet" v:val="VT0(0):26"/>
+						<v:ud v:nameU="Inch" v:val="VT0(0):26"/>
+						<v:ud v:nameU="InchPrec" v:val="VT0(16):26"/>
+						<v:ud v:nameU="WatchLength" v:val="VT0(49.212598425197):21"/>
+						<v:ud v:nameU="DrawingUnitFactor" v:val="VT0(0):21"/>
+						<v:ud v:nameU="HideArrow" v:val="VT0(0):5"/>
+						<v:ud v:nameU="LInchPrecInd" v:val="VT0(4):26"/>
+						<v:ud v:nameU="DirArrowSize" v:val="VT0(10.668166666667):1"/>
+						<v:ud v:nameU="DirArrowOffset" v:val="VT0(49.584659180238):1"/>
+						<v:ud v:nameU="LInchPrec" v:val="VT0(4):26"/>
+						<v:ud v:nameU="LInchPrecVal" v:val="VT4(1/16 in.)"/>
+						<v:ud v:nameU="FormatString" v:prompt="" v:val="VT4(0.00)"/>
+						<v:ud v:nameU="LengthText" v:prompt="" v:val="VT4(1250,00)"/>
+						<v:ud v:nameU="LPFString" v:prompt="" v:val="VT4(0.00)"/>
+						<v:ud v:nameU="LPrec" v:prompt="" v:val="VT0(2):26"/>
+						<v:ud v:nameU="LPrecInd" v:prompt="" v:val="VT0(2):26"/>
+						<v:ud v:nameU="LPrecVal" v:prompt="" v:val="VT4(0.00)"/>
+						<v:ud v:nameU="LUnits" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="LUnitsInd" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="LUnitsVal" v:prompt="" v:val="VT4( Использовать единицы страницы документа)"/>
+						<v:ud v:nameU="ShowUnits" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="ShowUnitsInd" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="ShowUnitsVal" v:prompt="" v:val="VT4(Не показывать единицы)"/>
+						<v:ud v:nameU="DrawingUnitFactor" v:prompt="" v:val="VT0(0):24"/>
+						<v:ud v:nameU="DirArrowSize" v:prompt="" v:val="VT0(5.3340833333333):1"/>
+						<v:ud v:nameU="DirArrowOffset" v:prompt="" v:val="VT0(27.628938477113):1"/>
+					</v:userDefs>
+					<v:textBlock v:margins="rect(4,0,0,0)" v:tabSpace="42.5197"/>
+					<v:textRect cx="36.5305" cy="1670.98" width="73.07" height="25.6036" transform="rotate(-180)"/>
+				</g>
+			</g>
+			<g id="group72-161" transform="translate(170.079,3367.56) rotate(180)" v:mID="72" v:groupContext="group"
+					v:layerMember="0;1">
+				<v:custProps>
+					<v:cp v:nameU="T" v:lbl="Толщина стены" v:type="4" v:format="50 mm;100 mm;150 mm;200 mm;250 mm;300 mm;150 mm."
+							v:sortKey="visWall02" v:invis="false" v:langID="1049" v:val="VT0(5.9055118110236):24"/>
+					<v:cp v:nameU="RefLn" v:lbl="Смещение относительно опорной линии" v:type="4"
+							v:format="-150 mm;-125 mm;-100 mm;-75 mm;-50 mm;-25 mm;0 mm;25 mm;50 mm;75 mm;100 mm;125 mm;150 mm"
+							v:sortKey="visWall07" v:invis="true" v:langID="1049" v:val="VT0(0):24"/>
+					<v:cp v:nameU="Material" v:type="0" v:invis="true" v:langID="1049"/>
+					<v:cp v:nameU="VisWallHeight" v:lbl="Высота стены" v:type="4"
+							v:format="2 m;2.1 m;2.2 m;2.3 m;2.4 m;2.5 m;2.6 m;2.7 m;2.8 m;2.9 m;3 m;2.6 m." v:sortKey="visWall03"
+							v:invis="false" v:langID="1049" v:val="VT0(102.36220472441):21"/>
+					<v:cp v:nameU="VisWallLength" v:lbl="Длина стены" v:type="4" v:format="1 m;2 m;3 m;4 m;5 m;6 m;7 m;8 m;3 m."
+							v:sortKey="visWall01" v:invis="false" v:langID="1049" v:val="VT0(118.11023622047):21"/>
+					<v:cp v:nameU="visWallJustify" v:lbl="Выравнивание стены" v:type="1" v:format="По центру;По краю;Другое"
+							v:sortKey="visWall04" v:invis="false" v:langID="1049" v:val="VT4(По краю)"/>
+					<v:cp v:nameU="visWallSegment" v:lbl="Сегмент стены" v:type="1" v:format="Кривой;Прямой" v:sortKey="visWall05"
+							v:invis="false" v:langID="1049" v:val="VT4(Прямой)"/>
+					<v:cp v:nameU="Radius" v:lbl="Радиус стены" v:type="4" v:format="3 m;4 m;5 m;6 m;7 m;8 m;4 m."
+							v:sortKey="visWall06" v:invis="true" v:langID="1049" v:val="VT0(118.11023622047):21"/>
+					<v:cp v:nameU="ShapeClass" v:lbl="Класс фигуры" v:type="0" v:invis="true" v:langID="1049"
+							v:val="VT4(Компонент здания)"/>
+					<v:cp v:nameU="ShapeType" v:lbl="Тип фигуры" v:type="0" v:invis="true" v:langID="1049" v:val="VT4(Стена)"/>
+					<v:cp v:nameU="SubShapeType" v:lbl="Тип вложенной фигуры" v:type="0" v:invis="true" v:langID="1049"
+							v:val="VT4()"/>
+					<v:cp v:nameU="FireRating" v:lbl="Степень пожарной опасности" v:type="0" v:sortKey="visWall15" v:invis="false"
+							v:langID="1049"/>
+					<v:cp v:nameU="BaseElevation" v:lbl="Базовая высота" v:type="2" v:sortKey="visWall09" v:invis="false"
+							v:langID="1049" v:val="VT0(0):24"/>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud v:nameU="LX1"/>
+					<v:ud v:nameU="LY1"/>
+					<v:ud v:nameU="RX1" v:val="VT0(118.11023622047):21"/>
+					<v:ud v:nameU="RY1" v:val="VT0(-2.1316282072803E-014):21"/>
+					<v:ud v:nameU="A1" v:val="VT0(-1.5707963267949):32"/>
+					<v:ud v:nameU="T1" v:val="VT0(5.9055118110236):24"/>
+					<v:ud v:nameU="RefLn1" v:val="VT0(0):26"/>
+					<v:ud v:nameU="Mtrl1" v:prompt="0=Unknown, 1=Wall" v:val="VT0(1):26"/>
+					<v:ud v:nameU="JointType1" v:prompt="3M." v:val="VT0(1):26"/>
+					<v:ud v:nameU="1" v:prompt="---------------------------------" v:val="VT4(---------------------------------)"/>
+					<v:ud v:nameU="RelA1" v:val="VT0(1.5707963267949):32"/>
+					<v:ud v:nameU="EndsDontMeet1" v:prompt="Within radius of User.Fuzz" v:val="VT0(0):5"/>
+					<v:ud v:nameU="ShapeGone1" v:val="VT0(0):5"/>
+					<v:ud v:nameU="AngTooSharp1"/>
+					<v:ud v:nameU="AngTooBlunt1" v:val="VT0(0):26"/>
+					<v:ud v:nameU="EndNotOnLine1" v:prompt="Within distance User.Fuzz of being on line." v:val="VT0(0):5"/>
+					<v:ud v:nameU="DiffMtrls1" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="CornerClose1" v:val="VT0(0):5"/>
+					<v:ud v:nameU="TClose1" v:val="VT0(0):26"/>
+					<v:ud v:nameU="11" v:prompt="---------------------------------" v:val="VT4(---------------------------------)"/>
+					<v:ud v:nameU="Closed1" v:val="VT0(0):5"/>
+					<v:ud v:nameU="Corner1" v:val="VT0(1):5"/>
+					<v:ud v:nameU="TJointOpen1" v:val="VT0(0):5"/>
+					<v:ud v:nameU="TJointClosed1" v:val="VT0(0):5"/>
+					<v:ud v:nameU="_" v:prompt="=================" v:val="VT4(=================)"/>
+					<v:ud v:nameU="LX2" v:val="VT0(1.1368683772162E-013):21"/>
+					<v:ud v:nameU="LY2" v:val="VT0(-5.8975047068089E-013):21"/>
+					<v:ud v:nameU="RX2"/>
+					<v:ud v:nameU="RY2"/>
+					<v:ud v:nameU="A2" v:val="VT0(1.5707963267949):32"/>
+					<v:ud v:nameU="T2" v:val="VT0(5.9055118110236):24"/>
+					<v:ud v:nameU="RefLn2" v:val="VT0(0):26"/>
+					<v:ud v:nameU="Mtrl2" v:prompt="0=Unknown, 1=Wall" v:val="VT0(1):26"/>
+					<v:ud v:nameU="JointType2" v:prompt="2.887645678129E-15M." v:val="VT0(1):26"/>
+					<v:ud v:nameU="2" v:prompt="---------------------------------" v:val="VT4(---------------------------------)"/>
+					<v:ud v:nameU="RelA2" v:val="VT0(4.7123889803847):32"/>
+					<v:ud v:nameU="EndsDontMeet2" v:prompt="Within radius of User.Fuzz" v:val="VT0(0):5"/>
+					<v:ud v:nameU="ShapeGone2" v:val="VT0(0):5"/>
+					<v:ud v:nameU="AngTooSharp2"/>
+					<v:ud v:nameU="AngTooBlunt2" v:val="VT0(0):26"/>
+					<v:ud v:nameU="EndNotOnLine2" v:prompt="Within distance User.Fuzz of being on line." v:val="VT0(0):5"/>
+					<v:ud v:nameU="DiffMtrls2" v:val="VT0(0):5"/>
+					<v:ud v:nameU="CornerClose2" v:val="VT0(0):5"/>
+					<v:ud v:nameU="TClose2" v:val="VT0(0):26"/>
+					<v:ud v:nameU="22" v:prompt="---------------------------------" v:val="VT4(---------------------------------)"/>
+					<v:ud v:nameU="Closed2" v:val="VT0(0):5"/>
+					<v:ud v:nameU="Corner2" v:val="VT0(1):5"/>
+					<v:ud v:nameU="TJointOpen2" v:val="VT0(0):5"/>
+					<v:ud v:nameU="TJointClosed2" v:val="VT0(0):5"/>
+					<v:ud v:nameU="__" v:prompt="=================" v:val="VT4(=================)"/>
+					<v:ud v:nameU="Fuzz" v:val="VT0(0.19685039370079):24"/>
+					<v:ud v:nameU="LineStyleIndex" v:val="VT0(0):26"/>
+					<v:ud v:nameU="WallShape" v:prompt="Shape Identifier"/>
+					<v:ud v:nameU="OverLayT" v:val="VT0(0.59055118110236):24"/>
+					<v:ud v:nameU="3D_type" v:val="VT0(2):26"/>
+					<v:ud v:nameU="3D_offset" v:val="VT0(0):26"/>
+					<v:ud v:nameU="3D_extrude_length" v:val="VT0(102.36220472441):21"/>
+					<v:ud v:nameU="Is_arc" v:val="VT0(0):5"/>
+					<v:ud v:nameU="2D_length_check" v:val="VT0(118.11023622047):21"/>
+					<v:ud v:nameU="visWallPriority" v:val="VT0(50):26"/>
+					<v:ud v:nameU="visObjectType" v:prompt="Wall" v:val="VT0(101):26"/>
+					<v:ud v:nameU="visBESelected" v:val="VT0(0):5"/>
+					<v:ud v:nameU="CleanupBegin" v:val="VT0(118.11023622047):21"/>
+					<v:ud v:nameU="CleanupEnd" v:val="VT0(-4.7606363295927E-013):21"/>
+					<v:ud v:nameU="PreviousWidth" v:val="VT0(118.11023622047):21"/>
+					<v:ud v:nameU="RefLn" v:val="VT0(0):26"/>
+					<v:ud v:nameU="CurveSwitch" v:val="VT0(1):26"/>
+					<v:ud v:nameU="ControlsY1" v:val="VT0(0):26"/>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+					<v:ud v:nameU="SolSH" v:val="VT4({5D50005D-537C-4738-9C46-130C74335A6D})"/>
+					<v:ud v:nameU="ShapeClass" v:prompt="Компонент здания" v:val="VT0(3):26"/>
+					<v:ud v:nameU="ShapeType" v:prompt="Стена" v:val="VT0(44):26"/>
+					<v:ud v:nameU="SubShapeType" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="CurveLookup" v:val="VT0(1):26"/>
+					<v:ud v:nameU="AntiScale" v:val="VT0(100):26"/>
+					<v:ud v:nameU="HasText" v:val="VT0(0):5"/>
+					<v:ud v:nameU="visBESelected" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="AntiScale" v:prompt="" v:val="VT0(50):26"/>
+				</v:userDefs>
+				<title>Лист.72</title>
+				<g id="shape73-162" v:mID="73" v:groupContext="shape" v:layerMember="0;1">
+					<title>Лист.73</title>
+					<v:userDefs>
+						<v:ud v:nameU="WallFill" v:prompt="Shape Identifier"/>
+					</v:userDefs>
+					<path d="M-8.5 1675.28 L178.58 1675.28 L170.08 1683.78 L0 1683.78 L-8.5 1675.28 Z" class="st1"/>
+				</g>
+				<g id="shape74-165" v:mID="74" v:groupContext="shape" v:layerMember="0;1"
+						transform="translate(-1190.61,2874.39) rotate(-135)">
+					<title>Лист.74</title>
+					<v:userDefs>
+						<v:ud v:nameU="WallCap" v:prompt="Shape Identifier"/>
+					</v:userDefs>
+					<rect x="0" y="1682.93" width="12.0264" height="0.850394" class="st2"/>
+				</g>
+				<g id="shape75-167" v:mID="75" v:groupContext="shape" v:layerMember="0;1"
+						transform="translate(1369.19,2865.89) rotate(135)">
+					<title>Лист.75</title>
+					<v:userDefs>
+						<v:ud v:nameU="WallCap" v:prompt="Shape Identifier"/>
+					</v:userDefs>
+					<rect x="0" y="1682.93" width="12.0264" height="0.850394" class="st2"/>
+				</g>
+				<g id="shape76-169" v:mID="76" v:groupContext="shape" v:layerMember="0;1">
+					<title>Лист.76</title>
+					<v:userDefs>
+						<v:ud v:nameU="WallRefLine" v:prompt="Shape Identifier"/>
+					</v:userDefs>
+				</g>
+				<g id="shape77-171" v:mID="77" v:groupContext="shape" v:layerMember="0;1">
+					<title>Лист.77</title>
+					<v:userDefs>
+						<v:ud v:nameU="WallCompGeom1" v:prompt="Shape Identifier" v:val="VT0(-0.66693806165226):26"/>
+					</v:userDefs>
+					<path d="M-8.5 1675.28 L178.58 1675.28" class="st3"/>
+					<path d="M0 1683.78 L170.08 1683.78" class="st3"/>
+				</g>
+				<g id="shape78-175" v:mID="78" v:groupContext="shape" v:layerMember="0;1" transform="translate(48.5089,-8.50394)">
+					<title>Лист.78</title>
+					<v:custProps>
+						<v:cp v:nameU="LPrec" v:lbl="Точность" v:type="1" v:format="0;0.0;0.00;0.000;0.0000" v:sortKey="2"
+								v:invis="false" v:langID="1049" v:val="VT4(0)"/>
+						<v:cp v:nameU="LUnits" v:lbl="Единицы" v:type="1"
+								v:format=" Использовать единицы страницы документа;.Футы-дюймы (1&#39;-0&#34;);.Футы (1,00&#39;);.Дюймы;.Футы (1,00 фт);.Мили;-Миллиметры;-Сантиметры;-Метры;-Километры"
+								v:sortKey="1" v:invis="false" v:langID="1049" v:val="VT4(-Миллиметры)"/>
+						<v:cp v:nameU="ShowUnits" v:lbl="Вывод единиц" v:type="1"
+								v:format="Не показывать единицы;Показывать единицы" v:sortKey="4" v:invis="false" v:langID="1049"
+								v:val="VT4(Показывать единицы)"/>
+						<v:cp v:nameU="LInchPrec" v:lbl="Точность" v:type="1"
+								v:format="    1 in.; 1/2 in.; 1/4 in.; 1/8 in.;1/16 in." v:sortKey="3" v:invis="true"
+								v:langID="1049" v:val="VT4(1/16 in.)"/>
+						<v:cp v:nameU="LPrec" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+								v:ask="false" v:langID="0" v:cal="0" v:val="VT4(0.00)"/>
+						<v:cp v:nameU="LUnits" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+								v:ask="false" v:langID="0" v:cal="0" v:val="VT4( Использовать единицы страницы документа)"/>
+						<v:cp v:nameU="ShowUnits" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+								v:ask="false" v:langID="0" v:cal="0" v:val="VT4(Не показывать единицы)"/>
+					</v:custProps>
+					<v:userDefs>
+						<v:ud v:nameU="Hide" v:val="VT0(1):5"/>
+						<v:ud v:nameU="LUnitsFactor" v:val="VT0(0):24"/>
+						<v:ud v:nameU="FormatString" v:val="VT4(0u)"/>
+						<v:ud v:nameU="LengthText" v:val="VT4(3000мм)"/>
+						<v:ud v:nameU="Length" v:val="VT0(118.11023622047):24"/>
+						<v:ud v:nameU="LPFString" v:prompt="Linear Precision Formatting String" v:val="VT4(0)"/>
+						<v:ud v:nameU="LPrec" v:val="VT0(0):26"/>
+						<v:ud v:nameU="LPrecInd" v:val="VT0(0):26"/>
+						<v:ud v:nameU="LPrecVal" v:val="VT4(0)"/>
+						<v:ud v:nameU="LUnits" v:val="VT0(6):26"/>
+						<v:ud v:nameU="LUnitsInd" v:prompt="0=Dwg, 1=Arch, 2=Dec Ft, 3+ = other" v:val="VT0(6):26"/>
+						<v:ud v:nameU="LUnitsVal" v:val="VT4(-Миллиметры)"/>
+						<v:ud v:nameU="ShowUnits" v:val="VT0(1):26"/>
+						<v:ud v:nameU="ShowUnitsInd" v:val="VT0(1):26"/>
+						<v:ud v:nameU="ShowUnitsVal" v:val="VT4(Показывать единицы)"/>
+						<v:ud v:nameU="FeetInch" v:val="VT0(0):26"/>
+						<v:ud v:nameU="Feet" v:val="VT0(0):26"/>
+						<v:ud v:nameU="Inch" v:val="VT0(0):26"/>
+						<v:ud v:nameU="InchPrec" v:val="VT0(16):26"/>
+						<v:ud v:nameU="WatchLength" v:val="VT0(118.11023622047):21"/>
+						<v:ud v:nameU="DrawingUnitFactor" v:val="VT0(0):21"/>
+						<v:ud v:nameU="HideArrow" v:val="VT0(0):5"/>
+						<v:ud v:nameU="LInchPrecInd" v:val="VT0(4):26"/>
+						<v:ud v:nameU="DirArrowSize" v:val="VT0(10.668166666667):1"/>
+						<v:ud v:nameU="DirArrowOffset" v:val="VT0(49.584659180238):1"/>
+						<v:ud v:nameU="LInchPrec" v:val="VT0(4):26"/>
+						<v:ud v:nameU="LInchPrecVal" v:val="VT4(1/16 in.)"/>
+						<v:ud v:nameU="FormatString" v:prompt="" v:val="VT4(0.00)"/>
+						<v:ud v:nameU="LengthText" v:prompt="" v:val="VT4(3000,00)"/>
+						<v:ud v:nameU="LPFString" v:prompt="" v:val="VT4(0.00)"/>
+						<v:ud v:nameU="LPrec" v:prompt="" v:val="VT0(2):26"/>
+						<v:ud v:nameU="LPrecInd" v:prompt="" v:val="VT0(2):26"/>
+						<v:ud v:nameU="LPrecVal" v:prompt="" v:val="VT4(0.00)"/>
+						<v:ud v:nameU="LUnits" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="LUnitsInd" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="LUnitsVal" v:prompt="" v:val="VT4( Использовать единицы страницы документа)"/>
+						<v:ud v:nameU="ShowUnits" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="ShowUnitsInd" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="ShowUnitsVal" v:prompt="" v:val="VT4(Не показывать единицы)"/>
+						<v:ud v:nameU="DrawingUnitFactor" v:prompt="" v:val="VT0(0):24"/>
+						<v:ud v:nameU="DirArrowSize" v:prompt="" v:val="VT0(5.3340833333333):1"/>
+						<v:ud v:nameU="DirArrowOffset" v:prompt="" v:val="VT0(27.628938477113):1"/>
+					</v:userDefs>
+					<v:textBlock v:margins="rect(4,0,0,0)" v:tabSpace="42.5197"/>
+					<v:textRect cx="36.5305" cy="1670.98" width="73.07" height="25.6036" transform="rotate(-180)"/>
+				</g>
+			</g>
+			<g id="group79-177" transform="translate(-1683.78,1683.78) rotate(-90)" v:mID="79" v:groupContext="group"
+					v:layerMember="0;1">
+				<v:custProps>
+					<v:cp v:nameU="T" v:lbl="Толщина стены" v:type="4" v:format="50 mm;100 mm;150 mm;200 mm;250 mm;300 mm;150 mm."
+							v:sortKey="visWall02" v:invis="false" v:langID="1049" v:val="VT0(5.9055118110236):24"/>
+					<v:cp v:nameU="RefLn" v:lbl="Смещение относительно опорной линии" v:type="4"
+							v:format="-150 mm;-125 mm;-100 mm;-75 mm;-50 mm;-25 mm;0 mm;25 mm;50 mm;75 mm;100 mm;125 mm;150 mm"
+							v:sortKey="visWall07" v:invis="true" v:langID="1049" v:val="VT0(0):24"/>
+					<v:cp v:nameU="Material" v:type="0" v:invis="true" v:langID="1049"/>
+					<v:cp v:nameU="VisWallHeight" v:lbl="Высота стены" v:type="4"
+							v:format="2 m;2.1 m;2.2 m;2.3 m;2.4 m;2.5 m;2.6 m;2.7 m;2.8 m;2.9 m;3 m;2.6 m." v:sortKey="visWall03"
+							v:invis="false" v:langID="1049" v:val="VT0(102.36220472441):21"/>
+					<v:cp v:nameU="VisWallLength" v:lbl="Длина стены" v:type="4" v:format="1 m;2 m;3 m;4 m;5 m;6 m;7 m;8 m;3 m."
+							v:sortKey="visWall01" v:invis="false" v:langID="1049" v:val="VT0(98.425196850394):21"/>
+					<v:cp v:nameU="visWallJustify" v:lbl="Выравнивание стены" v:type="1" v:format="По центру;По краю;Другое"
+							v:sortKey="visWall04" v:invis="false" v:langID="1049" v:val="VT4(По краю)"/>
+					<v:cp v:nameU="visWallSegment" v:lbl="Сегмент стены" v:type="1" v:format="Кривой;Прямой" v:sortKey="visWall05"
+							v:invis="false" v:langID="1049" v:val="VT4(Прямой)"/>
+					<v:cp v:nameU="Radius" v:lbl="Радиус стены" v:type="4" v:format="3 m;4 m;5 m;6 m;7 m;8 m;4 m."
+							v:sortKey="visWall06" v:invis="true" v:langID="1049" v:val="VT0(118.11023622047):21"/>
+					<v:cp v:nameU="ShapeClass" v:lbl="Класс фигуры" v:type="0" v:invis="true" v:langID="1049"
+							v:val="VT4(Компонент здания)"/>
+					<v:cp v:nameU="ShapeType" v:lbl="Тип фигуры" v:type="0" v:invis="true" v:langID="1049" v:val="VT4(Стена)"/>
+					<v:cp v:nameU="SubShapeType" v:lbl="Тип вложенной фигуры" v:type="0" v:invis="true" v:langID="1049"
+							v:val="VT4()"/>
+					<v:cp v:nameU="FireRating" v:lbl="Степень пожарной опасности" v:type="0" v:sortKey="visWall15" v:invis="false"
+							v:langID="1049"/>
+					<v:cp v:nameU="BaseElevation" v:lbl="Базовая высота" v:type="2" v:sortKey="visWall09" v:invis="false"
+							v:langID="1049" v:val="VT0(0):24"/>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud v:nameU="LX1"/>
+					<v:ud v:nameU="LY1"/>
+					<v:ud v:nameU="RX1" v:val="VT0(1.1368683772162E-013):21"/>
+					<v:ud v:nameU="RY1" v:val="VT0(-5.8975047068089E-013):21"/>
+					<v:ud v:nameU="A1" v:val="VT0(-3.1415926535898):32"/>
+					<v:ud v:nameU="T1" v:val="VT0(5.9055118110236):24"/>
+					<v:ud v:nameU="RefLn1" v:val="VT0(0):26"/>
+					<v:ud v:nameU="Mtrl1" v:prompt="0=Unknown, 1=Wall" v:val="VT0(1):26"/>
+					<v:ud v:nameU="JointType1" v:prompt="2.887645678129E-15M." v:val="VT0(1):26"/>
+					<v:ud v:nameU="1" v:prompt="---------------------------------" v:val="VT4(---------------------------------)"/>
+					<v:ud v:nameU="RelA1" v:val="VT0(1.5707963267949):32"/>
+					<v:ud v:nameU="EndsDontMeet1" v:prompt="Within radius of User.Fuzz" v:val="VT0(0):5"/>
+					<v:ud v:nameU="ShapeGone1" v:val="VT0(0):5"/>
+					<v:ud v:nameU="AngTooSharp1"/>
+					<v:ud v:nameU="AngTooBlunt1" v:val="VT0(0):26"/>
+					<v:ud v:nameU="EndNotOnLine1" v:prompt="Within distance User.Fuzz of being on line." v:val="VT0(0):5"/>
+					<v:ud v:nameU="DiffMtrls1" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="CornerClose1" v:val="VT0(0):5"/>
+					<v:ud v:nameU="TClose1" v:val="VT0(0):26"/>
+					<v:ud v:nameU="11" v:prompt="---------------------------------" v:val="VT4(---------------------------------)"/>
+					<v:ud v:nameU="Closed1" v:val="VT0(0):5"/>
+					<v:ud v:nameU="Corner1" v:val="VT0(1):5"/>
+					<v:ud v:nameU="TJointOpen1" v:val="VT0(0):5"/>
+					<v:ud v:nameU="TJointClosed1" v:val="VT0(0):5"/>
+					<v:ud v:nameU="_" v:prompt="=================" v:val="VT4(=================)"/>
+					<v:ud v:nameU="LX2" v:val="VT0(1.1368683772162E-013):21"/>
+					<v:ud v:nameU="LY2" v:val="VT0(98.425196850394):21"/>
+					<v:ud v:nameU="RX2"/>
+					<v:ud v:nameU="RY2"/>
+					<v:ud v:nameU="A2" v:val="VT0(0):32"/>
+					<v:ud v:nameU="T2" v:val="VT0(5.9055118110236):24"/>
+					<v:ud v:nameU="RefLn2" v:val="VT0(0):26"/>
+					<v:ud v:nameU="Mtrl2" v:prompt="0=Unknown, 1=Wall" v:val="VT0(1):26"/>
+					<v:ud v:nameU="JointType2" v:prompt="2.887645678129E-15M." v:val="VT0(1):26"/>
+					<v:ud v:nameU="2" v:prompt="---------------------------------" v:val="VT4(---------------------------------)"/>
+					<v:ud v:nameU="RelA2" v:val="VT0(4.7123889803847):32"/>
+					<v:ud v:nameU="EndsDontMeet2" v:prompt="Within radius of User.Fuzz" v:val="VT0(0):5"/>
+					<v:ud v:nameU="ShapeGone2" v:val="VT0(0):5"/>
+					<v:ud v:nameU="AngTooSharp2"/>
+					<v:ud v:nameU="AngTooBlunt2" v:val="VT0(0):26"/>
+					<v:ud v:nameU="EndNotOnLine2" v:prompt="Within distance User.Fuzz of being on line." v:val="VT0(0):5"/>
+					<v:ud v:nameU="DiffMtrls2" v:val="VT0(0):5"/>
+					<v:ud v:nameU="CornerClose2" v:val="VT0(0):5"/>
+					<v:ud v:nameU="TClose2" v:val="VT0(0):26"/>
+					<v:ud v:nameU="22" v:prompt="---------------------------------" v:val="VT4(---------------------------------)"/>
+					<v:ud v:nameU="Closed2" v:val="VT0(0):5"/>
+					<v:ud v:nameU="Corner2" v:val="VT0(1):5"/>
+					<v:ud v:nameU="TJointOpen2" v:val="VT0(0):5"/>
+					<v:ud v:nameU="TJointClosed2" v:val="VT0(0):5"/>
+					<v:ud v:nameU="__" v:prompt="=================" v:val="VT4(=================)"/>
+					<v:ud v:nameU="Fuzz" v:val="VT0(0.19685039370079):24"/>
+					<v:ud v:nameU="LineStyleIndex" v:val="VT0(0):26"/>
+					<v:ud v:nameU="WallShape" v:prompt="Shape Identifier"/>
+					<v:ud v:nameU="OverLayT" v:val="VT0(0.59055118110236):24"/>
+					<v:ud v:nameU="3D_type" v:val="VT0(2):26"/>
+					<v:ud v:nameU="3D_offset" v:val="VT0(0):26"/>
+					<v:ud v:nameU="3D_extrude_length" v:val="VT0(102.36220472441):21"/>
+					<v:ud v:nameU="Is_arc" v:val="VT0(0):5"/>
+					<v:ud v:nameU="2D_length_check" v:val="VT0(98.425196850394):21"/>
+					<v:ud v:nameU="visWallPriority" v:val="VT0(50):26"/>
+					<v:ud v:nameU="visObjectType" v:prompt="Wall" v:val="VT0(101):26"/>
+					<v:ud v:nameU="visBESelected" v:val="VT0(0):5"/>
+					<v:ud v:nameU="CleanupBegin" v:val="VT0(-4.7606363295927E-013):21"/>
+					<v:ud v:nameU="CleanupEnd" v:val="VT0(98.425196850394):21"/>
+					<v:ud v:nameU="PreviousWidth" v:val="VT0(98.425196850394):21"/>
+					<v:ud v:nameU="RefLn" v:val="VT0(0):26"/>
+					<v:ud v:nameU="CurveSwitch" v:val="VT0(1):26"/>
+					<v:ud v:nameU="ControlsY1" v:val="VT0(0):26"/>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+					<v:ud v:nameU="SolSH" v:val="VT4({5D50005D-537C-4738-9C46-130C74335A6D})"/>
+					<v:ud v:nameU="ShapeClass" v:prompt="Компонент здания" v:val="VT0(3):26"/>
+					<v:ud v:nameU="ShapeType" v:prompt="Стена" v:val="VT0(44):26"/>
+					<v:ud v:nameU="SubShapeType" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="CurveLookup" v:val="VT0(1):26"/>
+					<v:ud v:nameU="AntiScale" v:val="VT0(100):26"/>
+					<v:ud v:nameU="HasText" v:val="VT0(0):5"/>
+					<v:ud v:nameU="visBESelected" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="AntiScale" v:prompt="" v:val="VT0(50):26"/>
+				</v:userDefs>
+				<title>Лист.79</title>
+				<g id="shape80-178" v:mID="80" v:groupContext="shape" v:layerMember="0;1">
+					<title>Лист.80</title>
+					<v:userDefs>
+						<v:ud v:nameU="WallFill" v:prompt="Shape Identifier"/>
+					</v:userDefs>
+					<path d="M-8.5 1675.28 L150.24 1675.28 L141.73 1683.78 L0 1683.78 L-8.5 1675.28 Z" class="st1"/>
+				</g>
+				<g id="shape81-181" v:mID="81" v:groupContext="shape" v:layerMember="0;1"
+						transform="translate(-1190.61,2874.39) rotate(-135)">
+					<title>Лист.81</title>
+					<v:userDefs>
+						<v:ud v:nameU="WallCap" v:prompt="Shape Identifier"/>
+					</v:userDefs>
+					<rect x="0" y="1682.93" width="12.0264" height="0.850394" class="st2"/>
+				</g>
+				<g id="shape82-183" v:mID="82" v:groupContext="shape" v:layerMember="0;1"
+						transform="translate(1340.85,2865.89) rotate(135)">
+					<title>Лист.82</title>
+					<v:userDefs>
+						<v:ud v:nameU="WallCap" v:prompt="Shape Identifier"/>
+					</v:userDefs>
+					<rect x="0" y="1682.93" width="12.0264" height="0.850394" class="st2"/>
+				</g>
+				<g id="shape83-185" v:mID="83" v:groupContext="shape" v:layerMember="0;1">
+					<title>Лист.83</title>
+					<v:userDefs>
+						<v:ud v:nameU="WallRefLine" v:prompt="Shape Identifier"/>
+					</v:userDefs>
+				</g>
+				<g id="shape84-187" v:mID="84" v:groupContext="shape" v:layerMember="0;1">
+					<title>Лист.84</title>
+					<v:userDefs>
+						<v:ud v:nameU="WallCompGeom1" v:prompt="Shape Identifier" v:val="VT0(-0.66693806165226):26"/>
+					</v:userDefs>
+					<path d="M-8.5 1675.28 L150.24 1675.28" class="st3"/>
+					<path d="M0 1683.78 L141.73 1683.78" class="st3"/>
+				</g>
+				<g id="shape85-191" v:mID="85" v:groupContext="shape" v:layerMember="0;1" transform="translate(34.3357,-8.50394)">
+					<title>Лист.85</title>
+					<v:custProps>
+						<v:cp v:nameU="LPrec" v:lbl="Точность" v:type="1" v:format="0;0.0;0.00;0.000;0.0000" v:sortKey="2"
+								v:invis="false" v:langID="1049" v:val="VT4(0)"/>
+						<v:cp v:nameU="LUnits" v:lbl="Единицы" v:type="1"
+								v:format=" Использовать единицы страницы документа;.Футы-дюймы (1&#39;-0&#34;);.Футы (1,00&#39;);.Дюймы;.Футы (1,00 фт);.Мили;-Миллиметры;-Сантиметры;-Метры;-Километры"
+								v:sortKey="1" v:invis="false" v:langID="1049" v:val="VT4(-Миллиметры)"/>
+						<v:cp v:nameU="ShowUnits" v:lbl="Вывод единиц" v:type="1"
+								v:format="Не показывать единицы;Показывать единицы" v:sortKey="4" v:invis="false" v:langID="1049"
+								v:val="VT4(Показывать единицы)"/>
+						<v:cp v:nameU="LInchPrec" v:lbl="Точность" v:type="1"
+								v:format="    1 in.; 1/2 in.; 1/4 in.; 1/8 in.;1/16 in." v:sortKey="3" v:invis="true"
+								v:langID="1049" v:val="VT4(1/16 in.)"/>
+						<v:cp v:nameU="LPrec" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+								v:ask="false" v:langID="0" v:cal="0" v:val="VT4(0.00)"/>
+						<v:cp v:nameU="LUnits" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+								v:ask="false" v:langID="0" v:cal="0" v:val="VT4( Использовать единицы страницы документа)"/>
+						<v:cp v:nameU="ShowUnits" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+								v:ask="false" v:langID="0" v:cal="0" v:val="VT4(Не показывать единицы)"/>
+					</v:custProps>
+					<v:userDefs>
+						<v:ud v:nameU="Hide" v:val="VT0(1):5"/>
+						<v:ud v:nameU="LUnitsFactor" v:val="VT0(0):24"/>
+						<v:ud v:nameU="FormatString" v:val="VT4(0u)"/>
+						<v:ud v:nameU="LengthText" v:val="VT4(2500мм)"/>
+						<v:ud v:nameU="Length" v:val="VT0(98.425196850394):24"/>
+						<v:ud v:nameU="LPFString" v:prompt="Linear Precision Formatting String" v:val="VT4(0)"/>
+						<v:ud v:nameU="LPrec" v:val="VT0(0):26"/>
+						<v:ud v:nameU="LPrecInd" v:val="VT0(0):26"/>
+						<v:ud v:nameU="LPrecVal" v:val="VT4(0)"/>
+						<v:ud v:nameU="LUnits" v:val="VT0(6):26"/>
+						<v:ud v:nameU="LUnitsInd" v:prompt="0=Dwg, 1=Arch, 2=Dec Ft, 3+ = other" v:val="VT0(6):26"/>
+						<v:ud v:nameU="LUnitsVal" v:val="VT4(-Миллиметры)"/>
+						<v:ud v:nameU="ShowUnits" v:val="VT0(1):26"/>
+						<v:ud v:nameU="ShowUnitsInd" v:val="VT0(1):26"/>
+						<v:ud v:nameU="ShowUnitsVal" v:val="VT4(Показывать единицы)"/>
+						<v:ud v:nameU="FeetInch" v:val="VT0(0):26"/>
+						<v:ud v:nameU="Feet" v:val="VT0(0):26"/>
+						<v:ud v:nameU="Inch" v:val="VT0(0):26"/>
+						<v:ud v:nameU="InchPrec" v:val="VT0(16):26"/>
+						<v:ud v:nameU="WatchLength" v:val="VT0(98.425196850394):21"/>
+						<v:ud v:nameU="DrawingUnitFactor" v:val="VT0(0):21"/>
+						<v:ud v:nameU="HideArrow" v:val="VT0(0):5"/>
+						<v:ud v:nameU="LInchPrecInd" v:val="VT0(4):26"/>
+						<v:ud v:nameU="DirArrowSize" v:val="VT0(10.668166666667):1"/>
+						<v:ud v:nameU="DirArrowOffset" v:val="VT0(49.584659180238):1"/>
+						<v:ud v:nameU="LInchPrec" v:val="VT0(4):26"/>
+						<v:ud v:nameU="LInchPrecVal" v:val="VT4(1/16 in.)"/>
+						<v:ud v:nameU="FormatString" v:prompt="" v:val="VT4(0.00)"/>
+						<v:ud v:nameU="LengthText" v:prompt="" v:val="VT4(2500,00)"/>
+						<v:ud v:nameU="LPFString" v:prompt="" v:val="VT4(0.00)"/>
+						<v:ud v:nameU="LPrec" v:prompt="" v:val="VT0(2):26"/>
+						<v:ud v:nameU="LPrecInd" v:prompt="" v:val="VT0(2):26"/>
+						<v:ud v:nameU="LPrecVal" v:prompt="" v:val="VT4(0.00)"/>
+						<v:ud v:nameU="LUnits" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="LUnitsInd" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="LUnitsVal" v:prompt="" v:val="VT4( Использовать единицы страницы документа)"/>
+						<v:ud v:nameU="ShowUnits" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="ShowUnitsInd" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="ShowUnitsVal" v:prompt="" v:val="VT4(Не показывать единицы)"/>
+						<v:ud v:nameU="DrawingUnitFactor" v:prompt="" v:val="VT0(0):24"/>
+						<v:ud v:nameU="DirArrowSize" v:prompt="" v:val="VT0(5.3340833333333):1"/>
+						<v:ud v:nameU="DirArrowOffset" v:prompt="" v:val="VT0(27.628938477113):1"/>
+					</v:userDefs>
+					<v:textBlock v:margins="rect(4,0,0,0)" v:tabSpace="42.5197"/>
+					<v:textRect cx="36.5305" cy="1670.98" width="73.07" height="25.6036"/>
+				</g>
+			</g>
+		</g>
+		<g id="group86-193" transform="translate(651.969,-1516.54)" v:mID="86" v:groupContext="group" v:layerMember="0;3">
+			<v:custProps>
+				<v:cp v:nameU="visWndwHeight" v:lbl="Высота окна" v:type="4"
+						v:format="200 mm;300 mm;500 mm;600 mm;700 mm;900 mm;1100 mm;1300 mm;1500 mm;1800 mm;2100 mm" v:sortKey="02"
+						v:invis="false" v:langID="1049" v:val="VT0(51.181102362205):24"/>
+				<v:cp v:nameU="RefLn" v:lbl="Смещение относительно опорной линии" v:type="2" v:invis="true" v:langID="1049"
+						v:val="VT0(0):26"/>
+				<v:cp v:nameU="SubType" v:lbl="Ширина окна" v:type="4"
+						v:format="600 mm;700 mm;800 mm;900 mm;1000 mm;1200 mm;1500 mm;1800 mm;2100 mm" v:sortKey="01"
+						v:invis="false" v:langID="1049" v:val="VT0(35.433070866142):24"/>
+				<v:cp v:nameU="SubVisWndwFrameDepth" v:lbl="Толщина оконной рамы" v:type="4"
+						v:format="Как у стены;100 mm;150 mm;200 mm;250 mm;300 mm" v:invis="true" v:langID="1049"
+						v:val="VT0(7.8740157480315):24"/>
+				<v:cp v:nameU="SubVisWndwFrameWidth" v:lbl="Ширина оконной рамы" v:type="4"
+						v:format="10 mm;20 mm;30 mm;40 mm;50 mm;60 mm;70 mm;80 mm;90 mm;100 mm" v:invis="true" v:langID="1049"
+						v:val="VT0(1.9685039370079):24"/>
+				<v:cp v:nameU="SubVisWndwSashDepth" v:lbl="Толщина оконного переплета" v:type="4"
+						v:format="10 mm;20 mm;30 mm;40 mm;50 mm;60 mm;70 mm;80 mm;90 mm;100 mm" v:invis="true" v:langID="1049"
+						v:val="VT0(1.9685039370079):24"/>
+				<v:cp v:nameU="SubVisWndwSashWidth" v:lbl="Ширина оконного переплета" v:type="4"
+						v:format="5 mm;10 mm;20 mm;30 mm;40 mm;50 mm;60 mm;70 mm;80 mm;90 mm;100 mm" v:invis="true" v:langID="1049"
+						v:val="VT0(1.9685039370079):24"/>
+				<v:cp v:nameU="SubVisWndwSillDepthIn" v:lbl="Внутренняя толщина подоконника" v:type="4"
+						v:format="0 mm;10 mm;20 mm;30 mm;40 mm;50 mm;60 mm;70 mm;80 mm;90 mm;100 mm" v:invis="true" v:langID="1049"
+						v:val="VT0(1.9685039370079):24"/>
+				<v:cp v:nameU="SubVisWndwSillWidthIn" v:lbl="Внутренняя ширина подоконника" v:type="4"
+						v:format="0 mm;10 mm;20 mm;30 mm;40 mm;50 mm;60 mm;70 mm;80 mm;90 mm;100 mm" v:invis="true" v:langID="1049"
+						v:val="VT0(1.9685039370079):24"/>
+				<v:cp v:nameU="SubVisWndwSillDepthOut" v:lbl="Наружная толщина подоконника" v:type="4"
+						v:format="0 mm;10 mm;20 mm;30 mm;40 mm;50 mm;60 mm;70 mm;80 mm;90 mm;100 mm" v:invis="true" v:langID="1049"
+						v:val="VT0(1.9685039370079):24"/>
+				<v:cp v:nameU="SubVisWndwSillWidthOut" v:lbl="Наружная ширина подоконника" v:type="4"
+						v:format="0 mm;10 mm;20 mm;30 mm;40 mm;50 mm;60 mm;70 mm;80 mm;90 mm;100 mm" v:invis="true" v:langID="1049"
+						v:val="VT0(1.9685039370079):24"/>
+				<v:cp v:nameU="VisWndwHeaderHeight" v:lbl="Высота притолоки окна" v:type="4"
+						v:format="1100 mm;1300 mm;1500 mm;1800 mm;2100 mm;2300 mm;2350 mm;2400 mm;2700 mm;3000 mm" v:sortKey="03"
+						v:invis="false" v:langID="1049" v:val="VT0(82.677165354331):24"/>
+				<v:cp v:nameU="VisWndwAlongWallOffset" v:lbl="Смещение окна вдоль стены" v:type="4"
+						v:format="0 mm;50 mm;100 mm;150 mm;200 mm" v:invis="true" v:langID="1049" v:val="VT0(3.9370078740157):24"/>
+				<v:cp v:nameU="VisWndwOperator" v:lbl="Размер оконного привода" v:type="4"
+						v:format="300 mm;350 mm;400 mm;450 mm;500 mm;600 mm;750 mm;900 mm;1050 mm" v:invis="true" v:langID="1049"
+						v:val="VT0(17.716535433071):24"/>
+				<v:cp v:nameU="VisWndwSpring" v:lbl="Высота оконной пружины" v:type="4"
+						v:format="1050 mm;1150 mm;1200 mm;1350 mm;1500 mm" v:invis="true" v:langID="1049"
+						v:val="VT0(41.338582677165):24"/>
+				<v:cp v:nameU="VisJustification" v:lbl="Смещение окна внутрь стены" v:type="1" v:format="Влево;По центру;Вправо"
+						v:sortKey="05" v:invis="false" v:langID="1049" v:val="VT4(По центру)"/>
+				<v:cp v:nameU="ShapeClass" v:lbl="Класс фигуры" v:type="0" v:invis="true" v:langID="1049"
+						v:val="VT4(Компонент здания)"/>
+				<v:cp v:nameU="ShapeType" v:lbl="Тип фигуры" v:type="0" v:invis="true" v:langID="1049" v:val="VT4(Окно)"/>
+				<v:cp v:nameU="SubShapeType" v:lbl="Тип окна" v:type="4"
+						v:format="Маркиза;Стеклопакет;Двустворчатое распашное;Садовое;Ролики;Нижнеподвесное;Жалюзи;Венецианское;Поворотное;Одностворчатое распашное;Фрамуга"
+						v:sortKey="04" v:invis="false" v:langID="1049" v:val="VT4(Венецианское)"/>
+				<v:cp v:nameU="WndwNumber" v:lbl="Номер окна" v:type="0" v:sortKey="06" v:invis="false" v:langID="1049"/>
+				<v:cp v:nameU="FireRating" v:lbl="Степень пожарной опасности" v:type="0" v:invis="false" v:langID="1049"/>
+				<v:cp v:nameU="SubVisWndwFrameDepth" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="0" v:cal="0" v:val="VT4(200 mm)"/>
+				<v:cp v:nameU="SubVisWndwFrameWidth" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="0" v:cal="0" v:val="VT4(50 mm)"/>
+				<v:cp v:nameU="SubVisWndwSashDepth" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="0" v:cal="0" v:val="VT4(50 mm)"/>
+				<v:cp v:nameU="SubVisWndwSashWidth" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="0" v:cal="0" v:val="VT4(50 mm)"/>
+				<v:cp v:nameU="SubVisWndwSillDepthIn" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="0" v:cal="0" v:val="VT4(50 mm)"/>
+				<v:cp v:nameU="SubVisWndwSillWidthIn" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="0" v:cal="0" v:val="VT4(50 mm)"/>
+				<v:cp v:nameU="SubVisWndwSillDepthOut" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="0" v:cal="0" v:val="VT4(50 mm)"/>
+				<v:cp v:nameU="SubVisWndwSillWidthOut" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="0" v:cal="0" v:val="VT4(50 mm)"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="AntiScale" v:val="VT0(100):26"/>
+				<v:ud v:nameU="visBESelected" v:val="VT0(0):5"/>
+				<v:ud v:nameU="TextAng" v:val="VT0(0):32"/>
+				<v:ud v:nameU="WallOpening"/>
+				<v:ud v:nameU="LinkedToWall" v:val="VT0(0):26"/>
+				<v:ud v:nameU="3D_type" v:val="VT0(1):26"/>
+				<v:ud v:nameU="3D_model_id" v:val="VT4(окно)"/>
+				<v:ud v:nameU="VisWndwInWallOffset" v:val="VT0(0):26"/>
+				<v:ud v:nameU="SubVisWndwShowFrame" v:val="VT0(1):26"/>
+				<v:ud v:nameU="SubVisWndwShowSash" v:val="VT0(1):26"/>
+				<v:ud v:nameU="VisWndwOpenPercent" v:val="VT0(50):26"/>
+				<v:ud v:nameU="VisWallLineWeight" v:val="VT0(0.0033333333333333):29"/>
+				<v:ud v:nameU="VisWallLineWeightInch" v:val="VT0(0.33333333333333):26"/>
+				<v:ud v:nameU="VisWallLineColor" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VisWallLinePattern" v:val="VT0(1):26"/>
+				<v:ud v:nameU="SubVisWndwClosed" v:val="VT0(0):26"/>
+				<v:ud v:nameU="SubVisWndwFrameToWall" v:val="VT0(1):26"/>
+				<v:ud v:nameU="SubVisWndwShowGlass" v:val="VT0(1):26"/>
+				<v:ud v:nameU="SubVisWndwShowHeader" v:val="VT0(0):26"/>
+				<v:ud v:nameU="SubVisWndwShowTag" v:val="VT0(0):26"/>
+				<v:ud v:nameU="SubVisWndwShowSill" v:val="VT0(0):26"/>
+				<v:ud v:nameU="SubVisWndwShowSillIn" v:val="VT0(1):26"/>
+				<v:ud v:nameU="SubVisWndwShowSillOut" v:val="VT0(1):26"/>
+				<v:ud v:nameU="VisWallRefLn" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visObjectType" v:prompt="Window" v:val="VT0(103):26"/>
+				<v:ud v:nameU="visWndwUIDisableCodes" v:val="VT0(4):26"/>
+				<v:ud v:nameU="HasText" v:val="VT0(0):5"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="BottomBow" v:val="VT0(0):26"/>
+				<v:ud v:nameU="TopBow" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PreviousWallParam" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PreviousWallDir" v:val="VT0(0):26"/>
+				<v:ud v:nameU="TriggerOpeningLink"/>
+				<v:ud v:nameU="SolSH" v:val="VT4({5D50005D-537C-4738-9C46-130C74335A6D})"/>
+				<v:ud v:nameU="ShapeClass" v:prompt="Компонент здания" v:val="VT0(3):26"/>
+				<v:ud v:nameU="ShapeType" v:prompt="Окно" v:val="VT0(45):26"/>
+				<v:ud v:nameU="SubShapeType" v:prompt="Венецианское" v:val="VT0(0):26"/>
+				<v:ud v:nameU="AntiScale" v:prompt="" v:val="VT0(50):26"/>
+				<v:ud v:nameU="visBESelected" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="TextAng" v:prompt="" v:val="VT0(0):37"/>
+				<v:ud v:nameU="VisWallLineWeight" v:prompt="" v:val="VT0(0.017361111111111):29"/>
+				<v:ud v:nameU="VisWallLineWeightInch" v:prompt="" v:val="VT0(0.86805555555556):26"/>
+				<v:ud v:nameU="VisWallLineColor" v:prompt="" v:val="VT5(#696969)"/>
+				<v:ud v:nameU="VisWallRefLn" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PreviousWallParam" v:prompt="" v:val="VT0(0.46333333333333):26"/>
+			</v:userDefs>
+			<title>Окно</title>
+			<g id="shape87-194" v:mID="87" v:groupContext="shape" v:layerMember="0;3">
+				<title>Лист.87</title>
+				<v:userDefs>
+					<v:ud v:nameU="Overhang" v:val="VT0(0.2):26"/>
+					<v:ud v:nameU="visBESnapObject" v:val="VT0(1):26"/>
+					<v:ud v:nameU="Overhang" v:prompt="" v:val="VT0(0.52083333333333):26"/>
+				</v:userDefs>
+				<path d="M0 1684.53 L51.02 1684.53 L51.02 1674.53 L0 1674.53 L0 1684.53 Z" class="st4"/>
+			</g>
+			<g id="shape88-196" v:mID="88" v:groupContext="shape" v:layerMember="0;3" transform="translate(-2.83465,-8.50394)">
+				<title>Лист.88</title>
+			</g>
+			<g id="shape89-198" v:mID="89" v:groupContext="shape" v:layerMember="0;3" transform="translate(-2.83465,2.83465)">
+				<title>Лист.89</title>
+			</g>
+			<g id="shape90-200" v:mID="90" v:groupContext="shape" v:layerMember="0;3">
+				<title>Лист.90</title>
+			</g>
+			<g id="shape91-202" v:mID="91" v:groupContext="shape" v:layerMember="0;3">
+				<title>Лист.91</title>
+				<path d="M0 1683.78 L0 1675.28 L2.83 1675.28 L2.83 1678.11 L2.83 1680.94 L2.83 1683.78 L0 1683.78 ZM51.02 1683.78
+							 L51.02 1675.28 L48.19 1675.28 L48.19 1678.11 L48.19 1680.94 L48.19 1683.78 L51.02 1683.78 Z"
+						class="st1"/>
+				<path d="M0 1683.78 L0 1675.28 L2.83 1675.28 L2.83 1678.11M2.83 1680.94 L2.83 1683.78 L0 1683.78M51.02 1683.78 L51.02
+							 1675.28 L48.19 1675.28 L48.19 1678.11M48.19 1680.94 L48.19 1683.78 L51.02 1683.78" class="st3"/>
+			</g>
+			<g id="shape92-205" v:mID="92" v:groupContext="shape" v:layerMember="0;3" transform="translate(2.83465,-2.83465)">
+				<title>Лист.92</title>
+				<v:userDefs>
+					<v:ud v:nameU="FrameWidth" v:val="VT0(1.9685039370079):24"/>
+				</v:userDefs>
+				<path d="M0 1680.94 L2.83 1680.94 L2.83 1683.78 L0 1683.78 L0 1680.94 ZM45.35 1680.94 L42.52 1680.94 L42.52 1683.78
+							 L45.35 1683.78 L45.35 1680.94 Z" class="st8"/>
+			</g>
+			<g id="shape93-207" v:mID="93" v:groupContext="shape" v:layerMember="0;3" transform="translate(5.66929,-4.25197)">
+				<title>Лист.93</title>
+				<v:userDefs>
+					<v:ud v:nameU="SashWidth" v:val="VT0(1.9685039370079):24"/>
+				</v:userDefs>
+				<path d="M0 1683.78 L39.69 1683.78" class="st3"/>
+			</g>
+			<g id="shape94-210" v:mID="94" v:groupContext="shape" v:layerMember="0;3">
+				<title>Лист.94</title>
+				<path d="M0 1683.78 L0 1675.28" class="st5"/>
+				<path d="M51.02 1683.78 L51.02 1675.28" class="st5"/>
+			</g>
+			<g id="shape95-214" v:mID="95" v:groupContext="shape" v:layerMember="0;3" transform="translate(-5.68806,-8.50394)">
+				<title>Лист.95</title>
+				<v:custProps>
+					<v:cp v:nameU="LPrec" v:lbl="Точность" v:type="1" v:format="0;0.0;0.00;0.000;0.0000" v:sortKey="2"
+							v:invis="false" v:langID="1049" v:val="VT4(0)"/>
+					<v:cp v:nameU="LUnits" v:lbl="Единицы" v:type="1"
+							v:format=" Использовать единицы страницы документа;.Футы-дюймы (1&#39;-0&#34;);.Футы (1,00&#39;);.Дюймы;.Футы (1,00 фт);.Мили;-Миллиметры;-Сантиметры;-Метры;-Километры"
+							v:sortKey="1" v:invis="false" v:langID="1049" v:val="VT4( Использовать единицы страницы документа)"/>
+					<v:cp v:nameU="ShowUnits" v:lbl="Вывод единиц" v:type="1" v:format="Не показывать единицы;Показывать единицы"
+							v:sortKey="4" v:invis="false" v:langID="1049" v:val="VT4(Показывать единицы)"/>
+					<v:cp v:nameU="LInchPrec" v:lbl="Точность" v:type="1" v:format="    1 in.; 1/2 in.; 1/4 in.; 1/8 in.;1/16 in."
+							v:sortKey="3" v:invis="true" v:langID="1049" v:val="VT4(1/16 in.)"/>
+					<v:cp v:nameU="LPrec" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+							v:langID="0" v:cal="0" v:val="VT4(0.00)"/>
+					<v:cp v:nameU="ShowUnits" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+							v:ask="false" v:langID="0" v:cal="0" v:val="VT4(Не показывать единицы)"/>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud v:nameU="Hide" v:val="VT0(1):5"/>
+					<v:ud v:nameU="LUnitsFactor" v:val="VT0(0):21"/>
+					<v:ud v:nameU="FormatString" v:val="VT4(0u)"/>
+					<v:ud v:nameU="LengthText" v:val="VT4(1м)"/>
+					<v:ud v:nameU="Length" v:val="VT0(35.433070866142):21"/>
+					<v:ud v:nameU="LPFString" v:prompt="Linear Precision Formatting String" v:val="VT4(0)"/>
+					<v:ud v:nameU="LPrec" v:val="VT0(0):26"/>
+					<v:ud v:nameU="LPrecInd" v:val="VT0(0):26"/>
+					<v:ud v:nameU="LPrecVal" v:val="VT4(0)"/>
+					<v:ud v:nameU="LUnits" v:val="VT0(0):26"/>
+					<v:ud v:nameU="LUnitsInd" v:prompt="0=Dwg, 1=Arch, 2=Dec Ft, 3+ = other" v:val="VT0(0):26"/>
+					<v:ud v:nameU="LUnitsVal" v:val="VT4( Использовать единицы страницы документа)"/>
+					<v:ud v:nameU="ShowUnits" v:val="VT0(1):26"/>
+					<v:ud v:nameU="ShowUnitsInd" v:val="VT0(1):26"/>
+					<v:ud v:nameU="ShowUnitsVal" v:val="VT4(Показывать единицы)"/>
+					<v:ud v:nameU="FeetInch" v:val="VT0(0):26"/>
+					<v:ud v:nameU="Feet" v:val="VT0(0):26"/>
+					<v:ud v:nameU="Inch" v:val="VT0(0):26"/>
+					<v:ud v:nameU="InchPrec" v:val="VT0(16):26"/>
+					<v:ud v:nameU="WatchLength" v:val="VT0(35.433070866142):24"/>
+					<v:ud v:nameU="DrawingUnitFactor" v:val="VT0(0):21"/>
+					<v:ud v:nameU="HideArrow" v:val="VT0(1):5"/>
+					<v:ud v:nameU="LInchPrecInd" v:val="VT0(4):26"/>
+					<v:ud v:nameU="DirArrowSize" v:val="VT0(10.668166666667):1"/>
+					<v:ud v:nameU="DirArrowOffset" v:val="VT0(19.378970703675):1"/>
+					<v:ud v:nameU="LInchPrec" v:val="VT0(4):26"/>
+					<v:ud v:nameU="LInchPrecVal" v:val="VT4(1/16 in.)"/>
+					<v:ud v:nameU="LUnitsFactor" v:prompt="" v:val="VT0(0):24"/>
+					<v:ud v:nameU="FormatString" v:prompt="" v:val="VT4(0.00)"/>
+					<v:ud v:nameU="LengthText" v:prompt="" v:val="VT4(900,00)"/>
+					<v:ud v:nameU="Length" v:prompt="" v:val="VT0(35.433070866142):24"/>
+					<v:ud v:nameU="LPFString" v:prompt="" v:val="VT4(0.00)"/>
+					<v:ud v:nameU="LPrec" v:prompt="" v:val="VT0(2):26"/>
+					<v:ud v:nameU="LPrecInd" v:prompt="" v:val="VT0(2):26"/>
+					<v:ud v:nameU="LPrecVal" v:prompt="" v:val="VT4(0.00)"/>
+					<v:ud v:nameU="ShowUnits" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="ShowUnitsInd" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="ShowUnitsVal" v:prompt="" v:val="VT4(Не показывать единицы)"/>
+					<v:ud v:nameU="DrawingUnitFactor" v:prompt="" v:val="VT0(0):24"/>
+					<v:ud v:nameU="DirArrowSize" v:prompt="" v:val="VT0(5.3340833333333):1"/>
+					<v:ud v:nameU="DirArrowOffset" v:prompt="" v:val="VT0(23.597261231019):1"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,0,0,0)" v:tabSpace="42.5197"/>
+				<v:textRect cx="31.1999" cy="1670.98" width="62.4" height="25.6036"/>
+			</g>
+		</g>
+	</g>
+</svg>
