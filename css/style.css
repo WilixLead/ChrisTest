@@ -11,4 +11,29 @@ HTML,BODY{
 #widget-list .widget-wrapper{ overflow: hidden; }
 
 #toolbar{ padding: 5px; background: white; margin-bottom: 5px; }
-#worksheet{ background: url("/img/dashed-cross-dark.png") 0 0 repeat; }
+#worksheet{ background: url("../img/dashed-cross-dark.png") 0 0 repeat; }
+
+#toolbar input[type="file"]{
+    width: 30px;
+    display: inline;
+}
+
+#toolbar input[type="file"]::-webkit-file-upload-button{
+  width: 30px;
+  height: 30px;
+  border: 0;
+  padding: 0;
+  margin: 0;
+  background-color: rgb(221, 221, 221);
+  border-radius: 4px;
+  background-image: url("../img/addimg-ico.png");
+  background-position: center;
+  background-size: contain;
+  text-indent: -99999px;
+}
+
+#previewImg{
+  opacity: 0;
+  position: absolute;
+  z-index: -100000;
+}

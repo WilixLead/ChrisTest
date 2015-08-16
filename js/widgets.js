@@ -128,7 +128,7 @@ var widgets = {
     });
     data.canvas = widgets.mainCanvas.toJSON();
     
-    $.post('/storage.php', {'save': data}, function(data){
+    $.post('./storage.php', {'save': data}, function(data){
       if( callback )
         callback(data == 'ok' ? true : false);
     });
@@ -137,7 +137,7 @@ var widgets = {
   loadWorksheet: function(callback){
     var widsArray = [];
 
-    $.get('/storage.php', function(data){
+    $.get('./storage.php', function(data){
       var json = JSON.parse(data);
       widgets.mainCanvas.loadFromJSON(json.canvas, 
       function(){ // When load done
@@ -155,7 +155,38 @@ var widgets = {
           widsArray.push(JSON.parse(json.widgets[o.wid]));
       });
     });
-  }
+  },
+
+    addImg: function(event){
+        var reader = new FileReader();
+        reader.onload = function(){
+            console.log(reader);
+            $("#previewImg").attr("src",reader.result);
+            console.log();
+            var rect = new fabric.Rect({
+                width: $("#previewImg").width(),
+                height: $("#previewImg").height(),
+                fill: '#29477F'
+            });
+            widgets.mainCanvas.add(rect);
+            //rect.center().setCoords();
+            fabric.util.loadImage(reader.result, function (img) {
+                rect.setPatternFill({
+                    source: img,
+                    repeat: 'no-repeat',
+                });
+                if($(".upper-canvas ").width() < $("#previewImg").width() || $(".upper-canvas ").height() < $("#previewImg").height()){
+                    rect.scaleX = 0.5;
+                    rect.scaleY = 0.5;
+                }
+        
+                widgets.mainCanvas.renderAll();
+            });
+    		
+        }
+        reader.readAsDataURL(event.target.files[0]);
+        document.getElementById("addImgInput").value = null;
+    }
 };
 
 widgets.getWidgetByWid = function(wid){

@@ -118,7 +118,7 @@ Widget.prototype = {
    * @returns {String}
    */
   _widgetPath: function(){
-    return '/widgets/' + this.name.toLowerCase();
+    return './widgets/' + this.name.toLowerCase();
   },
   
   types: {

@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="utf-8">
@@ -11,7 +11,7 @@
   
   <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" rel="stylesheet">
   <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet">
-  <link href="/css/style.css" rel="stylesheet">
+  <link href="./css/style.css" rel="stylesheet">
   
   <script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
   <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
@@ -39,9 +39,10 @@
     <div id="toolbar">
       <button class="btn btn-sm" onclick="widgets.saveWorksheet();"><span class="fa fa-save"></span></button>
       <button class="btn btn-sm" onclick="widgets.toggleEditorMode();" id="editorModeBtn"><span class="fa fa-pause"></span></button>
+        <input type="file" accept="image/*" onchange="widgets.addImg(event)" id="addImgInput">
     </div>
     <canvas id="worksheet-canvas"></canvas>
-    <video src="/123.webm" id="video1" autoplay="autoplay" loop="loop" style="display: none;"></video>
+    <video src="./123.webm" id="video1" autoplay="autoplay" loop="loop" style="display: none;"></video>
   </div>
 </body>
 </html>
